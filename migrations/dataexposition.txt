@@ -1,0 +1,1497 @@
+
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (2,'nTkGWjzZL7M7eozaovzcKe76kifZx3SfwZjXM8','This is a description 0891994','03.29.06 03:55:00','08.07.04 02:56:00','h1gDS',228210);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (3,'XCb5pS8bUNeDtat8kJF','Description number 4351656','10.19.06 00:51:00','01.02.11 01:01:00','7iP1BQQfdgLcCgJdUm6R4Z5pyOD5K5ZfwsarnvkZ6LWz8r6u8Dt60d70zaBtBBeylhw1L1ohsXhQ1LhiWrXIP1bjR4feZ0zDuJbmSNVIWM5Sv5nuTHjcyANGpFmPQUq01PqxZ',563020);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (4,'B2Dz0Mz5J4acyj','Description number 2553941','05.09.10 02:15:00','11.21.14 01:51:00','zehgeEdWD5zr2525FbYUDitPBUF058EYppA2t4kFDe5yDUs7MyFZ3SagIhXJMDI2UjdyRaeTijUDep1gxp8',135749);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (5,'3w3mCxcG5vpi36ysHt6Qo','Description number 6599694','04.28.13 02:45:00','09.20.05 08:33:00','TzyzZVzT0B0wVR1AEKkw83MjRBVkgH3YbeBoLAfyeb0TsrxlZHNLtBSm8IC8RHGYyWVd4zxrUKnS18MNjDuX',143984);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (6,'nSKGvhuP4cPZBNJ2k1SRBgsdKs8','Description number 3489636','03.03.11 05:02:00','09.01.14 06:43:00','YlCQTpdnuu0kkr61oJLlHytnVi8jr8ZroTP6c5OjvAX3qW3P8WxBXzAiCijWdFMWEYOikBFpviRZWJc2ZqtmLBIr7K8DUIn5FcD6bUyTfFFvv4CLNoFiv4LTSzzugfNw8wN2HAz3XDTh6Ye',642447);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (7,'D1kWBZNA6ewwQ1MeOfZolSyTrNZ1olMwkDGHvqSIyEQq','This is a description 6150977','06.22.06 07:04:00','10.11.00 10:06:00','u41WKlBUVLYkV3RbnPvEjODm',163830);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (8,'6WAmuyEvDpardQvmHmnesPBsH5GYeLGPgN7','Description number 6764076','07.07.02 08:09:00','11.17.11 00:32:00','twxYH00pE57oMcy3lyfUIOvppIfkUzKkCsB7tLUuDnNdojl6vuYhEeWc5DEon4FyDBH',490748);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (9,'7ka2etLdZb74mh8VZVgdqOTC','Description number 6560567','09.10.06 02:10:00','01.27.12 06:17:00','l5Mj27DvRX4G8huZ3uolg6iDaZHbEJvf8PB6iZwmeYRBCeKLNij1DjN1dUEvHqaXJlKvZ0MaNmV8vLRq7zCrWi04z7RYKUHN',365680);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (10,'f','This is a description 0886409','10.21.10 01:24:00','10.08.01 01:52:00','AtXK16d0GJyCtbuaYMbLHsw0bLatMp',78179);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (11,'gKU4nCgBffdYyYaVjtP7gVVTsEvoIRJJBmhlc1bUC7gga','This is a description 3637804','06.15.00 06:42:00','05.02.04 00:18:00','f1zeDyDbyy47hfAxFhDHBslbja02puoKu5C1JoQqjbaZQH8hocuej3E',424249);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (12,'kYaGaTkeP','This is a description 0567373','03.28.07 01:37:00','10.05.13 06:28:00','tPNZbwW01Ybx3Jf6rVEawoGAN7hsSbOW1ToUuPeftxtadBX8VY4KaZ6tZz5PVwLynTs',573837);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (13,'OzzwtpPMDmWoobLpHPSGcuMPtLFDzravASBc','Description number 2337472','05.19.13 04:47:00','09.19.14 07:38:00','xfcwQai6mWlmyvJdUQXZsnQWxIxJjROBP03JUJ73aoX7D0SPtJAq30CAT8Lvj7P75tjZSqYxT1mxBa3B7fMDgBPinXwz55A7dGZXaD202rGRVufrcnNh4C3eSFvxm70ukig7GAYmYk5WsY7jWcQaAXeKv',608848);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (14,'dhAQYkGuanvtlpnKv6ovjG0taZdU1YVe0clopvahLAMY','This is a description 2444473','11.30.09 07:29:00','05.24.08 08:57:00','VkwIOM3juPxmeMBUO2U0P5DlUF8QgwFIRO8JrsvjPhA1oKAsDpfhSv1cLHPb2eUExBxiLDnsoMlYIl7wiSiQHtadF3A',53228);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (15,'AFzDjIuEEXLKwarjO2MPVo6C7Askewa6etkGfT','Description number 9733809','05.27.10 07:35:00','06.17.10 06:16:00','nzuvL1mqTZLrWCRIhtbBewtmABPLhM8x6xiXQCDYhkpgtBxTSM8GqaTROFg3pe5NXDMJV5l1xKhknpQgVoSApG4dWBoFBdFOEvlsz3vLvqvB20RahsNdKRKiEs0BiD5G0be0WSr',81848);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (16,'v1Uc76IS4FSCyEiWVemxOQq2si1','This is a description 4829111','01.28.09 00:25:00','05.23.05 00:39:00','W03lTi',204477);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (17,'vSeiqSmUC8uSDTd3BpC6bcG','Description number 6893157','04.29.02 03:16:00','08.12.10 06:55:00','2FVCopljjp3IBROyFZLtsGpavBPWaVxnPGHjrbUigxDSrmQrVjbYHxfMNdWqwdguvovZC20ripOiuzCCRPIyfLU4zqkv6pbeGTwveXYTtZcIivW46bGQXe5aScLduKr8ug0KTV',534655);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (18,'7Va','This is a description 7068742','10.09.07 06:12:00','04.09.01 01:54:00','NxYNfLNSVRbWBv7r3bWR2MEtBwo27x4kG',86852);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (19,'CTCSAqFUQAommej8jluxqp0b78biCV5UDpOQMHIm6R','Description number 0326452','10.23.05 05:35:00','06.03.09 05:22:00','NsV1ZgZjscKL6YdR8IydUSqrSyK0DI16HVcu2zeUKvX8uN0Toxn6und7SOwF3ZJJPcw0lHLrheGYSsxRMhuF6d0HtAiYA5meuy0ZXGpeG5dPKanXOrropVIETtvL61Vsp1uxi4FQ',615235);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (20,'06djl5pgvjMkBWhe0iMgrD6gdgcIE7AWV6TB','Description number 8783922','10.09.05 01:26:00','01.21.01 10:41:00','xNiEw0p554n',588275);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (21,'1SXF','This is a description 9740113','05.20.05 04:06:00','10.04.08 05:22:00','s7dVbNSqfkSr6QkSbM0tms372ukyTszZl6aorBE2jeYLNd0bF5V4PIspQpMZuh8vw2MVm0z5iFfg1MPPxS',852759);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (22,'OicNu7wf','This is a description 4273873','07.08.09 00:40:00','05.08.10 00:54:00','N5pLofdkx3T2K3R3sLHfbUJrxTJrhzhlNxC04SBbOXiXLRaAl6EcuM8h7zQclfh',241238);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (23,'ZDET1FOqWJgpVStA','This is a description 0969304','07.01.04 06:34:00','07.11.12 06:13:00','FcilZFYaooyuZdzK54vEgF3IlmRjEHRN7EcTb5xKsQtWQBe5Byd2FBGfXrpnqHAN4BaGaVxgagg2Tm6NMNCl',402721);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (24,'TIWcsF6DaN','Description number 1078524','10.27.11 02:44:00','06.24.10 09:46:00','gN5POmylyRVu2Fhlk2Yeo1N0zkpd35bvGN3EAyGWCMZlVQfCjaZnF35K588BgvLZu46ddsiCNcESo2dofglkcRdT6rhsEHJPDpVkfCaSzmvNhDWKf',209547);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (25,'d8yn5','This is a description 6285633','04.13.11 08:10:00','08.07.07 02:09:00','HheQUBX8rIU53HeXfdKrtAggLsxehasa1',10578);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (26,'JcraSdj40IoOMV8Qi','Description number 7173104','02.18.01 08:48:00','09.04.08 01:40:00','PTJXNiIHq4o7uVdsMVTMAdT5q1u1yEEEbfPBsaN1',159836);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (27,'KnGUHQL0WcQ6nYsMwGtZvVby8s4n3KOoRAD2kbWZmDR','Description number 7704860','06.23.04 00:23:00','06.28.11 02:21:00','3Zel6UHp7uue3CFQGhhukYfH5T2yYjvyh6LeZBqWprRjISQZAAZxdgqiJXBEUcKae4SsfC6ULsXx0fxZZ0UcvBWEwGu5sRCwiLA5CfLhzYQO48SAvbDwESZPVsojFmASZWjx3Pwr',459892);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (28,'jGTRYPaWVwcLS6HVOIKtd8U','This is a description 0230095','03.13.07 01:17:00','03.03.08 04:02:00','73lDzbka0PFkEUolZEAW2HBZx8Ev5ws5RFUfdlT1akqJqCnraQ2BHtxLlsiyg1CnoyA4JnAXvZxT3GO0GhKZ8PLUiRJZx2ogzpjIu3xfMHXyb8r0W0xIN5tECWUw1o1zPnMQAOF7',599937);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (29,'b','Description number 0510895','01.13.03 01:00:00','10.03.12 09:53:00','xjSooUdICtl7xmZeClR7CqzQhHUMTvKfDAfxEz3Wh4g0Xh6aZf25ZsnxSfKEmoh2HSbJJ5UbBfxgBunUIl1JMlCA3Q3a',181859);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (30,'GTuRdSpwB1R8s0GKdZRMvK4P2dPjhSfKUMxp3sZMv','Description number 5607589','02.13.03 03:35:00','05.24.04 04:47:00','IO7HN',676855);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (31,'W3fMfK1JNF4PPQLLZjtixENqzd','This is a description 9997797','12.21.10 02:20:00','02.19.01 06:35:00','uEmMh4Iogu4tllI4SDPgqmJMjVQledgEA1r6NyAKxlUOUZx0qrOEPJNF71USLAl0ecLTGIKaHKPvkqVdFU5VbHsymdIIrtOs3pxXTeMs8erQY3EEEDLs',519183);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (32,'Z2ORcWiBlKrIU0h7Rq7Rh80R1jBVJbd','Description number 9328196','03.24.11 02:48:00','12.20.08 07:43:00','pFJDS8AhcRnqVO3vzqgi1NmwK4ei0bLr8FfjGNspftoENPwvz4Qd2EWC3aRDgf1GBw0iPHjN338e5',937095);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (33,'bVpF1kogZNOLHOdA2','Description number 7975341','12.06.13 03:15:00','08.13.09 05:29:00','izwaPjikYRk43pjsy',401382);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (34,'huDmsDLHETZMlg2YSyEBvdKiQmBTxlDHmXSITlmMMIL','Description number 9852900','03.30.00 06:58:00','05.07.08 02:43:00','zqPhkB3bs2LYfji6YqDY6k4S1e2ZP4j7jAbVyzkjnRLzsStBPVebDXJDw4O2osiTMzUG1ilaO68RY0cefMDX0BSy3pMg5keyydKg0hmozcit6LXAUO0VVoXd8M2vEvhAJIF7GFNtmWkLaxnXjOdXqR5e',862672);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (35,'bYersf6NrbkgRGCKaJJkSiMHo5QWCQjVTm3QAE0','Description number 6018144','05.16.09 03:57:00','12.14.02 10:37:00','WGDiy14WsqEs8rzCwQhBKwcnlMWYsI1FXFDAcy0U4CrIA6KauFi4BYOR53yn67KsY4Hhsyraqo2tIJGp5jCBhexA7fxaYNh8f6mh4jLWhqXObC7DY7qx',669870);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (36,'21bF1yW5tCColS8JGecKLsh0R','Description number 1331870','07.11.10 10:04:00','06.27.07 10:22:00','Ta6ois1eyW70wyGiaCO7ehMTV5wb2Trn8SIu1HlfRi71QzuKIIqvHTz41wrvygIrRmFXj6q6KbcsSRwFzDkHksyQPRgw8IQeE3gqt6gm4JNlQ2cbi8XnGzPo4gvsgIIUfjEmG',270505);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (37,'aRMX4','Description number 9333487','05.24.02 02:28:00','02.13.06 05:52:00','GLWDz1qLlr7p7DtBNoKdPK1e4NZ1R',414796);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (38,'7YBjoHt16lOYHO00L','This is a description 4155523','11.28.04 05:43:00','03.24.00 07:46:00','IdoaFoajS8m2SJ2sZ3LMic5dZoteRRFdPzRXRfxc1Vl2zU8M0JUGfBCy',986032);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (39,'hDWYVyyuqytmCseHRDo25owA4pEZMEnk6oe','This is a description 3103119','08.22.08 00:26:00','07.23.10 10:56:00','PrxnUQ7Tk85sMaBkPJ0Db3SUISJBqPrI6pLq8FxHIcqTMWGx7fPSZdCIhiCdIwTZZZOfzPk1Ze31nJw2S2l3pALvUDgdialGGzNN03Tgt6WfzFBvtxTNHhRra1uq58YmAi',8669);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (40,'1J3jnaEWL','Description number 7008232','10.27.11 08:20:00','05.09.14 05:50:00','OrokTIHCd8XDadi8zU4BKi4qNUWrurd7JCZDXEk3P3d0Sqla2rKmC0wtPWiwN6AulD1xO4QazSGxcMdk21uVr3XSsyAfOCgXVSyyLMoxNq8zifP5OosotHTcDsefWf8aXTEp7PSOoduaeI3YkG',541580);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (41,'dq2xYKPGr4Tn','Description number 7538932','01.13.09 10:30:00','04.16.00 02:29:00','PZfB4uBnjzYsxymPp0xjxOmzdJYcgdQ7w0rQMk1H',799026);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (42,'UdKzWtYbvkV8GjRSClz11ViDLsi','Description number 4615540','02.26.10 07:22:00','03.19.02 02:44:00','Vqg2gPqnqq3CuhjnhQ2XNIQA12Ggyh8K16rEYQp4vMKaTevlpDuWpgSWZtGSBhUpU4miIFntR1JPln1I6yUNuvUE6pB7KljrGLbLUSYwsZ3Y1RsmNyR0U',599773);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (43,'BQ6uJUA6EgSe4R05R55BL372pwz','This is a description 3178261','09.14.07 00:25:00','03.12.01 04:18:00','e1JK3chclZt3MwZQ4t6IRmyJVt4wOzbO4ani41cPE',761774);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (44,'2iwQXuZL1zJNaf8yOwNZ2T','This is a description 8322621','12.19.05 01:41:00','04.18.12 04:19:00','yFy37V7dQL0AB2BeBCMzSdydZfPiNMqerOAlWfJx61dMuPPALpoiMS6Z7YW7lZAemiltSfvnaq8SLp74BS0knpLMLzmULqbJdIWkp6y2t0dXsqkWNVAVUMZk',389765);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (45,'Az4FKUbmIzvVem8yA4ihvjmVh','Description number 0849718','07.26.09 06:49:00','08.29.02 08:49:00','cGJvKPxGO8ua8xPSd0i24SPR0Hpx2eaifvxgBeK',736002);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (46,'Nx4d7pLT86Gohms44u1EiIcNvmh7EvHlPm','Description number 5150742','12.04.03 02:42:00','11.09.09 10:10:00','subO138VEniAI3txxTQORfAY8d50JvkgPXu7wSENbYDN0n2DWbeElbUf4dh5wUWG02gDOBLsPzZBlMTgDueO1x6XxfN8xfTXNjeJAB4zKN3DCYHXhl7lCSpgpBupJJtP11Xb',610190);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (47,'3UYXy7eonikCca3CiAEcyptGrWy3J8Enx24ICyX16O','This is a description 5775366','09.26.04 05:48:00','08.24.10 02:35:00','3WESv8l5NTb2HC6SCISh1H6P',375468);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (48,'uplm3WPd','This is a description 9688056','11.17.04 08:00:00','02.08.04 07:54:00','QdA5zjbS0k2IX4dR6KjvHTv00cneyyCKEHx7fhhAuB0QATaoHp8LGDxLj0Eqe2SSIdcice7gQKK3Yql4FtxMXPR1Y3EMqXbWScHU7reMLbBZZQN3SoMnqhJTeXeOH1W6Z',322676);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (49,'7zpfwOQIB3JX7RHDLjwup80Mxyn7JoyaBEHTCyFvq7','Description number 8827273','10.16.12 07:06:00','06.08.12 05:21:00','ake6mnavprFc',351735);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (50,'Jdsr3B2Qb','This is a description 7689307','07.28.13 03:19:00','07.08.03 00:33:00','03NrUkUupeTtMLrgvQfjrEgtSZw1s3mTE0O8WvZwaeSLJOS53l8qenHEuiuQmrEO4moJkTQHS8PqmuCgarDgGNP4NhB0NYX2K4RBDUxDHHG8K0TX3zIVDl8A48PdeaxTvX641sxo',30006);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (51,'7fPGvm1XIYWauxiJK54x0','Description number 3436194','07.20.09 01:53:00','08.27.12 03:41:00','BsvDjLDxQrSIFJknFckjB',398921);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (52,'I','This is a description 6342663','06.05.14 09:30:00','01.28.14 00:10:00','ZGcFvRSqhXsSW3jANA5qaZfEhBhef8WvaEmewLBL4KFQSgKw145BLZ385Iw6kJ3wbz6waJlFohYVlVV8peR3',57809);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (53,'sxhyXf5CtLlyddDrnLOukWztZyQv','Description number 1355554','07.22.02 05:36:00','12.20.02 10:09:00','2bGJipJemlo1qMxK5SDq4oErO0nRrVDmHE7MxqbRuPk6GWQONKrPKeS7kk',122107);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (54,'fFpMjM3s','Description number 4812194','01.08.07 07:13:00','01.10.07 03:16:00','bnqcWsfmM4SRK7L3j3sHIar3kOJQdclSRotFMrXyGj2Rsi36WqyEDGyoo',212922);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (55,'WbIoK8A5CdU','Description number 8636428','06.28.12 07:51:00','02.19.14 05:29:00','1dq5VkOgVPNC8MTpAqXR4ceMH0skPoz8mCP7oZPpFvien3GZVVQeupnvOwjmYnfQiocRKgGd6p',258106);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (56,'Qqy5a4xyQMvARGJFRxFJSnzgMajWbgyQxWIbzhy','Description number 0981857','02.12.10 00:20:00','08.28.14 10:38:00','xUYxXhrHNNfPtxoGng2M3pA1amU4AXKTxHBJFapnHegHQ2s43OBl6Avvz8daKgXgjHD6nxBR43pgtLLv3RFe6YmgoIscAn8uS2gg',975694);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (57,'2evno3HyWlb','Description number 3612146','03.16.02 04:03:00','01.19.11 04:01:00','UL0xMIJxKtsX',886205);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (58,'JpfHHuyXM8KhgSo','This is a description 1559882','01.16.09 04:47:00','02.01.07 09:27:00','2KFAQo',893147);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (59,'1lH','This is a description 9340736','02.05.09 03:19:00','09.18.08 06:25:00','kjxNbQN',954634);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (60,'vFJs1hBEReLDGtbxEouMimdSg2K1nnCzI3HczgwVzXjM4','This is a description 0505070','02.24.03 05:06:00','11.29.03 04:44:00','jkz18R0yxmn7QqGeKeY3a6ochsxjLVufofTDryZNBC4cKrBPNJUqCbhfc7plA6yu',718207);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (61,'7AcGFvT276EnwTFl82B48Uzw4mSquZYyj2mva7','Description number 0936994','06.14.13 04:25:00','04.08.00 02:28:00','XOaulqJXNIMWBH3H3jBmYnn62QEmj74ramHyjSuHBGkh43ggvXMpoFzvcElrhz7uixXsIHUrbQc0gBaexSurakrthZ5j14GUHKKOmIwZhhjaPby27IAoMvhyuZyEGgZ7SuVTOTkWjpLGHyDNyYvmC2jjIF7',656370);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (62,'dhQlzkztX2Hn4qviBJliDWe8MlkmzxQsdEhXxYWbUiVXe','Description number 9494012','02.07.04 10:11:00','05.03.14 07:36:00','r6uFxVvv3w7SHmY5jnoq21skI0Vh7r7MtU5jKEGhwWdvLD57rs66znvv8UCIfEBc8kyOt2',996401);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (63,'26xOZLIJrCheEAaJdYDMXExMqOsofQt','Description number 5908052','11.30.13 01:23:00','05.24.13 05:35:00','aG7mrrXqfdoRLG1TXpDxFzZFV4XPMbXoyF7uqFcERDeWNQNU0zpeZwodp4NG70QrNOI3NpciP3xLxahHETe6g7pupImekBRNKcsJLqXbTdFClR6bO5b7nBLGdqU2A',762501);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (64,'U1tyMRTe4TlCwMcKV5w7','Description number 0034913','03.17.14 04:48:00','05.08.07 03:55:00','uJsDL6pod3hkxQIu0kRWa26VwJZkwxHdz3YhXwUPon4bHa4hDjuyFTr1Eu1S7qORTeX2jXz0uVji3HZGWCTMTYkqTluUeZgA4MR11F4TJlbWFniWPnJuZdMGQpZN4RmlxzFfWg3',428345);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (65,'5fEszVIKte6UMwLTz1n','This is a description 7328745','11.17.11 10:02:00','02.26.13 05:32:00','Nq4ayjZg',465538);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (66,'fWkInVtgFOuLFxMfI6PIiCwtby0If3U0qfKgyjiW0V','Description number 1621138','09.20.11 06:29:00','02.04.02 10:08:00','A7mDV7FCKXtWQlBUhvXqAqAa7Fgp3Mrh2fHBOOwwKfuLeGFwbnYvpHFOyqBFQ6ETTiFwVyk1mA8xRVGHPTAwRYsC5siuwRB',760607);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (67,'2kRIky1U','Description number 6101118','12.17.08 03:12:00','01.04.01 05:23:00','k6HnBiIgXtXpbrvdpBTuQqTRfoWYYJ6asP0MjMlwiEc',288227);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (68,'BqwVAmsE3OxAEZLRyOyqpbUPmvbfGSnc0Bdo1Z','This is a description 2845617','07.12.08 01:43:00','06.18.12 04:09:00','ODQ58u8XRKKHOYasjDRJWRzIvQkLTxsHPN8VDPc7dLvJoaGn1K48GB2wbZ5Oin0ipB3VmRD0PKzh4VhOfCK4BMKnV07ypIs13st',697381);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (69,'7AFHbtkSiOrsOvUtXPpDblzSkIxQldvzXSEeXRmt5','This is a description 6552032','03.14.03 09:34:00','01.04.03 10:44:00','lBNHtAcDuJ1b8iAdtOCiOP3tEjh7SbSqtgfDArs03fIMy7m',762853);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (70,'zdL','This is a description 2205329','04.02.04 03:00:00','03.30.01 07:52:00','F8363eLr6bb7ir6OoaMbWXrUKvsfYMxMzn2jlGb2mIQN8gEVKgpePIjgRTOMlAt5FEHj2VeHL45GLjwHY7jrOjU2DFEQbDyO2XtQVlBYWPjYb4T2CNb30IVPWI',424913);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (71,'7jCrZodNle66tvPACUxqpIrVuweCoHZd5xpJcLOa2','Description number 7809823','02.04.02 10:31:00','02.06.06 02:27:00','1lPY1pLAl45NzNDGZF4NbmJDh08nryeTBQ4uyPGNHcWNWHq4OGn',37891);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (72,'27HOjqGyef4q0PmO7Gk75OVnmWVV3VA','Description number 7172109','06.16.07 07:48:00','06.03.03 01:11:00','B',149181);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (73,'teY7PLKtbnxCU5aYmFAsIrkOdUNZOuSArEkxySYA','This is a description 4940077','03.27.09 06:43:00','09.09.13 10:18:00','mCXhN6GQEXJbJI4ICi3',932006);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (74,'c0CRqGWrYuKJHjvYPN2vQD','This is a description 3814082','09.23.06 09:31:00','05.30.08 10:21:00','guY0wZ57BVrrWLcMIVz5Tnq38t2m5EaCPUcTjASAuWIFAzp7KQqYjHzeRzd642w0I2pvsDjs0m3j2arUbMym1boY6tD1cOwIHNQCN68BNnaiUfuPQku8IDvBkWwibi0uGGdGup',69809);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (75,'mbmmicitMGwfW6dX5KsKPd7Sxn7Y2ktaJELTGmGZB','Description number 4654150','04.20.05 04:57:00','08.08.11 06:00:00','2MMJvwgCIdysPRzk2WVObihUOuDwCls5LZR0LAeKUWTNSlk4p8hKx02dn42g4',35416);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (76,'n2mcnV5k0V0X','Description number 4848047','04.23.02 00:55:00','02.05.07 05:15:00','AOVJuxa8u11yUQ2WhXlUXu341BxWVL8hjNJ2Dty4JELZsbJv6fgGuSIrrHN0ZkiI5iBCyzRugmJb3Q2moalTNLMNjxgXTSJFJwaI4t0u3AYYFoDo4sZhg1noRWhnGEHffS',750146);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (77,'NKQG46jSt3pB8QKO2MEuGZ47UcpDFSnMZ58XIIT','This is a description 6993462','09.29.00 05:40:00','03.30.03 08:02:00','c5Hk0r5Z8A8QyzJfWYiplHH7kT3gEnPPH2TRZI1TOYUMxSiHEOyBJwkzXd7lnQjoS7NDPCx1miQ83jJ7CDiuowo0ottkaHGf0c1ZV',681763);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (78,'M6sqg3T7FnWmtfP','This is a description 0822371','01.06.06 10:28:00','05.28.11 04:40:00','JIqXTheWTXcReWYteYASS8QUaGZmRvk',807616);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (79,'bVzmOzp8nojgUWQewQTyIW8RmOuTCbte0p0zXR6','Description number 1284023','02.03.05 10:49:00','05.09.14 00:39:00','KWTb6MxX8hmnvQg5ExtY1X',81245);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (80,'IiZyhVunyY','Description number 9001372','11.21.07 10:41:00','08.23.06 02:06:00','P1pjsAI51aVqxR8UZLHUsc23kcFZQPv1VvIiabJWo7bueh0zeEHpwSkMpYgfzv8A5Kr0ZAwAc2V4pxp3vXzNSbw6jmJjxivc',781176);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (81,'EDEI','Description number 2072871','03.10.09 09:25:00','08.20.07 01:44:00','4hTWa0vkJA60jgPmwIzpxfHNBJqdNh2vnXWurpTSZcCWAgKxYenm21yCEC1JFsSGCDTdAkgoQLnFiD8WGGjM8ZLQUiE1gxvNRB5t3SLQwCU1aq4rm51',267944);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (82,'ulfRt4','This is a description 0997489','04.01.04 05:21:00','01.09.13 08:38:00','padqo6tIpCMtBXbgkoy8HBO3LF2OtHummT8TVFVql3iFrOfeRdmM8SndLLZMMMYNFRjJYYPKcG2v6kxsCw2ZVurbQ2ANNiYq1fqm0d7jAkH3gxkhUlION24QdLXqKJjKzIKu',277772);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (83,'VO4fyqqubGhR0ZLeLJwrO3YGZIjqQKtCyM2','This is a description 6579666','01.10.01 07:52:00','09.14.05 04:46:00','JyD5gNHMTfdHLLtkcirn',364461);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (84,'a6o5pL3kIvtqmiB4UDGUX5ff2xy3yLEdXX','This is a description 0471744','03.13.11 09:22:00','02.06.09 10:32:00','01BCKDYab8lhU4cpSC6YtJob86jBGtB28B5vOwrQ6p8KS2yaa7SylIaczW24yq68dXjxyKHXNl2C3hyNZOZFyNkXJnPqOr',279848);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (85,'JoGvPIn0g5bP52PG6qPSUlk4IoV','Description number 0756092','02.09.02 01:24:00','08.31.11 02:40:00','gRZQUWCp33riHilPVlq5oQw4gBHxwbt2dbnPfDr5MUk5y7n0Xr1b447ydNlVbgtEyKYNEDKDZmyxPno0RDogjc',826477);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (86,'t5DiZEOK5rwfk6uIs4saWo2JEwSieT','This is a description 3660597','09.24.02 10:54:00','07.31.06 04:54:00','ayRSvPbKEThloiTKdJlHbfc5DPXVKiQ3ramVBKMFYlUvrpI8DF8yw2yEnopIf4eohSkxLv1o6NRHtlRsLLaa5uiHlyfwfMaMsmYl1daIMhh78PG3rDD',643713);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (87,'Ic1jqshzFineQKYYEzDTrGiHeNX6Mh0dTIBUV4Tyf','Description number 1735449','04.04.02 08:38:00','07.19.04 02:58:00','Jy3DMnZUH6aaEShiS5f7a4lJvVIXfrqOblPR8Qzqfm6aWKePA0V36qLgTzF4ROxZ0gvS7iG7loJLgZ',659412);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (88,'QEZP4aIRgudcq5JW5','This is a description 4338361','10.05.13 05:26:00','05.27.05 02:33:00','fEVyJpi6h1mMlhXIbKQJhGRfe4M3m7FiYV77cyUJCEMBmH0AK6bVUjgYDXI7e1lfo8tz6gKTdsdtIYtvLOoepKnuf0ltnWKO4XRPFTfcf3Zr0VbkzQtZG7NLjerkBYwtxJyW0EX',217249);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (89,'1A8lHUj6ctI3KSicTKEbtqpbks3','This is a description 3202798','10.17.10 07:28:00','10.12.02 10:23:00','w',117871);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (90,'igthdVH4Pfd4N87PCnIFDHh6BtGxTfkwy6HzNm','This is a description 8488789','03.03.06 09:45:00','07.26.10 08:31:00','zTKCRGWcBCJVwlkOFyqX8yaocYIilePaHXYKSu2DGN3KuKf7A5nbdJ7Ot72DERM1t6AmQATOftG5FODk',27000);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (91,'xDD8CxiJV7ewDfJ2QpCpVB5SCRaxzITT2FbhAz','This is a description 4475191','03.11.07 10:41:00','05.22.05 09:44:00','tZyehM8ZXI4VlhVwQuuZhJ2U6mwHcbtpp3Rnx',184521);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (92,'hIjRaqVay3dWNvVh5SEVlFNxC1ZZ2d1mv','Description number 6481581','12.31.12 10:55:00','11.27.07 05:55:00','ZfMYTrBH3KOyLx1TQnsC5t3rRSmbX6TLEQK2MjgGXpopPQuxMcy6lcdPo0hbaWlNmFERYLSFSlXlNQYZnImygG',482873);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (93,'fvt','This is a description 6794818','10.29.02 02:17:00','09.04.14 05:21:00','zA0YiL2I0u7ls1NJgabuPXp7znWqsjhIJMxK3hYjqBPzdA4RjNaCMJsXW6hxFpWm4YxOf0IVy6rT5z0bqdDlVbDMaaH3EfwFdKZWlPIXCMcmYEo5WaACle17HMzVaByDMS0GplsPl',344866);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (94,'elN62SLzg8Gm','Description number 6474463','10.01.07 10:04:00','08.02.05 06:41:00','ON6WuaU4mJhi57n7xXRPkcfHxfqz6FfHBKvCe2j02uhif1A8bsnuB1PAf7BRaoAsYwLI0n1Csb3of4TJiTMVDHRL13evg7XGrPEMkgQ5tb5I8n3VPeAHrphGOyY8O8T2LGlwKpeKL5CTVkyDCYX',29297);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (95,'3','This is a description 0868168','09.17.02 01:13:00','01.25.08 09:07:00','VHq6h1uOiJYyL1S3mzAlHmAwKcndf25oKA18JIGHUwyUFRpqRoZdDLUDRzqh1nYdzlCIK7nVNStaNRO8Kp4bz2inc0maSY4JkzanyT4mOStIKkNy6wk5aje',32616);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (96,'7FOsm4Va5nTc8WqCEeB2x6MesVujZYaw8yFPjvqU','This is a description 5868788','04.15.01 09:16:00','01.23.04 00:15:00','QHnlhEQj5lpjN5GZ52faMFbKS8mKGNx8pwu0mgJ5GLh1',525999);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (97,'ERBDVr7pl0mUf5A8W2FpPu2bfCkVZUq4SU','Description number 9951828','09.16.01 10:12:00','10.05.00 08:53:00','hRjLASZCcDDIIgk2nAv5u6UZLBmVFloZvnUsCSMOBHZIlYDfTyMsIawmCs4yInbk',416998);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (98,'r5mEnmVm2LHNWdRXT','This is a description 8624570','10.19.04 05:41:00','01.02.03 02:33:00','JJIrTqZzLH1j1BgGKTL4EZYgMZSPVvERe1ZXLpJV7tpJCGGSrxEyxoEoOqpRicfqVRmDIC0VdvSAkyGpNXfPV8',226314);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (99,'RibX5jrajiwZFjJI7iY5ZFQiFJ3KJcPUpKZQEyho0Tv','This is a description 5989359','09.25.08 01:44:00','02.27.09 01:07:00','WnS7Y1soKz4bJKvLqXMf3daekV',908490);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (100,'TB5','This is a description 9846998','01.06.09 00:58:00','09.12.01 06:28:00','AAzbiG5sFJiiN2fJByryTLj4yuuj1Wdv',191242);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (101,'5Ye5OQqfiXpXHLfg27bIvaw','Description number 5986497','06.17.01 04:27:00','05.25.04 06:23:00','AqVf0Ik1ryXji8BjmSoU2xEoFG3oxa2hAGfhcowEckODNF77HPZoV2bTERc4KmUtcDKOMFX2cWT1SeSCWS1HyzPIRXsgIdfaMAdSwzqXvo8N6TKzcIhJ7xkbWwcLPu',349363);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (102,'CuLPr6guezeTbQSaLiCR','This is a description 3653043','11.16.09 06:49:00','02.06.14 05:30:00','mggxonlw3LMQ8VfF4npVwkoTJXw1myjXHuEaaIFuegtn1GYgedKssU0jdiGliqWnkr6Ygbixq387U8kdZTPahu282YjmnKDFtZ36pWnGfsSSeUdgvc43',945057);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (103,'kqbYU766Ybbi5L8clcrjC0pPU3KyhfoPrtlQ52','This is a description 0349497','03.25.12 10:39:00','05.13.13 00:09:00','KwlcU4ab',323370);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (104,'vNsuKt','This is a description 0004504','02.27.04 00:46:00','07.18.14 09:47:00','v4STTjWsvrOzrMxC77vrSYsGnlPu3eLBXoJmKMDTIBeHzh2DRdlnxTapLJepC72SvI21nziKs4LpE7zMMInKXd22gLOV3BY3jiuZwQh64qTPGfG6Pt3GojQFLNpbwYyP6I',448559);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (105,'ohvpgB8cHunCITl6VLNqMOYNm1SMsufIchHqmsEcBGWv7','This is a description 2310020','05.05.09 06:02:00','05.30.14 05:07:00','vlW6Ss778CgeciDnH4rTS2MxecUot4bE6GNgC7soHhOmO6Rw6GLOKzLXZU',130938);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (106,'57mN874VH0Iz6XCxX7u2DM4yhegJFIeIXKaQnlN','This is a description 9214495','10.17.11 10:28:00','07.11.00 04:26:00','ID6JEJ7S8caeOPrNB6nifSU0VTiMeCGSSUbuuyxNnAmeuPfht1OCz',30860);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (107,'RnNS','Description number 4954083','10.21.01 09:06:00','12.11.05 01:14:00','OboJviqyHN4A0WhV8QoKS0wry3actezrwj6QKkN8yxFS1vpPrT7YV73RFfSweDL2xrpSplBdE',175918);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (108,'ZV','This is a description 6665239','10.08.11 09:16:00','10.08.05 08:21:00','uqekByQmlyN0VpzBPBQCHkeWQ4zRj2rUKPJqcEAFnE3BprA6vmDMgASE',762600);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (109,'2UOUWlQcN0euJo2bvYfx4IQVKpQj','Description number 5644610','02.01.13 02:18:00','11.18.05 04:43:00','YU1mEGMqTdBDIeKOLhwLU55hWqMMYQdgs3Bgx',169525);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (110,'pscmBD6quzIBudsb7StKbuyD8cskjhKRZGiuTAB3','This is a description 7921845','07.25.13 00:40:00','08.31.09 07:42:00','ga1UsY3pIBbhiGghRZTlaB322Am4B4lnDHjMcqqB1WMQAKPvVq',756373);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (111,'J','Description number 7801380','05.02.09 10:12:00','01.18.03 09:44:00','VHK1OUfYQqRrcpHdz4vqFO35X2',584498);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (112,'dW07TcDFYWkrG47Kp','Description number 4287341','06.27.06 04:32:00','09.14.07 06:45:00','H3idfaTOLw3hMF4uYa6TyD7BXzT5w8BYOxPEHGhN5Fc57JeYns0sQFAPIHvMhfOl3gzMfjPMDdC4Ni46lmY0xaIl7LAvwBJS7XUpbFiVydebE',123949);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (113,'DTyxkglURyL7mqikXUGkH7VstGdvvKJfbX6OXNQ','Description number 9906763','08.26.08 06:41:00','01.09.04 02:06:00','0n5pGOMbnnqukVTBixdkb4oXWh0u4lsS3pyaJOhsc2ak4KmGT0ECpNQOJyxDUaMZptC0keDRz821LwqKZDd4l4KutJLUusmTR42iX7GonIhGmGN',86607);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (114,'nthkqXZsFA6l0xzM4lSgEZTjj','Description number 6016963','01.09.01 06:02:00','03.20.05 03:15:00','xdDzHBZLZ8',435189);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (115,'VEo3NQA3','Description number 4389821','01.02.06 01:13:00','07.31.02 09:51:00','8fac5DZKCWxufy68Uy7nrov7LRjYtFiEJnNo7sTaGULCIsDIjZuftOLbsFHeMwlKj5pfhXyF3gsB821bHmTAGcorlSI5Fvc4wHrIcYkRdxTRHle',592015);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (116,'Lfq5b0ZGK','This is a description 7928305','06.08.05 01:33:00','10.02.00 03:32:00','3ntoE5nAQDWf7h4sAlyzDChuBwwjwZBXAgEPTuj0aSEd86ywKdVPa4tVanXrvjeMSLaE3MPPiExseMXuzqyWUcwzvo72FXyYStbO160sZhMurlUaYrgxfEFoejxyNwhxGce',453943);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (117,'quFbYtaPw7rVLcT1n6kKxVzYr33sD0O5d','Description number 5223988','12.17.03 07:37:00','08.01.05 00:19:00','kAUqem3w6koiRhqQ4lxOZc4IwPNECcPFIdrdboobkAheRXV8mVOcrU56yGDn8tGm8vUDJRn1ICNOOTaCt5phf40xGFezAC7d6i2RCMGYSAOZXyrPJpqr2a1iMEnPfeW',997293);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (118,'ZQAFG3HxAw','Description number 8681503','02.26.02 01:53:00','05.14.03 07:45:00','OGwC',802329);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (119,'TbgaEyD3sLK3bKDYv8W','Description number 2982634','05.13.01 10:03:00','09.04.11 08:26:00','OFwPomlaV4Y8NgnxCija',624413);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (120,'QStxtxCo6O2AsNvw678DNH65oC','Description number 1514078','06.12.08 09:32:00','01.01.07 01:36:00','Gs5nNZD8BmoleCbAULLicsXjOUYnLqpWX3laK2',506628);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (121,'i2DLSKec6Ne78vDm4o6N7eGCxToh3DTIQaAsCPRx','Description number 6129940','12.22.08 01:55:00','10.20.06 10:10:00','r5WTlTtAmOnpNb2sWY0k6VP8SjB6av0ZEAawDpYAyZwJBvOocTxSNQL',998040);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (122,'nZEHNvqN45gfsT602o06bb2jV5JXDf4WsOlfXf','Description number 9229940','04.05.08 04:18:00','03.12.00 07:42:00','Sn8q1RCA5ph7hvqa7O51Wi7sGB8pdBXvUj6pFZtcv27X0zXUsfEfBPvhPNLwTdf1kQxKOpO5aUk5qBcWvDrQEJ3d63no',555494);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (123,'RyXJ6zKAQSRfXMj8czzonnBBenDUpM5uploT2Fj','This is a description 8432637','07.02.11 09:49:00','05.04.01 04:01:00','g',305044);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (124,'q0shw83nvT6XyR7yVaEzXbaakTiv5j6k8wfjtaF4pL','Description number 3250608','04.05.09 05:44:00','05.02.02 00:04:00','8bIJVfoT1taZcTUoouCPPKOfxrYnUCFzOSLYrygFDs7N0Gk2nrPg1KA2DezfMwwm5VUnlDQukDmaMdEcTM1RZ8sbvVvIBkna3jcXPYwKeHXY4L6obDsgC3y5FoBbxS0cyWxIIlLFbhY',622832);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (125,'fISMFJ7oLOy3S6ZEmmW25jhmTChp3ckcr75Rxc','Description number 6626933','03.30.11 07:16:00','11.02.14 06:28:00','NdU0pzbw7wZfXBUJcYJqLk4oLlv4MNDc8Q868Y1hsU1qjnVBboJowPG2k4rkDdlnBiv',655090);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (126,'K0kf46Y2','Description number 9840673','08.19.02 07:48:00','11.08.07 04:42:00','lLBudXWyGn5LvP4T3rAToHBuEniUxNm376VrXUM7e5OXoXYnMl6X1KtLSKRiFHFtJNi3X2kGVkbMzP1eDiWTz4dVL8XyxpTN',883827);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (127,'4LkZpjc4BbCDNMtaucmQNMT0r','This is a description 8887366','05.09.04 02:39:00','10.29.00 01:09:00','XrU',356057);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (128,'UcQFMYLhicMqc','This is a description 9164596','10.20.05 04:58:00','04.15.12 03:36:00','7RuEuxCreGBy7HYT7dm2UIhhNLX6b0qTdcDpvE4wwv1S1RPo28RQKKTL6Z31UDD1bZhGXv1OcJHXgmXMA2ZzfirjSV5yooSAvDswCRu0QDnhtI2L7dszY',932428);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (129,'g','This is a description 9589926','11.06.04 06:10:00','12.29.11 01:49:00','ncEifPRBvmflNF34qGi4QoX7ZJZtJjS0y0oCyOWFnsrRr2dVqKtTOV7bPIRPVIuUBxwInZwLTQQ7BE8c0IC6r3Aai7F1CFr6PbezPPxuCsz5Xaovi',475021);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (130,'SjTSGNWbj8K62rTIhbpZNQ0SzQ6g','This is a description 9649822','04.02.12 02:10:00','01.12.06 06:00:00','cB0dV8CgaCo1',538454);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (131,'sfW4LEVrZjic','Description number 9984376','02.14.02 04:05:00','06.29.02 05:49:00','geuRYly',935664);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (132,'sTjQ06IwRPbMV05r8gcPfsQCQaJypH','This is a description 3252408','03.28.07 00:48:00','12.03.02 05:02:00','mEonWud1dXlkRcTGLrUImzDqNHhIfshhnNgkPpvvNZq8vBUn6OUBAsjyGwCqrAn55yccbcSAPgv1Mj0nbDo4Uqun7riEfpBGsNB3XfVZ2gB4ex4JArX0m1qfnCAz4NGf',647524);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (133,'GyB5lAts8bXBamPDOmHAbvQSXf','This is a description 7152878','03.20.05 07:25:00','07.24.10 00:51:00','ZHrUhN',676565);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (134,'gTWWg','This is a description 3563950','12.14.11 08:18:00','12.21.03 01:39:00','7J8cBUz',666841);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (135,'1DZHuoyYATYsA0b8mhMoT3GEZtUcAW4GZ6wj8','Description number 9316787','12.06.10 01:21:00','04.02.06 01:42:00','v1le8Hb5sH48uHYbv1ys3BlSAkDtUiN8T3HCXz7xaYlsUA62gkfbuzKGOyYQVOQoRGWcanfaOAcY6eFhwoIbcVOoPXcnqBBZ8O',145842);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (136,'PDylyIE8LS14xSg4','Description number 0340498','06.18.02 01:17:00','11.24.06 00:05:00','snQc4My7WhVgP1FoP',360194);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (137,'ntGHocEccdPqz0wX763TlWdXh','Description number 9741620','06.16.01 06:49:00','02.03.09 08:51:00','h4vTUts8fPqIXMKnla',160589);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (138,'QkRKPZQB7HUz7PZtUPAquF3ywZ0ozTCgRntF','Description number 3033848','06.05.10 00:33:00','03.09.07 01:39:00','cqmlcInW0lTLtdeDK4bWGShzJtSSscqCdYStySZ6TzmsFNrK4LXwnhIPM4mgaIgoEr1ctSw7bsb0g',250954);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (139,'ytbaDnt6qrBuqkngv46SWCdgrgM5V3','This is a description 2913687','04.03.08 08:32:00','08.13.02 06:02:00','zkqMxYwHgE4F3jjrfXoOab8bMfjtNNkYv0oyDdPs7UUZZzfjtGlSiKTTapFYJb25Hk06dRGNIXktreLeFZGrV13dq6GbATnj040z',343743);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (140,'F','Description number 4101724','09.18.01 01:44:00','03.27.13 00:36:00','PcZJghR4Js8wQ0H85v0PgCpgzumiYYZwqLPTq7wpKLNgIsHZYEL7BYS5MUdigW8BMRZEl86lyff2tYkhPwBs',154228);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (141,'Cm8qb22SRPzarp','Description number 1678127','05.30.04 07:29:00','09.04.07 02:46:00','gEjDsp1UjerPan0PVNwKtOXg8oBPbp1BKXhzklw3u2qOy0K6kH',628005);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (142,'HSX','Description number 1922005','01.17.08 08:55:00','10.24.07 10:13:00','IQUoBy84BTMsM',661859);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (143,'MHo6o7CC8FtScI6kdVMijFan1I4nhkOplXK5','Description number 1180549','07.29.01 07:54:00','09.20.00 06:39:00','XKw2Hnf4Pu2H4hbWUksXnNf0twc5cOk5uvTZULJVLmt7Nix3qjiwV5Dd3Ro4zo8NfJ',391718);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (144,'z7DGTG5JP2y1aTpXTCzq','Description number 3611421','02.04.14 07:18:00','05.13.09 04:49:00','oispSKkilmGjaEMviQBcXKJ06V1eX3QO0QKvxuZtG6YbiORp0qNgZTiqjC1BjKTNIRhqfUNpUwBRGAuJbP8t6MZGExbGcEDXokDKv8cKxtAfim2k727WgbR8rne7C',410290);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (145,'gZNBY1g3psrIsgpvBuKTxbRigjQ8qCrHXLpC1XX6','This is a description 9488213','01.21.02 09:27:00','04.15.00 01:17:00','84esBQAlFAq1ZhqszOKseF5eQAhZbl4MnXKNzryxO1UAbTKNlONy28SsG2cRKcxLo',495763);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (146,'lSwazVxhZBM7cVq','This is a description 0737015','09.02.03 00:56:00','06.05.02 06:39:00','b5xF772XQbzk3GOL43U1U4naFmWrBpj20VYYpUbMPzX3s0zvmZEpoRX77j18LCJzXg63GDxQ',693539);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (147,'gcGGlmhpZdifVxr56FdhMWreBvFqSBcUN0wQ','Description number 0422355','08.12.03 00:38:00','03.06.05 09:37:00','afYJk0qkqik0qkKXc2y7NGipM0wkDrvqXcyLtE5zvgrGGPaW5A0hQV0b0mtvP',203340);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (148,'Vdn0u6SxRQ','Description number 1817557','04.05.03 03:16:00','05.07.08 07:45:00','Us6leILYmgZ1V5dUS8bUK873DTnkCnP2iJ4JeeSi4wUBHzzwZqcV4SKwF6TqJD0aEKBBatIn4W3HriglSAOpJpkEMJxsuQFEpWDyD3FjZX4ePqjlC2RaPDSulApdXqBmsmLFCByqX5WADd',309458);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (149,'ghM8lrFotj6IoeXItcVgdeokdXpskmNHmzZWCWW','This is a description 1159375','01.01.03 02:42:00','11.23.04 07:53:00','OBk21bjqS7o2ovUxCym5GMTIuAsKRdzaeIivtEiRaHXQ47tBq8XBvUjGxt5VHoliXH7uSkVdTjopyNHgSZZpcvzQY4lEzhvmKSK3kaIM8prpqooyCU',316764);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (150,'6xb74u3uwsPG','Description number 8904214','09.02.01 04:19:00','01.03.11 05:14:00','4tzFFgfYtI73sYs5crPGuZWQR4N',703309);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (151,'A0KRseVebEpXJ8zoYzJoPoBWQBmrwUdg','Description number 5073180','03.04.05 07:41:00','12.12.03 00:41:00','jpXFdav4EuxcGbI0upgTMCEY3EQ5Sli5yQpJmqGK24nXkMNVb0HDNS2hfySBdso5EG75vl5CTlg5akW78gCXGWXr6cDyvOHJVHKMDZehTpCniFAzBFCVx3Y6PWNTewlJq2ChwvRYoEc',574694);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (152,'LFWkeXyw5doOF6H5eGaRjWUGUboDlFMcp','This is a description 6397428','01.07.03 06:03:00','05.29.00 03:33:00','b5T23I3gVZPtbE6xEUfGu3xS0t1pK6',876178);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (153,'blvxYbVfsptVHFyxj7rvXjVLBY','Description number 7490595','08.29.14 09:53:00','08.11.02 09:45:00','TWVSJaSqhWlCMywBKUZQQpZr5',855734);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (154,'4ClAXtaHxha5QoP0nCDFEGy','This is a description 6782670','01.12.04 04:06:00','09.23.12 02:33:00','ap6MA8mm71Nzo6ig',953436);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (155,'Njd6Ms8us','This is a description 7315738','08.08.03 09:09:00','01.15.12 05:46:00','BkeEasRWXtoMwCkSB0XXIUyvtpQgEQ4vvbtlHXqkUc058PLR6uCitOENPnyNZSeE7BEaG2sN5koDaWKTclHgP',462419);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (156,'zhHD3K5bQvVyMXiDENW34RzO','Description number 2372637','08.20.09 05:14:00','10.14.13 10:36:00','kx5FpSi1wSDsxXAr3Op8KqZ375BqhNIDN4EjZJB5zdsgZZVrz0kXvIto5WOAX8',749164);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (157,'5a7RDpqmSwIVkk3','Description number 7057785','04.12.00 10:08:00','11.06.04 05:29:00','mbfEMTAi3ztOOajz2UuIK6YDKrgRZpiirLotPLqcxbqf4tSpmU5WqsqRKDnDQE3hY2fRTtEkJZSQV4VjHG3jtwR2XCauEFX2J4Esw1OzHjp2YBxHYU3CPhXcfKnFhea31RiKS10I',817252);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (158,'DNqVgSyb8ZltSokCHWZMtWF1AANs13ErJ6CZ3D4uW6teV','This is a description 9422418','10.19.05 10:53:00','05.22.12 03:19:00','KU4TgTNsCgBi6UpcolArE73FMFKfCv3OXluLOj7MGmTGCTRg7bBxoPfME60oWyUeDUIwHkMN8lgmBTR8pZvVG4ZUH4SVbav2Vqu0BihD1CpYADEHXdpihRK',225638);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (159,'p2hMx58WroAHDxkAJRRGLSRAtA0PqJy3jX7erOcRRFR','This is a description 9556952','11.11.01 04:25:00','02.20.07 01:41:00','2m5jMpSbuEDaHSmLBCEJrcuo0OMylmaRuUVSuzqbILx0fcL8e0iQHK5qTV73IUSrCYYebDevug7nwiVX1w1',299426);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (160,'0M5vm23','This is a description 6616888','09.26.04 07:05:00','06.04.13 07:26:00','MFOG28rRjbZUQCPg3tobOIL7K3IiNPypchqE4eYxuOCjvG0B3el5IHWkBL05qDIALjthaOnAmrfefBh48smgmkswQXElHOSiK2JwRfNh8sTjw3yQxVLqBqZBUo',855393);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (161,'QXr5Qq8C','Description number 0804379','06.15.06 04:32:00','01.11.12 08:44:00','e0ujwETuPktlOuQAYdjKRGaTWoZoiirOMwuSBY3QNegomUh44OI83Ua5qSMCeZUjoTGYw4raJCjjbfKMzSuXJvZIrc5CSgbZSTRzHS24Y1OSIQbsTj482atMBsYmGDaAHpbwzrhKMidz8EkMrksj',994201);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (162,'a2KgHattBnPccb5xMwUU','Description number 7877532','02.15.14 01:56:00','08.09.11 01:28:00','LGHk0TBiukNHY3nsXHpnSlyGQfRulYux1m1YhrR5PyTDVjtdeihsIan1uHcMhDj8MsWC4Qd7OF2rQAKqfFIlaExkp5UflhPYyTXcipI',324739);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (163,'hxMCiRCegDoctrqqWz8j','Description number 5802128','11.17.00 10:44:00','10.13.10 06:08:00','ksr2M6bGGSWfj516QF3viYX6lpBmXrw7BjcRpk2nJGifLARZCQjaU3gq5TKxBpoNOP7SJlN0jC6OQ2Tg1GmeHsU6C4n0c3eEAScZHWpfu8riR',743794);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (164,'bUCTe3SKWua','This is a description 2478103','02.01.08 09:07:00','09.08.14 02:31:00','GfsDDDtQIIJZ226vNuo63XZ3Ex5mxJUHNsJpWMXlTRmpPaCM',831509);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (165,'JLinvK2Ddh','This is a description 6460091','03.01.02 09:08:00','10.11.03 07:48:00','1peoFwqUtTadr0MYKCq5X1RmhjuFMWTtXMOCorZTzmEKRbIeUuzVa4VRUNgs1uXnsU63JyZvF3G8K8PnfXIPHC4bI2vaaZlYiUD13cu5evFVI4g',330588);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (166,'iWbFFJ','Description number 4659038','12.10.00 05:52:00','05.09.05 04:28:00','qWzvfCtf7zTy0jhOxdvHLXo3vB3YrvhIeX8bK8wHjYCyaEXrgbFSQMBy',253687);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (167,'h0OJdXLer4zEnNJitql4DXkj','Description number 7162206','11.12.07 03:18:00','04.20.12 10:45:00','64PVleP0pvTlfMDvbwXeEr',72426);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (168,'wbhIWcBJUD','Description number 3249442','01.16.10 02:46:00','08.08.14 01:24:00','YLeyZ1sVYU8W0MjtpHO1Q14lqd5mNQDhBjUynfEA3EQlcWCtwFZg2VDKmQGcXCquprm88B2Z5w44uBgQtd',400821);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (169,'njYXX','This is a description 6489358','11.14.04 09:21:00','02.10.12 07:40:00','Etsmce50PV1cOgVpzCwopX8eFOCxTi2rowWgqgKA3qL55HzgNTLzAb25uEZ',143759);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (170,'2mPit6sjlwdFGVTPO5HjphFGDOsli5y7','Description number 0872954','12.18.09 00:06:00','10.22.12 05:28:00','3bGG4NYO8CcGAXt6JcLD11scAy73aaKulQp3rGaAVVLMQE7m5D5LrxmTYuwjn1Onbfd7Nh3SiGTa5IM0BubsTR3HgesAv87CblQWwuyHhtCGaIdk6bwvNCZDsbKm',660946);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (171,'5OM2J5Oy7DhCm0K1w1vXrAZe4VALTVnj1v','Description number 7004481','04.01.11 00:43:00','08.09.01 09:42:00','l8TQQPMflcIKruYJWJ51WzwAatJsBY8aNQXsI8SdwCRVXGopCEUgBKNz58EZ4NPGD8Nt3AtTIP141fQtH6JwtPYCCWpaZALvyHy4e6m08fvcyqBk0Tkl5pAlV5DJMQ1YHIzUjQ4KwLIBlIl',875428);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (172,'m','This is a description 0856965','04.05.02 07:00:00','04.23.09 05:50:00','jtgZL1QLJPuMs6z5TPEW22hcQk8tDV2wTWkMmJ0MD6WyzJ4hNax4h2wsEJCNvO878BQTOgpc2mPYQuBRrUKfQrbpzb1DQxT2Qq3mUF',840811);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (173,'zUv0d6XoU0W','This is a description 8781205','02.24.13 10:15:00','04.16.03 04:04:00','2NtO33nWOEWTiGcphs05sEQg60saRzpwZOFbEW0p6YN3qXSnoNetWOIw0EwASlQKkk3YIlRwDyULtAKExHrwa2cyup3VsEJHMe8oNjkndKfKq5chiJRenqPXtyJz7ysYfovwffxrkZmXatNUjrs',958021);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (174,'YiKrhw4W7ZHDs1FV','Description number 7132496','01.20.04 08:57:00','11.20.13 04:18:00','xvm',469986);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (175,'nZOVwFt0QMtriQvkmgpreXjUsqpo3d56dsm0C','This is a description 0948869','05.26.09 04:25:00','02.12.09 05:27:00','SW8DpYREKAvmBs2HqaNLodOYaXcNPYCH8QX',942649);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (176,'xnDC','This is a description 4588609','08.14.06 03:36:00','02.21.14 04:13:00','oKMp7diaITyWCRDJGJ7oaLxx6ADgaWmt1',492662);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (177,'ujiyxrDoDP6H2OnpjKiWTs6s','Description number 0073801','06.11.06 02:34:00','10.30.08 10:10:00','xY6uy5YpNsqJyrED2Wv4NlDe6nhEhbLkaWIjv3USZOALRAQYAdr7tRpu0o2Ap2mS',701023);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (178,'x','Description number 1073879','05.21.12 09:41:00','05.17.03 06:54:00','2nmTQU',68935);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (179,'A8k7UzmUgko1NHa5sfvxSPsQFG','Description number 2202675','02.10.08 02:32:00','08.07.13 07:57:00','HRJm1RGwTUcaHNdPZaoNsSQUSJ8w5UM4ybFqDgISkWHjzBwgrzUxyPXorDgQ3DDReZ8EN3ucmVTCOLb5hnfjgwuBRCvkAeidmIHVWD3bKruUQo2u',428731);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (180,'fauVUuAsRGz','Description number 1609359','12.10.04 04:57:00','12.18.01 10:20:00','TMjrXAT1TO7HYeDsnkkZAaZEZn0uPYARdkVT1t7dIfcQDBp385P74ZagCHSJzOCniN5OFJcTRpnyfaTJqT6lhNDLUdc8AaugH1OM22Rcx6rV6JlaIJMxm74WTFv3M15ht5smq4GHY3RJYzaXRcmp0K',346157);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (181,'WcdbPIDRb','Description number 0999666','10.04.05 09:02:00','07.25.07 07:36:00','IbDeYkUcvEELTwpRdiJK3El3nSkHkfGfyj7jorzX0zGIiBuX5lQUUVwSIiYFyMp',269446);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (182,'YwWy3DABpQzBpk20n6ygHscaQX8p','Description number 9781844','06.29.06 08:48:00','02.13.11 09:05:00','du1ArA6bvQn5UIHgsoqnLtmYmqsZHHhwMysPxGK6xmXTt1LemjYDAtpS5ux4yLj4s0nXZAevxruQRSpMrlVBsO4aFxcw',33613);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (183,'7TjBnsj','Description number 7864622','12.24.11 07:44:00','07.11.13 08:49:00','GZasaZgRGjSphhZNNqFkVl75kkN3RQm3dLZcwWD',171793);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (184,'mMdvGkYgDaIgGwgKoZQqGqhI','This is a description 9293436','08.06.04 03:24:00','12.01.04 08:17:00','PaZOsFCi1qncr8EgyDDsg8wispLYkba4GvZgy6H7NYPzaegFWJ4Skj3Q1XeOkpH7a6zezpSs2NGlmd2m1wH3h3JKPbGVzzBsPLWzmaskEhwQbNol8k84aIR0A0BFkDRQdJB3R0TwhJf1Z',664533);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (185,'MlgH7JLM8PK1YpzUva3Nsa5rWzC','Description number 8288318','07.27.11 02:56:00','06.03.12 06:28:00','5XmTFAqZr10qHzmC6mCIyBh5cZgICRrVY6C6k3CqHbBejv3a1BePjvZNlF5QsMF2bNvsvjbnhWonrTTW3EJwHT0SM14emBuYlw5DY2j1rW4RalWHCCyENYYN7hFGpV2ems6APJcqjpI6nU88Pyz',392412);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (186,'maOOw01XmU0k1Hd','Description number 3099868','09.12.11 01:10:00','12.17.13 07:17:00','Un5ODfUOYMDuvvqEbisrnYm70k1FPDRN5iaeoapYAb4w1bM5FPv8npF8yxBV1bdkGkcNq1U6XFd7z5IIPu70CWQCXAH4Zm2HucOLphuEZJMjoOUXGzyc1cAHQi',575049);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (187,'ZeuwgFcNC1TSbts8P14F4XfncTuwHxPAlXr0GvKQR3P','This is a description 5659765','01.06.04 08:55:00','05.13.03 01:09:00','KcGaJgTGysisb',309772);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (188,'FuNT2qy51MmAgs','Description number 8594906','02.04.14 08:28:00','08.05.09 10:12:00','i4DDRkGtFPxhCEzmdM7djW4M5NRynrJoZnHr4QWTrBlQKbFDvbUXA6KnOhDOL0JytarO7igo0bNAeZVPjPa1bbk2Y1Oeqp5Yp27DqRY2lNRs660tJKkNtvJ1TDMIz',682863);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (189,'Dq8R2rpvTr7hz0Tqhb1yiMrOVJKzV3oHtAJ','This is a description 1834628','08.25.06 04:45:00','08.26.04 07:01:00','urwKAarhgpNM6Gh6A7VY5T2nQYnhvLpHK8CD85xeXBkSYOzQdVW0KUZ0NADHGpUPIHd63WdoWcjZ0IUa',857931);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (190,'4BuK7wUsa02m','This is a description 1803658','01.03.14 10:37:00','01.17.11 00:14:00','vQzhG3ztVpk80yszHefPLxVWp1iLn2mFFtCOjTb8yrmPHK6dPoEGNqicawVyipsXf0eKBzr1ZNHi1VIjmxZ1xylDPZD1GZJ1VFWDNDvlPLmCz3ZVEf1PLb',238595);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (191,'WVhQIP','This is a description 2627522','04.04.14 06:50:00','05.19.08 05:37:00','gtzMzqJ4lsNyJhXHza1gNoagpOycgD18Xe8Vq4sfC46EkpDjmbnmvJ0wsE6VlvI0t4HtpETHo4mGHILW8',508787);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (192,'FZyO2','This is a description 8301896','11.26.01 03:19:00','12.19.08 04:32:00','RzGbBvilocb5wjVbhwWMIQz6i5UfFpkFANcWIBhRWlMJFdWXyvyJfEbuEgtRaAlTW4gzbmnQQl4RilBefZEx6sTmklkj',855177);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (193,'4MvUD1FfTgkKleM81Pu0ws','Description number 3037065','02.02.07 04:41:00','07.25.01 07:30:00','gUUMtltPmtIMpKQ6PpielOTLULWDsK1UqwbSzrCMWdNZGsrYinFfYgUdy3gczedSm5O3UXHRhTVgFHURdUTbdzM0UDRNN2G4PB8aRoCzgHKUAvoux8aMnN0LccZ0gRZH3Wfi67WyYnwPE8r',50906);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (194,'YBoo1bX0xX7RDV','Description number 0046714','07.22.14 05:01:00','03.25.02 08:53:00','pwTAG3yGmbyJeI5rOXKG4jW6urRq',871368);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (195,'anFmUjjrMkJeySFcXzqMDTQ4danMpVIE44xExdfeJ6','Description number 5996990','12.05.13 09:21:00','04.05.01 01:31:00','xtPjV3YqC1Gqg5kBC1ZjOq8BJLjbqvdqktgznJiHYwG0OSgaVhLGNXGVYI4T6nxN0wBmRJeR5NZoabaikQjn3aEgSYTb1SxN1cadyTdPJMITi5Uhtqaqj6Krbuvx7U',748341);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (196,'JzSAPv','Description number 1507331','11.28.10 05:40:00','06.10.02 02:42:00','fMcxNBvli1LGdazaHZCWeBwNoHscIZTroghNxRGgBdtvI2xUOdBu',697064);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (197,'Qvcdi','Description number 9102576','09.16.08 01:58:00','08.03.08 03:14:00','nICIiHmGOvf6GxMzLYTGC237RrPivWuFXjMaaxSnOIVqSIpEPBQeNnzd05jnUUANDXGWso08pgq4iLbaP7g8S1P17tqihDpDlgYLs6NCYzJJIALpX',991905);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (198,'OVch','This is a description 5837345','03.12.04 07:02:00','09.18.05 10:27:00','OVUk7xp2GVZH6pVvHaLqrJihWz4sEq7ify8aA0BN6',606958);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (199,'IYCWozMVPBK2UreTRgHrTa7ywHtV8','This is a description 9448973','07.27.06 04:32:00','10.18.08 10:37:00','U5r1SChj26YaHLSXVr3PKpSbMgHKoNelz8wfgcdgdB3tgsTuHcHyAnCVNpARH0W7J3abZeY7GffPuxxKiy4p0tdHQCTlH3VezbCdr3bJx',887473);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (200,'MNpMI5Vrtq3OGGxvP4veSGhM7H3m','Description number 6040997','05.10.10 04:47:00','01.21.12 00:33:00','nJlryStWeOZ1KmaZsdfAOLdX7vHO5HRxwtCpBGHuVl2IVduWKFci80mZr5tcYkGQNonj7sEEsuvIFPZm4TayY0SySNqfpuAXFvlcvbf2wx',18885);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (201,'JiVTq8PQSUZwU31nX','This is a description 9741687','04.25.13 02:33:00','06.04.04 02:26:00','zzAEXWA1mAS7JRPTPiZvHc8hCfwrWkPJW',743902);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (202,'1x8BoONL5BLN','Description number 3691837','09.05.05 07:47:00','06.12.02 03:20:00','ZXJgNQwexacOjGmhFV0cqyUmrTSTPHQ1gSiy4ITdiWeqBQARnpsEFDhKsvoAFGEprz1sfvnCzmycKS6',892378);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (203,'IxQEUwSA0qMsbSSOoa5D60CVFuiIRKwEKLBr','This is a description 5117862','08.01.10 01:28:00','05.13.10 01:31:00','5Oaig6lEsZX207gZkPJFeq0mDu72JxWOZYMQqAvVXoXXiJhYr6y0lYZQlZGXb4x4VKibQPCSiCeh4ym8tk8Rq7xq7EhPs2zBgkmPnZIOf4M8s',95478);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (204,'fY1NqQhwTmTK','Description number 2908726','10.19.03 09:06:00','07.31.09 01:15:00','eVo3Esg5mxEQ7MntXqLmsEosWc6NLW0xJVlThwvdx3rj3tmgD88GBJcxJU6tysfp0M4S5Ni0XFsQcV0Sx28FCg6mUEn0Rj7J2eToCiun585GucyUvcB4BwRE',50129);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (205,'Gb3uaDMryBWZk3jbRp1VcW0Tw6yjCpTQsjv2GKR','This is a description 3317913','04.21.14 03:02:00','08.23.12 07:56:00','smrBv2TUZSs0',258373);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (206,'ApcTSTrk4OhW5VxerIfdBnlqfO48j','This is a description 3058263','09.12.11 00:22:00','07.29.02 01:36:00','8THS3UdUwaLYkZOwSPa4hxIzv0ES3iueP4O4YmphGY4EnqULXH',228173);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (207,'eC8Q530zTCN4cXkFi5m57sj1GmY3O','This is a description 7153368','10.29.01 04:42:00','02.09.11 07:14:00','OGTm2iQY3AEBifDeiURD4nRjBANKlLjVqKyYnJe7BltdoUpvgFn0MrTpbC5DboFO42rrPDKI2mLv35ulNIv6Ruu8dbI',782374);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (208,'TiUoGU3Py6cEqTujiJku','Description number 8586557','10.21.02 03:50:00','09.05.11 04:30:00','DOkgKgsLHFPtFbmjBtesxEKYHQAFx4xwe8pBAWktp54Hzj8XSxCloyLhvnczAU1ysG6T6u7EjvjccMDGbD20oQfUuiKpH1zeUlrmWCpXdpGDjsPGvDEFi5pLPUaurGVVF6XTYhmcKnAz68lW2',354601);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (209,'gXogLumKzToAxiixQRnyiup','Description number 4564732','04.24.13 00:53:00','02.08.04 09:30:00','ggAGH7GEgpRlkhmKo5j',335736);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (210,'qC','Description number 6212406','09.10.00 03:32:00','02.19.14 09:51:00','xVSdXpyVLkejJkCqwmDoE7jshocoHaNroDBavoBz43VKjmkBxURS4',82051);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (211,'YG0pMakznME','This is a description 8312958','09.19.06 03:06:00','06.24.11 08:34:00','y7BNfKwQgwd4T8Oi7NQYr3fFwG6Z5djpZPAXz0FZjG7xUBMz03SYkmXYIRMxcjjLoMAOzVGoYi7S5oM1jhPnU6bp',629281);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (212,'Bz3QxPGsXjEi6m0byZHio7wvFqN','This is a description 7038821','07.08.09 05:30:00','06.05.05 02:00:00','uD7kkVLthvjajXlkFsNsekkZm3vM',580582);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (213,'HZVo6hMry2EwsX','This is a description 2692706','06.16.01 03:17:00','02.12.05 03:40:00','hvxtgtLpmWZjFTnlCZZGJfy2nN27nat6UeVtlfYj3cODZ2sDgUDI6Te7DGspbEykh2gbri8k1SaA6HawAM2gTIWpO7EmtwlfBNYa',585845);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (214,'FRur3FsvgV','Description number 7299342','05.18.09 04:27:00','06.11.08 06:03:00','jUT0PFXKYmUGj8umLWmfxTakCjaui1FJhwI2VBdguONiFbGEoF1SsDWYfdOUrwEwcLT2ZapHIS8HpQ5WPHmT3L8snG10OkfqUB',117281);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (215,'UPK6pO0V3gxAyhzFrwNXR2a8q26sE6J0JplSEmllw','Description number 0245466','02.24.02 00:16:00','12.22.07 07:13:00','YbiPhjHVdszWIctruzdraQwAyKAf61FaZV0VDO6zk24MEGl',541952);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (216,'LSjIxtq71xr','Description number 5879491','12.28.12 08:55:00','12.28.11 06:15:00','IZIhPawZIR5hd5pbdIeyq8PoMkmO1cH1esekd1qK2Nh2Y8ZUCX1n2o40HrctL',77245);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (217,'urN7Es5p6xnoCfgpjMRZHwRHuT6IagXaf0GDyUiUCNC5','Description number 9794929','08.25.08 03:34:00','09.03.14 03:54:00','EgCvBtuSTM6XryZnUF0ngaDqUc',852374);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (218,'o86e','Description number 9338860','09.27.12 07:05:00','11.20.06 00:01:00','3qMuqbNzMNNTwoyaJAABI4MGVZzOdgphWtb0ViHHKlEbC',791898);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (219,'ts','This is a description 8164764','05.09.13 01:54:00','05.02.07 09:49:00','1X6UEZJL1us5xrXwvOG46W1HHnDz6tbqjDrrtcztMoF1cwfBar8muazVC6aeNh4IvjFpJzjcaKctisPK7NjT5ZmzuRaIIkRSu',509566);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (220,'kJ2Y0lmo0h6ZBouEhGFRwzKrUxIrUBEXSGk','This is a description 3656702','06.22.12 03:06:00','07.08.00 04:42:00','ooXy',19754);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (221,'EjEz3cChV','Description number 3235524','07.14.10 03:19:00','08.01.14 05:55:00','sQiyTXaQPXSiBjOhmRZcKjwNVRnlIfji5HMbA5EELrtwdi2B3gvMQSLSKrXTlKVXd0GQDwTrwDRxkjX',832125);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (222,'5nOf774hHys2LtqvJPylPJfBtpYH3xtbmc4TnO','Description number 3891364','11.14.11 03:55:00','02.23.01 03:39:00','nyQiIi4dg3SWAyEe6alM61OZjAiM',614120);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (223,'W5AJ88im2ISyCibL3jKaTIRNr4DydwT5sItqdUY','This is a description 9356185','12.25.01 05:27:00','11.04.04 03:03:00','gRNH30dngChK8TLkTdDI4DSe3ulOKvWjGYfGAgeiE2CEUkgHHafIHDElGgSd4gFDeIRkOq1TshCH4jRPGnFGdmC6LLGuaujm4TOvyTIIB0S',176713);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (224,'8DLIcDaas60V1klydB6R0xiZzYRCVuZa','Description number 0590674','11.07.00 04:01:00','07.19.13 07:48:00','xKAfxn3KIgmunyrltozPbtH2LKOSUtxhFL7M4eQ1Any7fKbLY',776963);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (225,'kljgXrvMDdQwgtuqI1NUCnSy8fSKQYXI47UFvjF','Description number 7910486','11.05.02 01:24:00','03.29.11 04:28:00','R5JKQTwnKYPidHHiKTDPMK3O1uicN1BqMrWvLZON8tRmBdxosNTPO3qxqOfIMTFNyhnspd7V0fc5zyn6DRjIb0uR7InD6sX2vB2nVHoyoEHRDzOn2y4LmIt',705470);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (226,'F','This is a description 1885661','11.30.05 00:45:00','03.01.13 08:00:00','gWqGbi3v1f5ZrRGvLxf44OA5kUo5OH7ZOFuQljxIAzbwJJBzORFLC8DYTCVXGcSXEKBIMQMCnOYtrIdFQgSPSTdQN0SAcWHrWo6pgmKTMFtElHWvVMSM',407689);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (227,'iFU2J4vRr3WvahXJVXbJeyf6dAYE3FzqLLXTmIyaFKLB','Description number 6944132','10.31.01 07:08:00','05.29.14 05:49:00','20BILQPRmc5wNiqkDWX6QAaEv1cmfgDCD3AByHRgziimK4VDChmvFYrAgaWhEAjz5ZbbIlrSd22vL6lBfZWIMY78HKdB75x5sXe6',500740);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (228,'vOAF5ZuGG17lZWQ4EGPdo1GxoYY1qoNB3Ddc','This is a description 8028978','09.22.05 08:48:00','10.24.09 02:01:00','FBwKYkm0bne5qrhIJFW30DbAF27jrBXaEkPzDYacL6F6D4rVXFJDh4Jd6YNB53pDscEYJM',679837);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (229,'vq4PhDGB6zcKT2dlFyclN3fP6','Description number 0260010','05.14.04 03:00:00','09.20.01 10:31:00','PzlUbCZGYHLLHR8owWEs03J7Drq4DO0KqPfqutM6MaMLrh1TV7LvthvmUsI05pSBVDyl8VoRDQufTqObTyZHjruBHqUsuWYOEq5nRyX',739454);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (230,'IWLgGeTs3dSkbPTs2cHWr0lyNKBzWWm6','Description number 1829324','04.05.09 00:43:00','04.23.11 01:03:00','tctysZaQRGFmjhy4h',494650);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (231,'3dL0AETZdV44a0SZF1erDg1v0YWfTXF4adX52Stw','Description number 1245485','12.10.03 04:43:00','01.14.09 00:32:00','y3rGeFRIkxSJgxTrsLhtnO1ZxACRVWRGARaA1PGwtFAukN5iInm2h43OOcmXVNtXwY3cl31LcrqlH7Kzgq22hr8S3Zl14yxKehMSflCBygUGDYqSbrbEG',207420);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (232,'eInqOQxhgK1k6XuY4olo15EtqE5cN4cQPRm','This is a description 9198145','09.30.11 03:43:00','02.18.14 03:14:00','5oSQew8OiFU',678861);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (233,'YEZz8nfl3pC4C7w','Description number 8213465','10.10.13 07:23:00','04.05.12 06:47:00','jlM2ohAgoada8LinMzbjWuhe8Vy0qc4dOVnK1nC03kk8PIwEAIi4jAuoAUhZEVL6t4J7QHFJ2pCqtDVZQtwqWzhRfA2yN1nN3eV2gwigqc4bGBw28rb8MbXgopjtEnn3VGVZ',64267);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (234,'20cpTMWbT2P4','Description number 4794471','04.23.06 01:30:00','05.03.13 06:07:00','hmKpIVLnyxtpg4rF62',851592);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (235,'wMLAjQP1H1V7Z4BXgS5co1tkNBY','Description number 4423216','11.02.10 03:29:00','12.02.06 01:11:00','6HPk4uoLMfHDGjEz61Fm2C7Gi7x25vyABIHDCjgVKV8VvsVlWywRQBLoXIVoRq',231679);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (236,'0p','This is a description 0039225','10.19.04 02:40:00','03.27.10 00:47:00','axo3wkyzHTemQelu3xmYP1Cbs0rqs24BWZ76SC5h3nSDWq0PiBtJL1R0NaWMKlOKsmfPdQ3fSWAQniS4hliQnslf57d7dWIuXgGNhSfduyODDq5ebsVHGrHZk5qNzOj8RUWw53yjyJ11D7BEUjIHg1oC8H',376324);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (237,'2UH2Ui31wyVIHSDPweFlUNpwElsXACUL','Description number 0299263','01.07.05 10:07:00','06.10.13 01:43:00','gdSAGxpxfrXYNjk08BDF0JdXZ5ABvf8AYaXaMREoLGytXmbya0n7wrJScCikT7Qp8',13009);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (238,'niaEp5pgCpDe3Q1ayBcfEUR1zartFrpgymxA6SDI5QQ','Description number 8240655','11.18.14 06:38:00','10.10.00 09:00:00','4ax7YYoPInSNRm2UjQJ7kHYMuIGnDH4YOZWc3tlZMrFWIuDqPQc7NBmkkUoSdNxDanrWxkttZCGsPkiMXbo0rxL416OLhTNCXeqElQtS6CqVG',189520);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (239,'VwdNlI00PRK3DHwTjgwW6266UTaMN8XpdQdngEdfdi','Description number 9054993','10.15.07 01:46:00','02.12.01 04:01:00','4Fn77pa7FvfVpLzP6UzcNGGgF8ubNScD6sVDUzHuIOlmnSdPjLdWskwZhQZ7GKoGKE8g0vLSlf5hqyJj6aX24stdvueh6vAH8diWSQmZF5AUIN',659733);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (240,'ALGMv7hBlRKXZTLbK11Yxitu6ICO7RH','Description number 9911773','03.07.01 00:02:00','05.23.13 04:58:00','WfWRzDkt5ZDFutBoZwf7hMphf2CFG0CbY8lqwAkZFIg2uhkfNUVHlk2AA87ggsHFlXuFxOjqQU6JUDY2ribjq3pPQaAU8ztKOy6NG',456240);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (241,'RBljUybCY','Description number 8761546','09.18.10 06:22:00','07.27.01 01:35:00','bHYGqbAyBaUUpERHoVc3UXAvN8fq07THFzx2SLaZ274cSHpGUjBnu33Atisd8sOgbVVXPm31yRd6cuLfroLzEMEWEdxfe5apVOuVzuZAJn2fPrSJQjhC3WTWRuBhBPLwPv0oT',378297);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (242,'v2glopcXcVVMR5AlTOWASC2hkMf4P630','This is a description 8268737','12.03.11 03:44:00','03.27.02 03:11:00','IXihckpbYOCxn2VbXDTBGHcCBZBp0vOXjzCYdgObpadcAUKYP3IfjzuBZ7FQD7oBjwlrUkOwZuKFXqGaLkObNr8c4Xi6sdiQ',825903);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (243,'eZJQtvWZ54lZDGDm4ZdAb0EeZJg4LytI6q','Description number 5478079','04.02.09 07:32:00','07.03.08 01:43:00','eCvgFObiq7IVXGYGZHXlxISvjVIMo',803390);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (244,'K0F7YCqhWazy6Ww41hge','Description number 9458816','08.27.10 08:33:00','08.18.01 06:10:00','IZlLSIwkn2v80JIdc2dvXF4IkWLCepHrKt4SKn5Hn3RVCL2UbsEolEskJOedunYCPnxkywsqjAjC8X',780805);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (245,'nQI1V0Ms1gOUJpJ','Description number 3658662','10.16.06 06:15:00','08.20.08 03:51:00','oN5u2aZqDafvkQAZmobdfRUBNFzbTlWEHuPk1Ka6V0Lsc4cREqQ',320792);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (246,'ot5fYrXqA7mbDGyN30U2G26e','Description number 9600132','08.18.07 07:48:00','09.19.06 03:41:00','fox7kbmLw7yfWljtcO0kwBAO1EWoDCSC3dBtcvc3PYhLKsbvo2f2NXyvvTOoUkPu8fYfPHt4azeW8r0fuy4Dkm2uPtcwqA0eKW68yH0uKXGI',446642);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (247,'GfDwNDUaRtj8ylwgl3i4MATx1dvP','This is a description 3261994','06.25.03 10:44:00','05.13.10 10:30:00','XgwwI6q4ddmOXZEFq720MzUxPmrSSeuv0zA8ej1ebBn8K2DBGzIsHxgJ7a4pIyGFhANx41O7OYl',634315);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (248,'cB7','Description number 6331384','02.09.04 10:31:00','01.07.08 09:41:00','aPqoWwtHJ3Ifnr6IAf86dCENddVKxj8BcfexDDuIJUAsxtmS4N0qgbCQsupECXsJU1YFfVpnvDgxt6CXtD0ehhs4PrK0FkZIybrgRUSpXd0Q1etfSa6BEnlszE4eq6JzsWT7imV',198697);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (249,'ORWyXV','This is a description 7728646','03.21.05 06:31:00','04.22.11 10:58:00','XWmS0vynXPqAVCKFwfeGYqJexxRHZdTy43p155mG8h8okuaCH3QLkSRFFLXb080afbPY7HdJpwnw4dX8ZRotys2',665699);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (250,'E2UzrrMqYUWMXNoVJP7Lt063d6A70ppYLqFuo','This is a description 8773128','10.09.13 09:55:00','08.07.02 08:06:00','tfM4kZTw0fxP1ZqdyVA6rhmy8Mm21V56CX1ZIEmlmLjR4TDenkYn2yaigXXhOsQ4L5bspx54pJd70GufaGywmMsnSy2VUpPuwFS0uFQywl6PfjOBAzyprpZJ5l3EO2f4WjnkN7AGfXWfRp6qOp3qZ8QEg0',28948);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (251,'xc72UJo1fpWoylGdu2yaKOEHMIfZLf','Description number 1523643','07.02.05 08:53:00','06.01.03 07:12:00','MPVzTlpazxhM3LeNrTrad8OMGqevOSn5i2RQnYl8rncdnu2LeFwhHV5i8nFUNJfBAkwZfX3rZc',25586);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (252,'jpFCdKFrZ78ap0P2dhUz31zHQxFU','Description number 3910464','04.24.13 03:28:00','10.19.00 08:32:00','NqFSJRSmverwebpjegKUf5Y4IipnDB8B4IzoyYgYFIzUJHYwKESWQvjEn5TaKm8W7pNoS3x4w8oEqDKK',797650);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (253,'w3WJ8mjn0v3yHe','Description number 1703431','09.01.14 08:51:00','01.06.06 06:18:00','CIZXP7wNQsqt0iq0KkWYCLklEtofvMzwz8pT2r2SH6JWNB7NxQz3ODCTDpaDFuLFd6h4mCO6ki1WWGTIUH8QmVW8RSViEnjMTDfDvrpgc7Oe6E84l5gNch2HVgmIDbSNDy',927231);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (254,'u','Description number 2383051','06.18.00 02:52:00','03.14.03 06:37:00','gjKiY4Q2WnrjiAqVHb4RTdABULnhxVt8nQSvotQmsPrEtjwFP062iXAI6VJ3oEAkZ3zafuxNWAiRJzTPf1fwXIvm02lDAFWtPkjHeR1Ghvde4dtBiryEBvbCsJNlm3NusGfWA2CUqZrGNt5pLnpakhp8zCF',621617);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (255,'YnXHIplWfNiEPpKABNwbE','This is a description 3842597','02.07.06 09:06:00','05.06.06 10:04:00','UCaMDCbO63cjpGJ1xr7h7QoOlOfjsklZuWIKF6JdN6JU3GqhSj4Jr60eIuAujCVOQDpqkRYpvfsiO7AAynyfx2xHdVVgT3wYfo7uf3TahQU7WYqoVehudQvty2qjD6RbxMuLqOpp1',914105);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (256,'MzYoZqVke6YF5FfyG6IqF2OJedINozQWbnQg5ohii12Fi','This is a description 0471573','07.03.04 01:12:00','08.28.04 07:39:00','sv8M10rVVaeLFjdq2z6ugKDdoXHG8UbFHxfMxw0b5edqFNevoil',946854);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (257,'aZMp7MFG778d2bECHztVAQTnenGUAsv','Description number 4432332','11.18.14 09:35:00','07.11.01 00:58:00','iq5R8x2FOehYM',873281);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (258,'XpDri6EwKesc0qUL1MSy4owuGnWeEoOxUqD','This is a description 8025187','11.07.03 07:02:00','02.20.01 04:38:00','atMwRbTbHJXOsN7JhoAVHm1ZQUvrrJwrS2i0Lpz8COQAIgLBGIrQHQ7tJFYA4',19411);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (259,'gcn26HG3Lt1U7cNtdCa4VWwpawM','Description number 9284950','10.17.07 01:53:00','12.19.08 07:24:00','JXTtoaUA5POlFmX323Ncdk2uWFvlUuY0Mxiuhj0ObFruJJ4bwpDkDcHwFtQ0ZFVNjecSrsPKq70F3kjm2uK18VPTbM71iXAZ24jE',750964);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (260,'rk4UmXc8XppmvCFDYRj','This is a description 4765126','04.27.00 08:49:00','10.18.08 02:25:00','zDQpWOH0Sb7Nx1YTce1hjkCnhRGacjYhzrnxxKIySyrfyOk2JbtfGGH4e0WmxFGUeo0rz1XItzvlWnadsKj1Yr7HFLj8PPMabXtq1X0YaipPNXMQOi8QIc2gNpbAEzssWVvlW3hbKygQtl',386888);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (261,'BV2nmsRzw','Description number 6883125','05.23.08 01:12:00','04.17.14 02:40:00','T2pXr2HZK6GCbORu3POBdBt',370820);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (262,'CKt','This is a description 4398789','09.24.14 07:34:00','07.09.04 09:09:00','1R4YJuFIlXxKneSBVvsOEhydlCXT5JrQvZZQOsFk4HB3A2QALHwPzUSZvUmyrWTkXlDiGOVezwOMX6tcA4sSmRnBRGlov8BatjnH1IeS46G2olgciG2JskGUPOSFQ7FngdsUZGm3AO7',255646);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (263,'HyQ4','Description number 6173609','06.18.11 06:22:00','06.18.05 02:51:00','WG52O2p6aOvrUssHBaZGd2cQXQleccPECEFSE6P0qildvbOhCAoHRNe3MXr6S6LtsdP',201243);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (264,'KmFnfSEL1rfJD','This is a description 5257232','08.31.14 02:15:00','11.25.12 10:46:00','rPMlEO8VUfgsmpZzpACE6sie7Vgkem2V1VXVu4IFS2jOvQM6XxxF2Ac1R0ktQTDW7RAyoqWj1',144489);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (265,'VyvTVQPMmABlrEaNpzaIqi2xIgPAUY','This is a description 0433481','06.22.09 07:54:00','11.09.13 09:36:00','1OoWeqVJBqWsstcZdKROMCyFpbHU7G7T',452955);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (266,'qonPFp4yr07h5IV3TJWZF0K3KFfiG8AtNBMpv','Description number 4101404','03.28.07 04:34:00','10.30.05 08:14:00','HHxcegtIcD67hjLpKvSNKbomQTJJvtzhNhzFRENnmuhiW5umZ44lixlDRJ4kzHjx81AOJUr05ahm53QNUqlnjHym0R',192425);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (267,'dSCKO6t5H5ii2ovQTYzNeJivyEKjBApQTUeNUBt1VNP','This is a description 3795720','10.01.09 03:46:00','07.19.10 09:25:00','WsRj7SEPmLL7dyQ8TVpZZC0VCqi2',395519);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (268,'7VFRkZ','This is a description 5533148','08.31.02 00:18:00','04.05.02 01:58:00','0SW013dickzNrqYcoO6mvonU6kdcdk3lN3hk8anZsBT2QWtxLgbab8FdBqbsoLrXjh5wYmlT8JUyhgfk35NZaav2FU2hZouZDXx4vuRo2lZNwBQJzC7EZQ3uY7Divrrgg6Yjy1YRv7fcbkCPEg',794073);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (269,'JBSRMbxhEKWBlNVA1OqWlwVVoYVUClRhzRMHRCE0FevA','Description number 8785250','05.09.03 10:40:00','12.25.05 00:31:00','STM7TFojeGHvvd2boFy2deoQCJePwwbLJCYnC4nZJQ8Yv5zJufGPsPOwFCUwGgSrQckUmxQHU67QU54iSrIla',11648);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (270,'KqN','This is a description 4628710','12.24.00 01:47:00','08.23.03 06:08:00','28cMUFXQsJduxstcBzTQcnF7UyB2aCOHcdkxJqDvzW47',946488);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (271,'Q6VK8hcvYuggvqSsIxCZo6f2FmeztTmSZuV','This is a description 3877800','05.29.07 02:07:00','06.06.05 09:25:00','WVUyvfSnHdDqbx33rgjjXFGxskHZMJJGlvewHqkdVHzT8dlks7iq0pvi4BJFMLoumR40XYPj53Y54kbh1pqBwjcQSeirOh5nwh7bNYXVREnxmUznnfQsbTUAnFJE2KSe846WmZ1V1SZ',195901);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (272,'cRFLV6VRlUBPqF7Fq700qJ5T2H','This is a description 7376355','01.26.05 02:26:00','04.09.09 02:05:00','ZgYEtwXsw1QPCE1xjWLAUXCeSABgPj',84177);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (273,'gYy0fqIvCz6mWxo6YBmiItD83QrrZeJ05ANWqDSSVQf4N','This is a description 5226031','07.27.11 04:29:00','08.19.04 10:47:00','p',909583);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (274,'5ley','This is a description 9476774','04.23.00 01:54:00','05.24.07 10:24:00','tJeu5zJmpWdJGXaFb50Q36g4Ude0Yotsa522Lb2GpAunK1zQYkY6P8PwyTHq3oeYIFGd6TSViWGjhRljNw15quVCf4nbVet3N3o1eGd',519074);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (275,'TCC4KyJbE1M42j6r8q00z0JrZ1YOPOiOKFJw0AcG0d8hH','Description number 8565646','09.07.02 01:16:00','01.05.07 06:12:00','TKiEWN3ImkY8ErmZsxhHNPpQtoQM7HqALHUNdLplxvcl6KulOqUrw62PnSoWbCXoLUFzel6IKmlYOk75ebH3EwoK8d',655296);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (276,'bxxOjYA','Description number 1523619','11.14.03 00:24:00','06.13.09 03:37:00','ABFlXfaV2pOoVZKI7uyaNUlRWJKi4cfjyhuettJodtzs8knkzHuHiGXOrDVTqKurEVtcwgO0AcFHhd3Mnj',613087);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (277,'5zwE1kHK7tvJKPf20mi7q5o5q3alEWRagY','This is a description 2889969','08.24.02 03:00:00','02.11.00 01:41:00','JMU8WxL0hOUZbvlPgSFyvQ08ORgQkr7xzglhUZh6eDarhmNuRoU1sQuzqHfMrSEqmkxsR57hAEfAUszivWAVVsDigfBEqsYyYvwYjJeltLYPVQ02O3y6fNzZbUYZISLQqx8kU6SLeuK',98444);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (278,'PekHbUMpFyP4qA1sWdbpYo2T1MjmafwjV8','Description number 2172918','01.03.14 01:45:00','07.05.02 06:54:00','SqyB4KPYdux4zoRMFhTtPydLNND84Py52JMxe4gDA1yYasBCJcRzs72Tcgdz5E2tDk3fQMT8uKVNsqzInko8HA2E8KQjVknpBToQ',312989);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (279,'2qsM2NOzthDaxQeLHCMFI1o','This is a description 3763919','06.15.04 00:17:00','07.18.14 10:09:00','TQSajztIBg55snW3FiUZIIqEC4OdSg1tvMp4bklBRTu2F6oyPOUVQbKYrWJwffRG1R',747403);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (280,'nKwAjlL4ZwMdQFvy3MRmQckbwnnt','Description number 7844728','04.07.03 03:19:00','08.04.10 01:51:00','AgcCvdwQ',783908);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (281,'QiJZmPSWTcQStDnzYQlQnjICnWTQAmvKTez','Description number 5676312','07.14.12 08:52:00','07.22.10 09:34:00','l1OZ45iFrFvQfOYmH8G1sl6ZBrUlHp5uE0TkGxnFn1QRuht',922627);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (282,'JNe3mjbbXb','This is a description 3472819','05.22.01 01:41:00','07.20.02 07:11:00','kBP1',385352);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (283,'suFbBl3Bicu8nqHAw3KN45mDwbYby','Description number 9061731','07.20.12 05:10:00','01.15.09 03:10:00','ToOBB65YZyROzso8w7epzKVOSe6lfnJzqhVoLA0F1ag6eGCSV7MDKV844veYEZ7kcHvrCZmSb5iZsjGRIal1UiUnnYMD7WP',532770);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (284,'Su6CCE5L60B5d','Description number 4733076','12.27.13 08:12:00','12.02.05 00:43:00','8DvdDvwCrEFJK140p1D0JXQqhl0qBDFXIb5lHoa2zlb7wkUh1b8kj3tlIaXaQJQPXHT63xO0ieNAbenlGb',775153);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (285,'Vcqaeau2vckP1S8VZuj5yHcUrvwkbpXJdXqlLd27oyoj2','This is a description 5111280','08.04.08 06:04:00','01.26.13 02:28:00','wnL22YZElUxpSwh8FZbJzvFfUect8fpYduLPrK4AblOFO0DusBniayW65f8fWfCOjlWQrHvB8a4ptti2lV4dcwW64FgtebyUg6fq5GSZJ73qs5nTeJYQNMjdV5RFWiIDG',668529);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (286,'lrfMhiPQRVYh','Description number 9157751','01.29.00 09:55:00','09.16.08 01:39:00','JZwh4b08L0WLAorzmJLvtQL5VymoIGPvYgH7zbOjRzOzY778fwnqYmIjG0dnLAKnDoa4iK2IXqj0gaCTuuMnHFN',690991);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (287,'pzdcDDUBg3','This is a description 1050904','05.28.11 07:05:00','10.15.05 00:42:00','7d0MkuAYnfXNUbKay8qEVpA6',32214);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (288,'3ub7ioW2cHnRV','Description number 6505069','08.25.04 02:19:00','07.06.03 08:11:00','E5MK7wH41QZOvzDqeJYPnT6w',734852);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (289,'RLsy0qcvVxKmaUqXob5j25dX','Description number 4547000','09.13.08 10:27:00','08.07.06 01:07:00','pbwHxdNhyFeL0ZJsDzYWZ75VWPfd0X7whMVgXkApeAHZYsferUiGQ6UNHPX5Ekdk5rxQOYdJy6CjJuszCpD21dnQoXKUXjJNGOabhBqq4W0g0wy3',60600);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (290,'0KNLAty3AypivAe46AkBdm2z8m0ZXlnCXy7x6bYfIATT','This is a description 1963909','07.09.12 08:20:00','03.17.10 05:02:00','mlv4PpuyTh7ivPMzQd1wnDvlKFidrv0sKOklVKpsqw6C3AQYCx3babg8zhKOIAhDUJ8Dr5P4I',709113);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (291,'JALW5zJsW5I','Description number 3406861','11.22.14 10:06:00','09.22.00 04:14:00','LnUsIyhHlsEfQwkB6osTSZifPfu63vtRiMQH5ulUhZPjfyc1AndEH3b1e7ySEUsrW6',964416);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (292,'i6oYKo5y0k1WtQ','Description number 2457679','02.19.04 08:20:00','08.07.09 10:53:00','Lel6qSTdw02up0SUpQmjgvt5Q6Jh3TEkuWAzcFqM17u8m82OpGsdldTFVUwC24MvReuaDw7jUFWO2LRKQ82jqYrIX8nQVMu',342811);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (293,'HIeDJEC081ld4ynOoYgFm6ARrXGmrMyNWFRPUz','This is a description 8772897','03.25.14 04:43:00','12.21.03 09:04:00','YIm35CKDairmacPPp2oEP',811874);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (294,'XIvDUUaPcSLniR4mH2JribpbPmUQBdrxJ8EWNE','Description number 9554899','03.07.00 03:30:00','06.02.09 10:24:00','O1MSc1ccQvo5jAgpzmq5Mhsct5T8kC2OtkmwyvJR4f1N8BdRvuhlful5pQ0UOzNT7DoDJ4LwOjkxWc1WXmGIfKxvFUAFbalIXWVWZlIumMczf',926996);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (295,'Gq2kLzhnumxD16kjmTC','This is a description 0058063','10.27.01 05:35:00','06.27.04 05:09:00','sh1xrlCjbMPZkXfMe3Yghn1Bmm2CvJa4xxIh',954148);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (296,'VrekoIasYxYCoE','This is a description 3869879','04.12.12 03:00:00','11.07.11 07:15:00','BH85TjBKgww3QAXjH3fzglUB8u4kZLg0NUEOJ62oQ538lbJDmyl2VBX',677405);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (297,'8WapIUDiDmfCaFUy7cZhkEUqhukfV','This is a description 0652524','07.29.09 10:55:00','12.12.01 09:50:00','p1LTpXRv5CwFMLsWxNT85deOqusA7hPVNGLh6Z5fIPnZi0GTwU7x3zoAI2Tov5qTJUJLK2cqj5xJcIPJZdbliXxL1h2s4177C5BdY',114889);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (298,'7p','This is a description 5186519','08.16.05 04:13:00','11.04.01 08:48:00','TKYLm7E3OJbirLzbTiQaxjfr6nRRTxFrY7uUkmfoixSdGHCeVPNTrDx4PWEoJgGN7rGbvA0aYy8ZYhJvZFO8Y5GTTIJ5Wrq6RhPPwPbzamJt5PUoqNwNQkPM3urBjZjKsVJJ3q74Pa0do4ES',753521);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (299,'qE3nSru3QERbZ1MLkI7dwzl','Description number 5906357','12.21.09 10:47:00','07.12.09 05:14:00','lamLXeufOtoMwc0wGb0lWbipnyaRbQQFHT5tNAcrzgy1WQXFRZ',200907);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (300,'JBiQfxN5nHOnE0LgUpHHs34Bbhsq','This is a description 5380149','01.03.02 01:39:00','04.06.13 03:40:00','r4ca8T5BeLSr6HCy0Ovov2tAegqmqHba0FLbi01p8QZfsUIZ85tCBTyrwE6vH3huI3KxTfNAyIsTyPtQum5xOc5y1GJrniP2RESTV1P5Cd6D1SC5SNEfaiT2BLi8qkOQOLFX6QAdI',585047);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (301,'cRhpBnPrcR0jBrFOPt','This is a description 5326952','06.10.14 09:54:00','04.07.13 03:19:00','3GqtP2vQMRKh4Eq3cHbIwxhIdKCsXyCutSY',173579);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (302,'4PUmnHxLOApm76aoI7JuhvRsGCtcPF3M5xyrA5','This is a description 3708423','10.03.12 00:33:00','06.05.13 00:05:00','8QHlc6IlHkebv3vaxlXFvRAtotJNyRGMSfPtTYtFxTHog0jKQLRumqZgTPEifueNwpeLMaMqDzkxdpfpP4tq8LMXwBqLIqzeXGOCw8',552720);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (303,'OUsEl2oyymOxQs52kQ2EOYAKW1sdIT','This is a description 3717191','06.19.07 08:55:00','09.12.02 07:55:00','hLgp5K61SEDMF21Wvkpt7I5g64pFZBYWciqPUjGqWEhg0fJOOgpVkZsfPmYIswoF7Z0UEDP1AZM',907354);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (304,'3','This is a description 6390703','12.14.00 06:18:00','12.20.02 05:03:00','f3e46jKqmK6E662O1L6ioNUfQGmaZL0VdbO8oo2zyBc7GFisnfVcFUrwJVMClCeYmP4LNn120D8XPyVQ8AeYses',538102);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (305,'RnPBhXVIMbpTizCnhSUY','This is a description 0710838','03.08.05 06:24:00','10.06.10 05:44:00','kFYgza8Z0z1mIcOHdZ0Ocdl7IPA3LlfzbYv1jhBf3txwwrViXr5CQCAzX7NicOfJPel7y3NnLxnbIhZtzvRAnqaspMv4lHx5F3pxjThiwRQqqguCvosAbQrO5pfjMNVuc1rLtfm7qRS0I',571561);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (306,'FE4fgkb','This is a description 1832654','02.24.09 05:28:00','05.29.03 10:30:00','1tzOa1zivtwXrUfiFnNtT3P1PCIm8eMUBVjZl0F6pGxhEM5UPhgSwhrzg2jzI1Yy7Hqq',503065);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (307,'GYyjU4W6rzQbFW','Description number 3868765','07.11.09 03:12:00','01.16.02 05:17:00','nqS6CJOrlezlp1O6CRvxfIygpH2b4uN4f1Z0THUoCVb2PpeCYWbKaTJoVUE3XkIjDKpESL2aOFMI10RVCrGhwuc0ysFwi',115711);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (308,'YhPH','Description number 3077918','02.20.10 09:23:00','06.26.02 04:39:00','UInjCkhB3JZJPEKRms4TWqBrnvEZHW',760655);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (309,'NiP5uZJ4rtVkYrU7lEK','This is a description 5301597','10.24.03 09:10:00','09.28.10 10:11:00','hljiyKTVco7lh872dC5VjPYIL81eIAGS7p1Txx6DEnpt5zQtNiIc6FPthCOHDMBxsq3yhJJI7yG3JZULPA5vNNATTIsNai84YK85Az5nKlTD4lLdE7zCM7g4Qur1SY0FVWmxy1ht',325976);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (310,'V','Description number 6642735','06.14.06 07:02:00','08.05.13 09:04:00','qjaLyCYtGxa8NmaB4pNoyEQ72rs1R3UV27qbP3HKT7nM7DSJxYAuySt4sCVCvfWH0W8PyFcHOG48N8nALYrzx1wrPYJ3iiaKsCeBWtc4',990097);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (311,'mLe','Description number 5407512','07.28.02 02:19:00','06.23.10 07:09:00','8Ux2pEURxMxuWpFFisUWBJiMIPczRiAAlLz8xxLEIY0teLFcHb7pVZEhRIe5Us1yeNZPZvBr5Aqv46odzk3KY2YklVMWxViqqCPECEFIgARPcqsnPjLM41bRpeFuTGnA44tX',508345);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (312,'ijO4ByKKbXNsrAGGhRA5y5LgzLvuX6ARa','Description number 3921568','01.14.05 07:21:00','07.21.08 10:24:00','O10G7BBAnNnfK',199761);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (313,'qMCY5otcUoCCRA1QejS3B8NFprTMG','Description number 4533946','02.25.07 04:30:00','08.26.13 10:34:00','zuL8dYbu6enPLea1xEhkEvi0dUdOwtytbCPnosDbD4xNYZqAencoGiAsEhgPhGQRGCnIUfkRkObRbBVdFlIhxvaAl0trkEewYzd7rhGvEr8tNfQUgwy7gkZJL1eyRCu8kn1muYG0aB3',791776);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (314,'82N1s60MAKwfeNWWN2rfVyHKKX','Description number 8424512','12.18.07 07:34:00','09.20.10 03:31:00','QT55KkOwvXHy8vmMcQ8NIskhwBUNE0Adsj6mqpYvtXWn6Yffe3y8yH3fmFtZ',8478);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (315,'JeLmKPjTs4b6g33WtqvPEXi8zNUyfrWukLthIXtP','Description number 4278354','08.14.12 02:53:00','11.27.07 02:01:00','n5eiYocYKuxrwrGDHqivCR1NGsUdpKIU25Y37WjKvaF70kVrm25sv4aZXSXdPs1giPVkfMySRLuSRxwyBTaOfdj0bY',79696);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (316,'2mhzJ8Lx4QJU2qu0LygqVIGPsn7','Description number 4461802','09.09.09 03:23:00','07.22.01 06:45:00','tJXmt8RQX38rj0DiFQGHtma5QEK1agkUmpsi68ohcBgoTprIhQXNN2tsWOUsohd',209690);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (317,'x87yBiVBuEydES1Hwi7xFzPSlkFt','Description number 2414563','10.23.02 01:57:00','10.19.11 00:47:00','pseOaEgLxDySfJDRmNI3SlvMUrxSFOZ537g8Hqz5Iy22rx4K7ZdkfJyWijWxMbgwdUVS7KdhJXSC',299540);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (318,'YVcGrbEmuez','Description number 4242773','06.22.12 01:12:00','01.11.00 07:21:00','7bnUeuwLcbT3y1m6lSdsT7xPfTPHieLKv7d7PGQBGbTi2jyKDwQNtYEngFwc1ZxIqAfvO77e6wEvXrjyBYLfvdgzaeadT0jDJsciUBCMUK4ysFPpOnypJIKE5hbZwv0EY6o3y8zYWKUmduImNxoFmsz3jK',102229);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (319,'6NxrBECIMn','This is a description 3510130','12.11.01 06:50:00','01.13.10 09:52:00','G5OnnB0pDiineUHUVQ4ZAe2wS7hRoFKjdHm1NkXWFD0m7aSFIX23Prnd2dvStd7sdsiYvGuBtQfUlmxy3gq5xXJbyeeGUIzpmT',721745);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (320,'6LKFCj0mkL4Zjf4WXoPNYjjyTtAKnV6uwpND8IFX','This is a description 9438105','10.22.11 04:02:00','06.19.08 04:16:00','pUblNATsGdlDhvl8sXVl6ggRqMRRCndqOrL2szg47zduSlnmABBOZwvzS6zT7KIPX7QAMbKHwTAUOThJYLahS6qnlZj',148171);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (321,'cI5csf68IpTYjmO0Oj','Description number 6085785','11.01.06 08:38:00','05.01.10 06:40:00','7jzaJ5RRjujdgfYadhMyn4IcxG5dlv4uKEeav6okmgIpztvhWqoFHBowmsuW3',477229);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (322,'KAg1tt7edKfYhu7hzyecrUMNrPGAr2Rnv46r5D27tHO','Description number 4569273','06.04.04 08:27:00','10.29.10 07:25:00','BZyoJvEJe8wT5KJwSqFaSrO0hE',500110);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (323,'eMgwVpLBg','This is a description 8824592','07.03.11 06:05:00','07.26.09 00:17:00','JObXgCEaXP6Hr47FFNTYPYCxwx1ofaIqQeIS6bxF8XjPxksvwy6hhk80RUs2mrKYpFA4Mz16Ks7I85RkUzW2ZNeJnw81zyp47bvTCfs6tuhJPgnIL2LVCwzsppiOyDRARYyCVLW1fUrxQwtdJR57jVj8o',113736);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (324,'UGU0ZJOzBa','Description number 8322285','08.17.14 07:13:00','10.07.06 05:04:00','SBXIAawYux3zcx0Ra0b1IrpjnPzbdMRc13r',505140);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (325,'Qz2F3eJwNC','Description number 9690957','04.26.12 02:30:00','01.30.02 05:02:00','fnILDBKAj2eLuSDGchCozOpoo73D5oO7fQj7Eep8QPEVQDqBPW1de0SCbrcSwKjuN2VA1jh7KeSXnl6HDVCHWEJ3f26wdqztHfjPTyXGSa4nKAlFkIGrZDSwtqe1TQCvdwEvO53Q8IyT',178005);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (326,'X0piRkGIe3GTafqNPjHq66Msz67bq1H7rgGeN1Ogi','Description number 0101936','05.23.12 09:11:00','07.17.01 08:05:00','Zza60EywrNxGQnXbDSmLq0HfzwaV0habSHJQC7T1sGRGw2mgtB1Mx43PXrJkPFzauVczb6NA5Qy4b',905190);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (327,'mJMHu','This is a description 3445945','06.18.13 07:04:00','06.10.06 05:19:00','kCHXuEIgjrVzldzJl0celgIao4C4wFurdBRCJFsYZ3NcPsD4GkhVzElVXhmWHfR5L2m2tVW8RftbYy5ahzjUphMbsfccnj0JnOPUUdhrKiKaeYGc6uUJz27ZZxYiyihb2',94800);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (328,'SjGZncq4RTe6sZYFjauL8bk0xwyE','Description number 0467333','11.16.02 00:55:00','01.30.11 06:08:00','ZN7yQOLqxH1',374311);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (329,'6Xs','This is a description 9698461','09.17.11 09:14:00','11.02.07 09:14:00','EFgeS31KsnyaXL6aUtukiyHH7RgHbuu3cgiaQOL8HOJYdGtUZzsxIZAeRuROCd1wkzFH7zoI5m5ajjinIy81Boa1aDnFOwLrjhOL8sySwP1FWhIkEidGEUG0lNLLNkiJZH7ind',633911);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (330,'4EcS20xSbENtzfQyif5VxdiODYkxcm1sSgt0R','Description number 0673113','10.24.01 05:51:00','11.07.04 04:57:00','j5gQp2eiqBYzVb7JlW2RZLRQYP',333078);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (331,'HO61Tb3abLmm52euucKJmEqE','Description number 2863468','09.15.08 06:03:00','10.25.14 06:40:00','hh4Nnn7DKVIB8bzDlgglTMlsDfmzGgNkgKo0PcyDOFe4GeQUbzb0oZ',132917);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (332,'2Af','Description number 0937305','12.27.02 10:09:00','08.10.10 00:36:00','3vzE8NAl07LcWFRlHcM30VCUUvLB7b8qsw4S5IMsx88U1WVBqLA5DNdFrVfCED85GRbA2o7V3CvHIlPgYGJZpbvdQG5YQt2jXXkghAghEAYVXItIv8HNWScnrCsYI6EC68S',292328);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (333,'Lqxnh5lr2i','Description number 7546343','11.18.09 01:47:00','05.24.10 08:54:00','LRXoMISseukvfKqRbXEKKeuV8xz3qGEdbEOlbiYciYIzUYgKuEuq3m1pFvFp',735286);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (334,'XVZ0iYQ6rxxvsQBtZWXimBAjPH8qUkJ','This is a description 0632689','06.27.13 07:40:00','01.22.12 09:42:00','NrhvYxatNq6f2q8pisgzrOvMWBbTDDJzaTkBAquPVUds5s8qvuSD4JAbpjqE5sLprG3r1mneEfNVu5FMNEzm5XvXG0uAZGdMoLl1OnO0hpS4zLOnAGGyDddmSGbdeNE3RCm06RAwY',867811);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (335,'MoskUpqZ3FpunYdV6QJ06Y36QI3riE','This is a description 2071403','06.01.06 09:23:00','04.18.08 07:18:00','fWZJrinM6P8kdytI6JHuAxfo3P3xBCpukRT2cb8a4a7hX55EkeAAnZAfs0QfHixWamYb8FKkxwuxwh8bBG0L2fGZVszcIVoBtrfu7Xv6gp5bC0SazfoJT0lutfdAbIBR',824323);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (336,'wrJPEZBxF1JqYwdOuV','This is a description 7255315','01.23.13 00:39:00','04.12.13 07:21:00','qvqM0xnATRCEnNBNuNT2izVlIckJw2mq7czG5afrQ0u56buxGJ',566679);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (337,'iMyqp70YEy0cJcpCzIrveDe','This is a description 0756909','11.16.05 07:42:00','09.08.13 05:10:00','06roevXJqjBCgoix2GQqNFZKwtO5bUVRqsLOjiDXPKA1Pbw4uKOJrrPNs3I7AXIX1ahGVjNXZqPsaXW',686860);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (338,'iRTdodKDrtOjTZQ5V8PkY2P6FjAhegdw4g2IFoEZ3','This is a description 6030067','05.09.13 01:36:00','01.28.09 00:05:00','rlQp3GErBUubaH3CXrUYQHdbNT0EmcniSGZ4DWwnmtY0ZPRRmGoCr',469145);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (339,'N46P24mXEObM4Qtm8LeW51Fkm3HOBOsO7stJAIWoYXA3','Description number 3978536','06.14.00 09:58:00','07.08.10 08:03:00','373gOkoSDYtIQXcto1skUj0Rf7CNDs5s7L5WQuBc6qbOxU6A',943606);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (340,'EwGlEJzyWtP4I54MSjEG','Description number 5466994','03.10.11 06:15:00','04.17.14 01:21:00','WR6wfUAwAZVHqfasWFz3BnZC01H0qhV6zIXAaJ4K8ZXqDYVXQQtv7xRasgYjdXtloxVzVPPILEWkUwsR452Cd',37574);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (341,'GyK4SrGq3AORFtYwgdzLsydWjWuE8H81kAKNC','Description number 3175933','04.10.08 10:33:00','04.02.11 02:02:00','H',747431);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (342,'PkSbPfbpKOLlfPrgNHcAlJOAmfoGD6KntlyfZZ2EDG','Description number 4554161','04.14.11 01:12:00','06.28.02 04:26:00','4TU2ydh8cgDfDD6PGiUS28BrOcrzPsCNtQxrt77ZPfyK6JaaQBymoVYQehACRajIIw1',621538);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (343,'bHj','This is a description 3889574','10.07.10 01:23:00','08.05.01 02:14:00','a8MJJiedClvmJt3bo8zD7E7edC2JnVfJnwXcHsnbCcB73sXKnrO7YeBts0ElcAFB7m8BfNhY4',240078);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (344,'5KKPbdhljg4mSq4RhI5yM6383','This is a description 7976346','11.16.09 07:55:00','09.30.13 05:58:00','Y1jRIL5qc7iZZPswtbnygokuWEIINWn4GrF53TNUbkUDJYfhXLSzIWcAE1avx2QM52oh0hwTOHUTn',232983);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (345,'O3zILgSNPuZ5khbJYkBh','Description number 6204954','03.10.02 07:44:00','04.20.10 07:49:00','PgERzIcZTRPl27cWOGfBm240yxjuGYy6SbayH4KrMWV6zqLMntWrYvxY6K2856vneAvplPDVlx2WgovuYzzv',723100);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (346,'JQ1eLQeZgkooKNzaJKphNTHPAV8C7E0f6lF','This is a description 0442173','09.11.11 10:22:00','09.08.08 08:55:00','iEYktRySHkcoXDepp5z5sGeRG621sHsDn2qXpg2GN8vklQqZveVFnK4HLKYltWDPL3GhLRrwCBCmwlgEC1lOViL1KThlZX7BCY4DRnNL8HAIkq8GRHvfvGHogdqkFXjRUJ4Os05vZ7i8oUAZ',916208);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (347,'l7fNOtVd7q1CIXnxAPVWHtfU3nft','This is a description 2981967','07.23.08 06:53:00','06.25.14 05:09:00','lFqbmCSUFCCMqGGNmVkqQSbmXYg2f',502557);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (348,'yQYwsCIkSrNm56NKamXH','Description number 3889378','11.16.09 00:20:00','12.11.02 05:25:00','qv6b8iKdyqNm02CdcnoPYx0Gy2onF8tBhUqyQAhfDXA2k4C4kKMQUqoUcoipKoTErZlNtgBjdfSyk482VZYiSwZioptgxVjuyObZUIVZCAXGq8MWIfHFB5nDa',79944);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (349,'4N01PYbkgZHVunRMqQvmECXz','This is a description 5012340','05.06.04 02:17:00','11.24.14 01:32:00','FVaNAzcQUvz22LnewpQpotLHoivjCw4acjzwXOnZHwP8jGTPTAOOf637kTySHEQ',34919);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (350,'wyNqWw4','This is a description 8537217','02.05.10 01:48:00','02.28.05 02:27:00','A5BNKWI1b5WUND0CfjMrlGeiP1r0CfuZu0NGI2xtgoNev7mQA6rfJuO4VijcHLZE1oT2Ik5dloPEDnUsEUC77DGWNFUrmgLjA7iZzJ214nTP15HbJsd8MSFt7Hj3w3r7B8fB',161301);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (351,'ZLVbiqWx00eTKhG','Description number 8283667','03.05.04 05:14:00','04.26.01 06:00:00','wEXa18PyiIwubOTUANA5BGlxbbcOljTyy8RlVr2yE0ypFkrTIoMoVYCOlkBecrPl3gpY8cxRYvimLr01P',295384);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (352,'RheLNNQOz6r7aZEvJQm6WIUAsYjjm2k2y50KM6L','This is a description 6552728','02.25.05 05:35:00','06.29.01 08:46:00','YJ6ir5NCxB4AULUv4spESHCbUAZzZsueDUWgWXECYF6UDG2e2cD1CBFRazxu2SYVPd1Gz3UiiznWl73wlWQkW',574248);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (353,'4CFee3y5kSazaQHmiSR','This is a description 8251321','03.06.02 10:55:00','04.03.13 04:22:00','mzSo254IovgahdxSKbG3jFEjTKAZoSkLK4ICB7RvobtDznurV3x0QwMlBNTxpnVhlvEcQXBTh',373727);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (354,'I0DRSOakKQJTAuq','This is a description 3408175','12.07.03 04:51:00','12.04.02 06:51:00','fINwrpvqcd7MFLUD8ZNtNwPNpIiy02IDovGQKo26Xofz5APwpKzjJF3FBNGMgxhV0NIzFpPtL2tI1gKzu1qBtd',486635);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (355,'hPDCcPKlRKbE','Description number 6912413','08.06.14 03:14:00','08.20.04 02:43:00','kaLEzft84HXT4w6Awargd6b0',146676);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (356,'DNMZs6hcPYGGb03HYHwyK','Description number 5657525','11.08.00 10:42:00','10.05.11 05:28:00','BuXchBrkEacLmLT5tvvF0fl6GDXKmpRrTRxBYwH58GCtaA0ouYAanTsjYgb6QF8Io23xdnPPzlbAHPWPOFN2UjfC18viIE4dIYJuQYuC',596823);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (357,'PulnsHCsEALKZuiW7nfG7hqELtTHuG14','This is a description 7099844','12.18.08 07:56:00','04.17.05 04:26:00','YV2pNBtM165tWS2DvCKSNkmB5abqaRMsEyTqFRZqNY2qhUnh5UNVTulcDvQVNgrUdOWq2tUJ4dmnXgc0ds3',843730);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (358,'YLdBOQKecUAA5h6UFZCj54NNQde2ZZwFZ','Description number 5178564','02.02.07 01:58:00','04.04.03 00:25:00','iWVCuKq2sp8nC1FafCwek7qVcZ5E5ZpGLPHbT7AcUiCtvqq1rMG0yDOv3VUmGj0WdUZ1unlSVSBGeRsoJj6cf5gyQmgrcGZ6Ueo4KCjsw',746581);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (359,'aeP4WuMjpced0JTNt6bxBsm6GvohBlHlUQnyrB5Mbb','This is a description 3759411','03.24.09 07:20:00','11.12.09 01:41:00','GFPSw0J2VYVDU5yrL5F1zFAUyumrl0Ogf8LknK1OSys1fLAlsQbNZdta16Df7qGTyuoz2O',945010);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (360,'lV3AdhDoXJ6Ucu1HoMcp','Description number 7273454','05.20.06 06:47:00','10.22.04 03:46:00','Tl6uE43hs45tgkMv2sFhQmHPOt0YFstYEZA5w4wAUMufx4lPLLhG07hQwBcHa77uv6w5DGJEk8HtZxTpEpeCcGQXeCa',771473);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (361,'ONHJ2XePo7YH6FCgGp8EDX5RG4','Description number 4531607','01.24.07 02:10:00','09.25.09 01:10:00','UQqvlDlcl0X4l0BvbuWGukKJT5FcLI1RE8LilhZOSGFi5rnVYZLrCsWR2Td7EAKNikU3MHZEL0OLeUpwQpPtNCH0nA7ax4dFVt654vTzZv18DMLXRhYCJA5V1ytCU4oix7eK3nvbMW32AJ',523309);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (362,'Y1UAoN6x','This is a description 2540199','12.13.06 01:29:00','10.01.11 06:55:00','dS3PewKuofjHTXPcOMiMmjtPBAa8jmEfEdRHIrbozbvfvxfYlYVHdjqxQDlYJF525LYkWfn7zvf56hU3PAewPzRvWfAJURtoKckAwZiWPfOcnVlmyQ6pxpO8Gvv5iRyqSyaErvMBVbCfXzXNlsX',80966);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (363,'yh5pvONNlDPfCZYNTZV5I1TakQ5m0BESw','This is a description 3287196','02.06.10 07:48:00','02.11.08 10:09:00','VTzZsxEWkAKhWCqJ0p7emCKZQC4vTaKgR5eDDVyp',105860);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (364,'2Un82gAGmcnSiJge7zqRvGcpfqlOmwBaNCYS','Description number 0779354','05.04.08 10:21:00','04.18.08 03:11:00','KDw5BrbJD80qtpDgSoEeX5sEUXcc8KfrMf1brUj4jApHF8OvqBo1F3cHnmKjzMd8',377975);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (365,'CIdxRWk','Description number 5850873','03.12.08 00:50:00','11.14.04 08:50:00','4kvdNN6nP2DrwEUU7DHlL5yY1IjEqKDDumCtcCFw3Drb6F5dVFIzMwx6i',500352);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (366,'CgTIDrwBjJ','Description number 0528887','09.04.04 01:15:00','05.11.01 02:21:00','Kq33k6U',496621);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (367,'vyBl1Pgu37ViIWYpbAbcv2kPOcBhnP5WiTefsbx','This is a description 0920490','07.13.05 01:01:00','04.11.10 05:17:00','hv1ojKEdAauVhhmzgEBMIb1aHvYMDMVcN8yfcbqFYRfpQEgaQ',671697);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (368,'OknwGmjMipejC6FEcFuVRtoxCmr','Description number 4492124','03.03.02 00:36:00','11.30.09 07:38:00','7oIsbvJ5CQqNQA4CBrop1BmzDhdewFMCC5vOHHRuDLfzQfwPN3PqG2S3ughj8y5W7m17jpcMFAVKkQ87XRrP1ouoIzRmG7zHFBDscGeNxHuBAsMMTyGan3wYt7USoRiwqrZIeOO82ZPOvvc',919806);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (369,'V7Hw','This is a description 7948008','02.14.12 07:14:00','05.05.03 09:57:00','aBF68CeCKxiImJqSqMVyAGvTcm86qqIbAiZygfgVHaZNaHFtM7nwGm42E42P4YvalrzulQ7dmW8iKi4aDYAcF3u7UyGTKfZkeg0j',724648);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (370,'iwOwT','Description number 3621691','05.12.06 06:31:00','05.06.13 05:22:00','wzsYN0E2hpNERoExQb77KlXC8Vz6tZ4uMdC2Xl2vZjurS7rHnMtQofyM4WkHAjiNrdRSpeKuK3nKuysHQHgmayJe6PLiCTJ0N2SyIFrAyQ1pJ7CXrv',361220);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (371,'AZsuuduOv7','Description number 6521957','06.14.12 04:18:00','12.31.11 08:37:00','X5lhuTKas',43258);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (372,'SNl50bSuPeCGbKKUF8vpTwab4a7UKal8hZgaX7lTclb','Description number 9313006','12.26.04 06:40:00','11.22.00 05:01:00','CrAwleQ3tQQm3DoTKPOG7cfcvhXVMwlyYfQTdCxnQxmzWMGCmYOjDp6b0EFL1XkRKlyFEtfqU15wR0rEd8MM3iwsrQqonXF3GZcQPwtSs1GD0',846097);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (373,'KgDL461CIl2XbLQCp0CSTMgs','This is a description 8423891','11.24.09 05:45:00','04.05.09 08:26:00','N6IiN12lJ8YLt8YXllrfDJhdkZvbkBFuob5aJIT28FK8Us7cA7ILP0g0dRESi4GjDknVuRP0nNW6DsO1BJLWzRWrfLNOMyDXkvVhRVpdlmSqJUldG8mx',920355);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (374,'K2j4eysLtzrmvHeQbGF2wqxrBb3nBhfowdCuAUiS','This is a description 8927272','03.08.05 06:36:00','08.02.10 02:24:00','PYt0gYTJ10F2M5Tw0r4QLdd0vpWwC1GOgYAd5W8EniG',997646);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (375,'JPhdFMUQNfaf50Ak53YdaOn0fPyQUkfzFFJbc6','This is a description 5127601','07.23.14 08:40:00','06.26.06 03:16:00','4ezoSSmUnnAna2lpnuiGzRRitLO6FZ4Jxx72hETVBWenmwTLJhYwr2EIvD7Veem2',838396);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (376,'2DgcxEq5tzTk4yZKvyzTVa','Description number 5664489','11.04.00 01:32:00','05.22.14 01:56:00','OfraR1UBBA87ZNh',776285);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (377,'z04yXrxVG0CTvFP2xnGbikY8VcCHAKFQfijWXuZvW5TpN','This is a description 0452632','09.20.12 00:43:00','09.12.08 03:00:00','IHhE8haojqs0HO',221874);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (378,'EouyFncn3qpmXnwTGMoHwD7mQ7f0yiZeXPeWYEZJ','Description number 5929445','07.04.01 10:36:00','07.12.14 09:07:00','rn7ml5HiWH15SoF6EW5YEPNATp8ptjEQ7dxovOn4fJZTv',665484);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (379,'YHpXV82wV10CsRBiqBhnNbr','This is a description 8087511','07.17.13 08:25:00','03.30.01 00:09:00','Px4QQ4JvYnU0Mj8jer58LdBJ1voQgTMrcxDHLyUiaScGluYI7c1N38y4Zp3FRZhE5qpMKi0pAjEiX5gUqMhRKRe8Ykxe13vXMw4Q0CxgvFo2TO0rfgPHAxKJoVRgmnwOdF62yt7KjrJrZR2icV1qWWIT',740632);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (380,'Ehrv4J3PNTBzuDlVOtGqJN3fC7D8lRFi','Description number 5775051','10.20.05 07:26:00','09.16.11 07:37:00','dQWrNE67nqbmi2ChflNzqxNWuVtHPzWy1ubHvXhLbuPCC7jRjlizOwSmOFNqzmJLS',570527);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (381,'vp8wS4ky','Description number 2151053','11.24.13 01:33:00','09.29.11 08:35:00','IzVETb8yzBhDOzPrSeJ1qjxCLDvAv8cLmBUlsZsAy50Yk',980515);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (382,'sCVN5LKLbESf6gNQSuuLbsoDAdtUGdhDgNwqgzltynWRl','Description number 3498008','04.10.05 06:56:00','06.10.13 08:16:00','82xUeJUhp6oPPKjBKpYNJLluzs7msP1hgThWY3AFxEosthk8ytsxK26QudpTFicG4AjPDsnpqovgnHEWg4BTYDETIBsvTqKtqENTa',854339);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (383,'aied7TteGWYreADwZSzmutvTL','Description number 8357436','06.21.09 02:12:00','03.03.14 01:23:00','WdJUu11Fyt8T3CXy2NR2ezRbSngscIVM5RXSeEPo4TzJMBXWcJMVksFZkLxh0b7TOv3ATymOUHbkM8KGSQbT0',61804);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (384,'JiMtSdpV6ySnR7rd','This is a description 0296278','04.10.02 09:03:00','04.12.10 08:44:00','ZT6I8HeMPqEhJv2xfzhb3v1pnOYKObCagcGzFrZE6ATuInXizplP0owE',393273);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (385,'u2BZETuN4hjm','This is a description 7130627','08.26.10 06:18:00','09.15.05 09:09:00','Yi1p6t4OXxkZeRXyfVUzxH06WMeF11oHfONLEgxQdIbzd7mISH26DQyHTrXUNkBcweWYpV6smaAJtuEHBlYnRSDU1C4QtWk',515580);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (386,'DtQn2x5N0y3M','This is a description 4677772','12.22.05 02:27:00','12.19.04 04:20:00','q5Igq5xEolenPDM1iKT7GFM6uczG71RA',974814);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (387,'cD','This is a description 5111170','07.03.03 03:35:00','12.10.04 02:16:00','NptDpg7oqDFYaZCvwwiD7dbvyp6pQ3uinqqOwrTT2oMHlXKVX45t3rpQYSrCuPtf',434628);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (388,'FzBykDMczqn1','Description number 6733688','03.24.03 09:43:00','01.03.05 04:27:00','ZRgEq4bANgkHa1nBrq3uWzVUVSM85dbrRqKvnBReNl1kp06G',818787);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (389,'AOH56bY5E7s0FcJLsdNeQszLHgBqETXbQcx','This is a description 4884262','02.27.03 07:40:00','12.14.08 02:07:00','7ggWP0mgpFjtiShYtVZuArmEY8YFL3a',375538);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (390,'tAKxfGcT','This is a description 0674281','03.23.10 03:03:00','02.27.10 01:48:00','yFap8qEKmiceExKTBauZVZ4l0RlNyJUYs4muskrrA35u6Wbk5ezqccAJ1H4xjN6MbJP7jKssppk6yYadGagK365dkLs0OA0Z4JsAmPhTZLY',720848);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (391,'QcZRmq','This is a description 2844736','04.17.10 06:38:00','09.07.07 00:22:00','hgILyuAtdN0mDx318LQSdgcFlU3rVzpTLUoINEdcuXpU3wevkI2KezLfiUGJ4NDKBQAMNNMsIhC5YZUaRrodK2rr7zviX66Zf1mYINDTrb8I2f8Jzn',677203);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (392,'uHV0d4t14jBTfFOXVX2gjDyevxZBiPWNnwAzdVXj','Description number 4636440','09.13.12 07:31:00','12.26.01 09:15:00','4VTNvu4cpRKvb6QWgy76qAXt1SlJk4XB6N6HyuwiiA3BygiaOQSbKcADXbFTfXIgcjFkMOSa6a647HFjklCYce56eu4CQa5drConV8SqW6MTQtz513LPWthvK',807186);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (393,'YEATTUO1gkfOkvZ7zDqTok7DhV','This is a description 6485375','03.12.06 03:58:00','02.17.10 02:25:00','YntrQ5CRw0IGmY8VTUAzVmh3kKEi1uB6K2zbOiBkyRmmSmPEZ6Bs6MzaymKMyrQKVjj4QDEPwlrU6DUAFsqsDczyHr7DtWGJASMgjmHyMQdTzgUTcAOupTO7oLs5PCjP8ibMrdAjuREkXS',897674);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (394,'5JkHFLR2wiaJPBHj0yAfTPWh3JvjGTStPw','This is a description 6926545','07.05.13 06:16:00','11.08.11 09:05:00','5D2V1jzG4zQmddPXaXQ1Z',88457);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (395,'c3FKAV25fYHJ2nRLHjgqA73p','This is a description 3665217','05.10.04 04:13:00','09.21.05 05:21:00','6NgsjMhjoxuX2oYQye6wIACFjoWzfGmfAK4QiS17n',805591);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (396,'RxMgujTYiha8RDtbb2bzRk','This is a description 5196555','03.15.03 02:04:00','02.07.01 09:00:00','WZG7RyqHazGpvW1l6q2KP00WuZGISEclhp1wippSfUVE3puTDB8eF37tfFSjnNGbsYtaukJeo35BJTiQ8Ao',575817);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (397,'FAnA4','Description number 8188521','03.26.09 00:33:00','05.27.10 02:57:00','dcAIirtAv8uUvzgwzYS50Vep',823939);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (398,'LLQaCRTVQfmJ30cRghEklKnPyubBelz1FciV1OuefbXm','This is a description 8952958','08.22.07 02:42:00','09.02.13 01:56:00','IxXuT35',287601);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (399,'p2L1c1vIuJS','This is a description 1201280','10.24.03 09:36:00','05.21.14 06:48:00','Nazwir4drs3GOxDtOUDTlnl2IbFcQvjEqiJUwjXRxrc06to20bXVLuL6UcwiWJakF8oPBpEYP4Ekpyc6JOL5OrU0aJL0iQsZejm0uHglaIF2j1ihnATUlFe7Sqifdh66eqpWXo7eU0JPdZv',473366);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (400,'P1GKOaMq650sSjJqB336saieVMdAMgwlsDMN0','This is a description 2523338','03.24.01 00:28:00','01.02.03 02:05:00','mDP2o68ZHcy53hyn0BdMtxTXoq',910057);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (401,'uarcNtEhW4dUMONSnjAVOx5vjvG0V2Ns2sLefUP','Description number 3615169','11.29.13 07:21:00','07.06.03 04:10:00','PWMMbzwymL2ZPXQVqhT8CjpVhtmtZCPpOTNMvKVAO3d1yu0aZIYGoJWfZEXiOuXwSWNXtuXrV',106909);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (402,'EJ4CZ63zVjAhZPvGCLQr0EgYv','This is a description 5849844','02.22.14 09:13:00','01.15.13 03:37:00','E5tQ4YQOOYvax7gnWwDPofVJ6XsZpuHtrd2m0iRgs3BDf8C1jkrTgtprsuPU8AWZ17uudKVN4EykWc6g0pJ80NGGVmwERv0j2eyqqnj4uLdocA0LZlo1Y0xXWNTIp70hZbaXZgG5d3LX',176738);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (403,'B1pO7rrQtQ4pAnQvJJJfKwdjnoN5Hlwo','This is a description 6998577','03.21.05 04:34:00','08.29.13 02:36:00','4yASQXALRGE2VIiEVvlzaN7gRcL4GqUooKzAJZdB0ZAHwx77TdPCHcpvFHxmCjTvD7yp3uJyoYIaSaepKwUOE6Y2u73uy2ipQl5G',921526);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (404,'FXeiVrMZUQlYEUIkk','This is a description 2398840','10.26.13 10:44:00','07.15.00 05:53:00','v2m77MvcZ27CUhenSmHHo3w6jyn',708347);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (405,'FjN1iTrgrok','Description number 2661533','01.13.11 05:27:00','02.08.11 08:49:00','Fs3SZUiKWTbuqfKSNXqYBXYX5QMwb1N1ltGSiyiu2jB4lIOS',87270);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (406,'CVwzwF2phSq1HHrFCUS3hgvm3T3RDY3awwGIl4RaDNOSr','This is a description 0423495','03.31.13 00:08:00','03.14.08 06:47:00','yZ5bOI0rliDDrfoKzLnDMqLBXbsxOirqEjSn56mKfuKIf2wCdeFie75n4RE85gdYZO3Jn7Nm6DmyQZ',110225);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (407,'vb7tCkNqPMhXSyOLLkS8M4eKXL','This is a description 0016934','07.18.10 07:41:00','02.27.11 01:31:00','hWojN8PrPhYTG7hFbEFq2EMoOpOffCtpl8yWk0kHp5rJ0eG',393440);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (408,'nrtZL2AWrRZSg8KK8LmmTOlzM1R7ilZR4O','Description number 9282543','09.21.12 08:04:00','03.21.11 10:06:00','Qvd60J02jIKjzHubaxU14Cz603bL1gW8RfnIgZP7KrSEkGT6uVvMvJgeGOnqMiQe1r3pUJnt43gzk5iczAPzoa7MX4lMW6kjbrfOSkC1fpFc6yHQyIpEqTB',337989);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (409,'Qc56DzAlsl0H1vt8dV2XBADlvRXtSkEc8X','Description number 5154535','12.10.05 03:16:00','01.15.00 08:50:00','5NnFW2VuudzMJEiJDFFbKFfG3ArxuDVTORb0v04odOYDkuTOeLA4dSLVdnIgqktP5Y1mq1PAKI2nAbld1StPLvkZnA5UpvFExnrOSRp76sQAGM6f5ClVRkLyf7rAleuODuGEMQmvEUgwEZZzCse5',127542);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (410,'gw','Description number 3721284','07.20.12 05:07:00','03.02.09 08:26:00','25oZbAcJhCAlnbWqUcOjLpRiFsNGeQUnN6M3Qzlf08yLKidNyOUzzLHvK5pXX7vzVbm7AAIiNV',976629);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (411,'rfQcMlx6a5X1tOPMW6gDs8dIsXoUeF8','Description number 2397119','01.14.04 10:22:00','10.12.06 04:01:00','gMCUxqSNFozEomPRXlAEt0fHxVyKWNZSURLKGSROoscFDofGFcWCjytdEgDR2R48hdSaBQRnfUZ8wgVdUxoWV1ElV8kFWGhgPKvUfcER8P8BtIFDvLOVGjtg6qf5keFHJBzxeiQGyvQBMa',744409);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (412,'ypquJsL6rMYSMGD2CvdudhUTDQxdF','Description number 6162164','10.28.08 03:21:00','09.27.05 01:16:00','tzolmpegl51ArELzqLwYjsuyd62upQL5BKDcpecMhFyi4wXQsQi6hfa3ufIDuju3dDPDD3e8sM2zcFzqphkehP4cDgZ2oXF5UhjQ0GV',23259);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (413,'moaLyOV6aLB4l','Description number 9549305','12.24.05 00:37:00','04.23.00 00:35:00','0YoHWlLSfyjFhVJ7XJ6NZCZoBwZvnqXnsFooo84aIvv',581350);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (414,'cFZ2p','This is a description 7572046','05.29.10 07:28:00','11.28.03 04:02:00','LLKxqeGbYky4PPWKLnwvq68JmwOSeyRNhJz2XoPQn5CFeKJp5UYtELKX4DFK7oUk4OtO0RCnsIycTgOdcjMfS8gkDy5G7ccqXjyVMNYlkN05McQUInbORX54hJkmi4dtm6YuK3X5ppb2NK',905032);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (415,'C3T','Description number 4991549','08.09.12 05:21:00','01.19.12 02:00:00','hqEDTjtb1p1eDibIizA817Uydee7oQ24I68wOHi7TnvapaWxoUnXcUvlsKTAH1',99489);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (416,'4uG','Description number 4344173','02.25.02 10:31:00','01.03.04 04:47:00','TtCdBMkh6bmPUcYyjkARZodtJLu3RuqRn0IgM3aRmxMvNvHg2mKfMCDgfNdRH7TuUOx',824646);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (417,'iII','Description number 3828537','06.12.11 04:10:00','02.04.01 01:18:00','8RHojoTgzFtGYJ3G0apRuJnoCfIKc3udKJo1IQRSnxUCYzjTFxjREZvGEIJvyZY',837300);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (418,'k6ptRXtyPToViZf0pOxTlVx2XmVDwBzyxR7','Description number 2057410','09.04.09 06:58:00','05.26.00 05:27:00','nkELIUtEQErKCzPRo4SNBmayS4Eu8oEfQg60aEP5LRMbAfhHzZQsLAxz2Wglkqe5fFojgsHATPs34K1KXR16oKYnfNuAQwiONCIAcYMCM8ZQVB8tmCAsbbamlEPf6C3tSpmGix6',799141);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (419,'NzCCpqXYDMeMkunDShy4nU5aJII','This is a description 6383984','11.19.07 09:53:00','12.21.02 03:29:00','lQc213F7evSmTtUIgRscNCM3ffTpQ26irLPb27CoZxWp6IyLwowyJRztsAo6nkYNIjwCsLKNNRyYPhUzxf1QCS',229373);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (420,'16TZNTMeAAjdUz1JPEZ2h1aogn8NnzyZY','Description number 2099050','12.17.04 00:39:00','11.18.13 03:19:00','qyvnLin6Df71BtgNtphYTSEHN5Kac7YToDPXVOqOdRUV1KM65YZU',773802);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (421,'JXVBsPpo','Description number 7123137','02.09.00 05:34:00','10.07.11 00:19:00','IVYEvfqBiUCaE76AAdihlbr7zdwd2YckZNMdTXkaOy455dBRI3zcBy',193205);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (422,'XYyq4CxwG','This is a description 2478683','03.05.08 08:00:00','05.13.14 05:48:00','YCxNx4EJcqw6VXN16Vfnds7rHU64g3FiQE5pV5gGPyvZJ0iVBNlxvlPLg6Gj',575200);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (423,'lgvqGibLnCkl8f6jwFX5vJANOCA8CUHxzc2tgW070cn','This is a description 0418889','01.20.00 10:57:00','11.21.01 05:57:00','bonrzsORY5bpoJPA0zjDnFNQ1FVPgsoFITK4ZGKziYDb785sLLbzVnNYqp3k5k31wFXmqGNXwisZDGxMcyFoFO5xnYegx3aML2',477350);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (424,'X','This is a description 2207431','03.26.07 06:33:00','12.13.04 09:15:00','njcwC0jfIDoyvrErTr0XJqr8RyQBQSkkNI2L3hf5nlRwq2rwjaIe4m3Bco00djdLttIMHIGufRIuO',203353);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (425,'ZLNHFOJBzF8gWw5HRqiaxhU3e5CMSXjEOC','This is a description 2560110','05.25.01 00:56:00','12.27.06 04:58:00','tl0gO1gZwfdWVLstGw2znV0a2qhcrMwIMzuWeI7JPwpoKvjiwQKZzVio1BpvY8xWOxMPvHKOmEAw8xa8JR1XAHvxCQkOvAXi',471355);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (426,'4XOsRmjpqfOkTnZGk0qd','Description number 5969108','07.29.12 06:44:00','09.14.04 03:39:00','U6O2QHPSNUJzoyYFaneOTweo7LNJQhf01sO7Oua4oVavbK7Hzc0v1eiKfv6LWkr4kIWlt8lDy4v51APXvQ5T3SPigpJNcQLGHtp23TY',898630);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (427,'nP1Gj4zWEzEyAE3LopyWGr','Description number 8922568','05.11.00 02:30:00','10.10.06 09:41:00','LzEHg3VeKDsb0dkxfTgcLgSOfhFsiYoEPAKR1hBa2Iqv0ERV6oUQuqSnhmkE5MyCebwU',773187);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (428,'RYW8EXCkHMhhZ','Description number 3769441','10.08.11 07:30:00','06.15.11 10:15:00','1Jcufihz3fIWKbxqpMhgDfdIawNxKVakv5Xt8m26yC8NMxkI6EeJjyxfDa5dmRZlGsqrI7hb4RQqpV5mpZOVSIf33wgw2zJoC6JjXY0Y8',505384);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (429,'pgeY5dlZEcgtdZIbQhk','Description number 5045951','02.16.03 01:04:00','03.25.10 09:12:00','nKJdgymHMLPdd0vknShtnAYuJXmMxvTh3CE7qQGypxa8NZ6bc8TkaYtmNXmmbzTCvEVAvaBsM6nRCbXKbt4QZhLWfItMaWtg6YG8AvE6Qt6iAjU6gEBCVyk0KsiPndMJEMphke',54790);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (430,'PMt1Hzlol4WDng','This is a description 2247665','05.10.04 07:33:00','05.02.13 05:26:00','pYbz3cIPWoWw31N',4402);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (431,'NXYX1ALuo3YOng3OYXL1h0ZgdJYfk1sUTelJX0l','Description number 8721761','09.05.07 04:49:00','11.04.14 09:04:00','ijkngvAjkDtZWCcY3Mxb3OBLwOaRAc02EuEdG7nMGjV8fD3TqjjcHVdUCgAZBtsgPKs6aSZGRCoGfSSkUsOm3RxG5pCN7NxX2eOoPk5jKVDoCuAWMzqfjKtadWIq5MLbaqRy0HNZanwuBGwHJguhYk',748277);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (432,'tFu5fUXtFWA5ysCCAucD3wtLfOpBPHfQ','Description number 7859488','12.29.07 09:11:00','10.01.13 10:39:00','ykp4m6BsrUi2shkma7TOM283rPH1qKjlpBhBHMRw4PRFluuBvGFghwIfXZ7lExel06F4Eawjgrn3ZSPfyuubvqOqgJqn4XPwO25Y1FBhAEsAeCIoA8zYYwDZChJt7aJM5v2MevdyRQMphEjk',502868);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (433,'3opSxJEcFVKDDbqMRasNYHoLyIuERJKf','Description number 7761820','04.03.01 02:31:00','09.09.11 05:05:00','27FJhxjMQvFTpZ78AKw6JxZVRfm1OY8GMVQteKkk4OFmBhkWwkLiYNEkRDYz25y0zosezti0voUntHk2ycldutdMZnRCk',945077);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (434,'HvoMsn2COuFvFYHPajd','Description number 4029480','03.27.05 03:52:00','12.16.13 08:25:00','WN5vrRXxtXpEpe4gtxBtYpDb3fBcjOU7HlphMRSx4WM5EHOYdxq0hIlkEmOxnlr0sC5C3hQwRjkvlty7MP0vigOPVz2qpnnhxxANP3XYd3SVMcy04oJJ',454175);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (435,'xELvKxmDzga','Description number 0268457','06.14.06 10:03:00','07.09.06 10:29:00','wM5Xh6qZwTc5WDSOQXCY8g3Mn73nZsPAtP86SI2qZx1KSiRTAOfR6xUYRn8s1QfBljQpsAYkxdo8BsdQzWDu67vzn5yFhU8uN8UtSOupE5ab2Y8Zd1fLQ45jyI3Hcp',146485);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (436,'h','This is a description 8179958','12.12.03 01:49:00','05.30.07 06:39:00','t31Xn5qvxRRqDdWvUhI06oMPLomzhPzbXJMPpFK2rgb',367402);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (437,'aEQh8hCQiKkHcxL2uMhIr','Description number 9192606','12.08.07 09:19:00','08.30.06 07:20:00','6B2qS1BLHOBXC8zuXD6JvnqLII5W5QvQlxKrsicAucIMJ5CK8JA1LpbWrC5vjfEVAjp4NLt1QzDYAQDAaikkRNcoPCMahMehwENbV5Yx871GcIScDm3l3KHPx',448658);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (438,'yYpXuISQ32AsfviLbBQ1UQ4YeC','Description number 0980556','09.15.02 00:42:00','08.16.06 09:41:00','n4h6Nz4SEVkhQteeLryjzGbrIYyDsvUTgB',191158);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (439,'zYJtcwUWHqrMuQMri7SICZjlUqAFgD34pmRkWQZN1','This is a description 4013297','02.15.13 02:39:00','05.11.10 07:00:00','rEn5hE7D5FYj2cTUTbUh0DadCKXZ4ELgSVzePfknZaPbtHj41vhnpIpT22tfskUoyn7Irl00UjNRzvVucYNtcvryg1lNIEV05bh8GnPfXilIel8R',273212);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (440,'hioAJ446zJ3Qih0s','Description number 0337666','04.29.09 01:18:00','07.06.09 09:13:00','Vh4VjuSJgwGMOJXa01zsDHaoWnDtB02UAc2EXCuMEMNo',643526);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (441,'iyqpguKxh1v1W6igcFL5GlsDbMk2qfN1YoZ5W4zLv','Description number 9552587','10.15.06 04:58:00','01.28.07 02:02:00','030ZRvay54KPei8ZASi61GjIIMsOHLciYfNlZMWCFpwZT',116568);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (442,'KH7Wc2aYTwpQ3GoMlAEo4hDNFEmphG0TSbUxYtV','Description number 7080833','12.13.07 04:40:00','08.31.09 07:08:00','l0ha2EWLL3P4vobow3TmTd8UztkXYhsKoL',14371);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (443,'hMppkGzuXVS0CVBv','This is a description 7888106','05.29.00 09:10:00','12.26.04 01:58:00','SsnoOMeaGBjiztnKQfE6A57bN0QZSZdjEJgtvYds7DZVus1qpwuSY6jZNhPq0Ik8UzGBMHKpsTWbjRPezs',417883);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (444,'PrCthFYSaeqpi','Description number 4642096','10.09.08 05:25:00','09.18.01 05:56:00','pmkLGa5OvNco5zLGeh04PzAuWSuMnTf4VhHmSCmqqe4dsr4xbIZHjDFqtgOGfCiAkC2jYaxdcv1TTDN8GoWk3XovlAPgfGRLPf6VNB2Ov74t83IEsqVfDXQmabnz7bzZ0B7125oGJYb',856868);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (445,'7YxRaJzI','Description number 7547855','04.20.12 04:58:00','10.05.13 01:48:00','LgpHtgEXjFyBHJtfGYEQlPaOuUJlPn5',999153);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (446,'NKholYUTWrztFzp3BpbkNMRm','This is a description 9370708','07.11.01 05:04:00','06.03.10 00:07:00','FIooymYJNTcIWhWIDKSEsi280B0Dwzg2xxeyCOLACicQb1IDEUCYJBcwGM7XsU6o8HbuheUiQINWSE21lzgPkQgP85V3UbgNQtzmTohkYNuYLbu4dDNgUh3NIettw8RYQJ1cdGC4g',347446);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (447,'gI83Vp0soJyzNTnM4NEfdLPMWZ5PVgK2NrGp','Description number 0181829','04.19.11 05:28:00','05.05.14 02:57:00','2cgCLOSVJpENJr5ktoUG4XOpXT2GJxV0TBEO0Z5CNZa1RWIwezkP2kkcFZTLMJCt8C4opCf',41567);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (448,'KBjAHLZL1p','Description number 1663560','01.26.02 03:20:00','04.26.06 05:18:00','2kd1sQoKfF4f5uQTe0psFJiDv25SeZwU3EcFlMl3CGj0aqgibPRCLrpQ32aedt3PACSyn7beeUdEweT0eD2I0SY6WUBtFNAtBJh52zKhDLeMQpV1CntzCGxjb1jxxWd3V80YmnLyoT16qBhh0TqTTWM',884684);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (449,'M','Description number 5093826','03.20.14 04:49:00','03.31.13 05:04:00','6S68BrodjxGI',53598);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (450,'CiGbPT5eTr27L4Op0Fup0zY25hmd0g5','Description number 9770604','08.30.06 04:48:00','08.10.03 06:08:00','gXJWwRjgd1ofGPsZP1m54EHnMiyywUI301yEway774OSaq6DjLzNEvFOBMVuayQawUP1RP',30535);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (451,'t5OTsvJDzhIGmK3C3ROY','This is a description 7602356','09.20.12 06:42:00','08.25.13 06:56:00','HBOd1vvluZwHURcgyGTQs216IJK7LvLPQjnzbdAlC8IVcSKpIXXlnyJmdqyf8CJmfNtZYe3wjha6pwbGxHEkPdo1AsGJUaORyrWluksffguDePZuoeUvIURsZHWBay16Vt8GnSFlYSGFr7w8j4RmTDcN',858788);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (452,'YzKMesCUXbi6NldtdffDk6VqvdpkJ2clen2TjAdOx','Description number 4458531','05.04.11 10:29:00','07.20.09 05:25:00','ViMbgDn1AB4M5F2Jtbroy6BzrxV1aRI3g3pDQ62P2UTUcCDl0XcfOYweNL0Up64N7kzYwL571Hdx2WakXAxxlW6QroPyp',111286);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (453,'gg5IARGidrg8','This is a description 5649910','03.14.11 03:01:00','07.13.02 10:53:00','OkFalbv33pBvUHKb8Z6z2NSAtwT',515883);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (454,'zLhacy4sQk7VRlbdpPcPUOAgB6xHrPPV67x7oNVrz5','Description number 1657067','04.22.02 03:34:00','05.22.12 08:01:00','11VTAlkOQq6SpPmCn67OUVVRFVTx73ov1jza0610CEi4ZyN1UNlIJlEOn6nP2',626510);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (455,'t3MQB','Description number 9941608','05.09.06 07:24:00','01.17.03 02:18:00','QbZNFwslvoX5Km0spwZhr87dGmw0AcZvdr1jnGYi1P',343127);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (456,'KiuK2xULoZHOtF','This is a description 5830322','08.27.13 07:25:00','09.01.11 10:57:00','nry6lQECiL34u1FW0fzhqhg',627686);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (457,'yfNuTd','Description number 4939457','07.28.00 07:22:00','07.11.07 06:35:00','Lu1oC68uacxQdk4MrTSA',38607);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (458,'04C5Vg1wAAOqAJbHcEyg','Description number 7022808','04.21.14 00:54:00','04.12.07 05:20:00','dqxfvkNOX6qs5f',420591);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (459,'ahXXdhYRFab4a1s6ba6P5vyedPwFG6GpqRWwg','This is a description 0550744','12.12.01 02:20:00','08.28.10 10:57:00','7rpOb8CTp7AoVLXOgjaJxwtO6EFp0aICuxmw16f5PvZ07GA3OUGUlpDeZvbv6ntTSmjtDlIxX1bbdXillSAHWaWDcAkkZtQWInYG4jYaGlMvisUDfQ',744670);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (460,'JYt5gRmekhbx7WvZN68KBwn5FnH7a5hKLEazm4K','This is a description 8331984','07.06.12 02:07:00','08.07.14 02:57:00','wD7oG17ySCQQwMuan4IBL1nuDfbKfRO2KyEs53Fz',333432);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (461,'ly','This is a description 4761198','06.25.03 06:32:00','05.02.14 01:22:00','VRrYgbxL3EAATn4wzygpbN',989555);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (462,'t','This is a description 7755967','11.20.10 08:25:00','10.20.07 06:56:00','4ALdVrenqA1v3sFDIW3Q4SlNUysMhyJgaeG5pKEBxW1FRNvUhPA4ZH82O5mF',663342);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (463,'FjAqtpVlJIyxPhF8wDrWz5w','This is a description 0112646','12.19.09 02:37:00','05.07.01 07:00:00','rPObpHET6WVY1RrE1pa4g7AMWuL4qPdZu4x7OejzUMf7LCt1nEdC8XsaYh0A76VDdRcKgxGL5Xg2bEpzEs6kUJVgu8dqqKMHcXerb7D23j6i5WDV2VPOf7WKWezv',99550);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (464,'UiHGXhrUNYXk2X','Description number 2035114','06.07.06 02:00:00','07.11.12 00:14:00','fcR0luKACvGtdC7y0WvLDFlHfERWsdrUjD2P6',234254);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (465,'eQfy5y4YLTSfzW','This is a description 5815884','10.29.12 09:19:00','06.23.05 10:10:00','HvanlFztkaG2yNWWQlz0d8HgvEpM8S6JknmNrJQRhcuxEVr2gMslraCBr4xJLbvIYIfqZpDTYncYkInIv5TWBm5x6NLNCl7boAMfimhMaKPj8fJcu4htOeymmB7kZpxXE1EsufcTlLbcNM',325463);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (466,'j','Description number 2366887','08.10.09 06:06:00','01.12.02 01:57:00','7AIPt5KRCfC5',157661);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (467,'v4KlxOTrUoSgsq8UBYf5pWA76cAwK','This is a description 6919625','07.30.05 09:55:00','05.16.05 05:15:00','xAA7uHrRMPVK2OqpoMYe3iTQ0Fv0trX4WNpZ7wDgYZHShPsYCXNLS5DvIZPqhIytZdsA7QRrYbk0',871598);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (468,'UBnigOQpV6uWzTb1LZX','This is a description 2290887','02.22.00 10:26:00','03.03.10 10:23:00','CXWv2RO68UPb2AaHRv4DIwLtV5',869887);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (469,'jgbEZ8r3GT','This is a description 8770948','07.20.14 00:17:00','11.08.06 04:35:00','YsBAaNLejo3OipYRciqIKjCaggnwBMwqXbjt4ZO8fsNp4g8urdJcWmyOP8CkgHrZnbkEfp1AHLoxQjgKojLCZmSMrYMhvFFtMHyQfz4YGxEWowrODNmKCm8Lwu8fnoLrfkUUPVk8QUEdEtw8h1D',869063);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (470,'MfOutH','Description number 5308360','01.29.14 02:21:00','02.18.12 04:53:00','OUQ2B32bDzrCQuNskNC1IXoo34geUmT85Nl68xO80S2I0UbmXmKWJW0m7oCOzjMVfGJPVAi12LVZH3fEZjuQSbqN6mtrgYtKc8pMn88IeOsZS',451780);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (471,'ScuAnqOEftfvdx','Description number 3108935','10.18.09 07:01:00','06.01.08 07:56:00','QMYWs2PZ1JiSZd6i1T4uD0PRTdwCn313XT4peoaVgOq7Ha1HghNBUnmeyekFpdtb1jOFw7Recg07QUdmcD6ICfV8kAG83E4IpW1Pa8gmCXXznU6Vjhn7mybiewOjN0dEM',496722);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (472,'t','This is a description 6513896','04.17.13 10:44:00','06.26.09 10:52:00','YDrS6o6P87q2VejaPjJ7MZfYw3Y28umdUGyDIpJKKmL84LueP',49626);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (473,'QUkcoPMuPEf1yCtiFU','This is a description 4198561','01.15.08 05:17:00','09.06.13 05:12:00','py3VzBzEiu02W83U70WLZzMsx3gQYRuoeNhiB28kKxSVBBgkUZS8cJG12GTxbZRegtAND7676Kl7sn43cLcChHPHUDBQ57qoIHA2tshvIEIloQ3VMVts',196641);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (474,'h3l6xn6serIx871gZBbaPVgLWzdVn7EXkbIp1ozQznIU','Description number 4342067','02.22.04 03:42:00','06.14.09 08:24:00','4oxNq0Z017KFAKTfPxj6zoRzPWEpiVcSMsQwHnYWLIRKJjV1pGs2OzCUymP6jZqDRH0gDf58x4pxNH0ipD4TxDWbCtzrqqsfnXf0GGZveWo5Bn3kaSrtBTUIVGBEl0ffL',481670);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (475,'U2ZMTxCBFkeNhnNSiO8lHnBi','Description number 9700173','11.13.04 01:46:00','08.25.10 08:01:00','dvObrWWMfE5IlsFdEErbP7itTV4Gz2macI8zvuHm6DNzxcB6C8s',107582);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (476,'bqU41UIFIYPjsSY2WZJb3Y4aPZMoTrT','Description number 0802539','04.03.10 06:35:00','01.24.01 02:52:00','zO8AOHLP0vmGtnuU2YVjYlwP48e1XTBfOCHKMLmjo6JSauFeMLDskBP5DzGhtDNkbYLAZi8O4iVuuMgBQkui',684607);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (477,'XTnRYsst','This is a description 6249066','03.12.10 06:06:00','02.11.09 09:00:00','KgaUv1Y88AYQYQzUQe1k2gl0S0g5G4YDLyRrz4ijynPteD54S4iMFTQg2zpMQv5WjZzM4XffJ5cgggj5gnV2EMASDSyOKIDhYkq2q5OeQZv6uLEZNz8x4EH',957771);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (478,'ZuV6zSXCN5AbNZ8F2LpiNqtrU4TI','This is a description 4322811','01.10.07 08:18:00','09.05.02 06:41:00','b3uDdTJzM40oBlYaFxAfShWBCvIm3Nyac1VyLqHOknoziZfGKQukkQr6gHmhmEOHwnSiU0mEJ0aP27',840700);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (479,'5JXJQdT7iI3a4NT3IA8f','Description number 8635247','02.01.09 04:01:00','09.16.10 08:30:00','CNaMU6rAMXt5ZYeAdFQFgqKNSGK5tGmi12ZrwrumSd7q5DKDDBExA2ABVZgiySqHEuTUVHHcTa6bqMRU1',202623);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (480,'h5hq2CfTCEVQ','Description number 3462322','09.01.11 06:54:00','04.14.12 10:17:00','MhJjeEBoap7C4KwqQnOiq',191668);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (481,'ibYJR1KqoddLqPKjkWig','Description number 9552107','03.31.02 06:00:00','01.07.00 07:28:00','A6xykYgHGieuXKvtJXqPPr6LHL2o',884241);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (482,'s3mTl66NQdGBau6rujNkvhoFQ1f','Description number 1568339','12.11.12 09:09:00','11.21.08 03:57:00','owRE7NTT1IKBTvxzNFSipY5faOCYB6IuTQrxVIZBD30JZtPF2JEQ30Xi3VOa6jNquAGMA1QCHMHInFLctlSDYKK7sciyXoKL6gvzzn5rDvVd7GtZ',568216);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (483,'8Wwq2gAq','Description number 2529185','02.18.09 05:22:00','06.23.04 03:30:00','mmVmU15t1QQyRaO2rq0GfCeYbMR',739889);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (484,'rcB2y8P','Description number 7496410','05.10.08 05:25:00','09.24.14 06:46:00','ttexikdGMV5W2RvVSwdesA41XAyAhvzPZbS10KGbvTxMtLC3SAC2HQ7JwHcYwQarH2qpUh0RGoinCFkfsnbUrUD',191923);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (485,'7VxI6gjFQH','This is a description 1697047','11.06.05 10:28:00','05.09.03 02:35:00','JxUnlntMEBywrE7H31atw5SGtEiIO0YvZ4xPlHHRtGr2F626QhPtWlEw',292437);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (486,'uNPAS6pOuNHHxGUrkW5o8uwsoQ6SdYWr5fOg','Description number 4074195','10.20.01 10:40:00','07.04.10 03:27:00','BCX7w4najeKC7wdfJsd8NlhfdUcLclkiePvEgPvcZEETiKmmIaTx4qOXosPjTCcWGVk5PwApa40et4zwgRi7SGjK6zfGY5lnjVfb2wH8IXTKhctdUl2bzJn2S0LEp2UzlrDzDsHOa5sNfq',785555);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (487,'q6cSwmIvkvLkhpbj8hSXMtiBKu2COcUNu5LdltJRP','This is a description 0765104','02.11.01 02:01:00','04.21.12 10:57:00','qdzEeM6slVhMbJ0bEQibOCn4HYFUXrbIlCir4mJpZIal2Bj3DmQUtu6jhAwffzapkJ1PDOhs5gXqHYV7xOhGOvHmsnQtEWqi26EM3zJ2XHMvSOtgXzKJQ5s7Q3GbCk10o6Jcz0XvH',517914);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (488,'e2x8cgUMl1lMrW85GBkqNtRbQgR3hZx','Description number 9086014','03.11.10 07:53:00','06.28.11 03:20:00','PNR2Hho2HkJUP3k63srNSpKAyR2X00Xt34jBo8zzqCvkStUVHsr4ufHWfHR4Nf7sGpKpVhIbf2',456177);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (489,'GImtslMwlLIyUEjGCueZ1Ull8DdBd5Dj01','Description number 6041795','12.19.13 09:49:00','07.16.00 04:01:00','kIZRHQu61oVfqlJWOZ5xvX4S2K8C1R',621759);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (490,'N8eb3iFGvGBHbyKxtWn58bvfnxyponmuNsCfX3AACEmq','Description number 0514007','05.04.02 00:29:00','11.28.03 00:46:00','guJJ2Fh8fdzk40xkaknNojFTFMDVFHq7OJuPH6xFumRF8yaRuOl2BpsbiMcvQrMd80qjl7ih71ZzJBa5QvFv4ka8igqba6hAwwwLN7zkHBn',697302);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (491,'KsBf8jE8oRWNN4kmt5','Description number 8879724','05.23.11 01:14:00','04.30.03 03:57:00','tY5sZVOy3tDY5nof2tNNLBVkZtHaq4C072tBxBCdzxp1T3WotgQ6sWSKAZWv0u3Z1rybmpuuqhdspCM36JoJFCovgYArBUjGKOrd3lhvcA34J1q6hVwtSE57IF3gw8i4mwEURIolgGkefb',323316);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (492,'G6EtW7J23wuk6Pmt8osASwC3tcf3wNCM3DlDdPkhgyCtz','Description number 7836454','09.24.02 07:19:00','01.21.00 05:21:00','LmZGZmG17Mm5yjgySY7YivuHNs2ZpkkO25vqGW8jt4mGYgB8GOZAgSObiw2XRqOao4pEbQTF7EeWyr51AMdCc2kBo26Drwv',118656);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (493,'aTVq8D4FjW7D','This is a description 7244107','02.13.09 05:58:00','11.17.13 05:01:00','uPaHRI4LSFJniSe3fUMbRROGMUKw4rtVQtlBWvtb0YKk4M',201988);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (494,'rcMDcBwfeDXdzck2yKWVbI243vxHO4k2wg','This is a description 6924804','04.23.10 07:35:00','09.13.02 01:54:00','qvyBkkt328LgOsdPzjBCqvFzlruV27TLTSli2sQrpFVVMJtbRBd3yFlDfCBA4bgMO0K3mIivQgNM',610971);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (495,'5f8HZT4d3bU4zfq3BxGUpZHXwRCvVUYpWL1O1','This is a description 3631619','06.19.07 06:32:00','12.03.00 10:08:00','mlIl0ehDgzecZ5M',461807);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (496,'AmBsOyL4cPbwYYZt8E6vIFPMafwfYzqy13MX','This is a description 1106306','08.04.14 02:34:00','12.08.07 06:49:00','Xs7KN8nUbjA2AlUylutiKQvoE6sofv1dTuGJNrgfzvhsV7BUV3fGOnPH83rGkuKYQvTnd1Iy8q7SJp16Hfa5jXTocep3kZoI7dUbAiHy5ksKBMSfy',891261);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (497,'zPL6pI','Description number 8965364','03.04.00 07:35:00','11.03.09 05:02:00','1t8UeIpz88bhtiCTBZOvemQtAhWGiARfB0rIIAyAFVBN0M78HHa3yrYStySILar3Xk5hPdP6W1VskxCmdDIHL1frghSdxRoCtb1t',47137);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (498,'sx5TYUsoBEA5g','Description number 1976206','10.17.08 00:44:00','11.20.11 03:15:00','gNmmJ5Mtynf4XLxew0ydRkhmQJoqqDGQ2D04Hvwg4dH7B1QV5pgrToOJXiOKwonapu6MvJ274WCQyqnIpgen',619366);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (499,'Ny0YLIHlLX0VyRdJi3ucYJQIsQp5WO','This is a description 8700196','08.22.09 06:27:00','07.06.14 03:21:00','4ZCypJlJxhganBngWsw3ivb0hqmOCsyTsWh4h0WC3AdDjFs8faGfsNs17gysGaEfyf2Dn7AhOau2eoC5Jml3rXW3pRcWJqQnzkYqeoK1YXzCytJYWDBo2ieEDKQgVr',178289);
+ 
+ 
+INSERT INTO exposition (id,name,description,begin_date,off_date,location,room_number) VALUES (500,'NlIyHOavH8bCc1zAlNGk50z66LGacjBxNseyZUKbVx6ig','Description number 9533094','02.11.02 00:56:00','08.27.04 06:32:00','VdKmXbTOzyMKGSNs54SCFNtvvnKni1OeE63LhOtE',538126);
+ 

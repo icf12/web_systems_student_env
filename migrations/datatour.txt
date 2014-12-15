@@ -1,0 +1,3003 @@
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (1,33,4,'11.26.09 05:25:00','01.22.00 00:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (2,100,8,'05.11.02 09:57:00','08.27.00 05:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (3,100,8,'11.30.04 02:02:00','11.28.10 00:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (4,100,8,'09.08.06 09:36:00','01.28.05 05:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (5,16,11,'12.30.09 09:41:00','11.20.03 05:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (6,76,17,'10.08.02 05:29:00','03.13.13 05:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (7,96,17,'08.16.14 00:48:00','04.12.05 07:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (8,96,27,'08.03.02 09:29:00','04.01.01 07:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (9,96,27,'09.13.02 08:27:00','02.06.00 04:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (10,89,33,'05.09.10 08:27:00','01.10.02 10:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (11,89,33,'08.03.04 02:16:00','01.21.03 10:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (12,23,39,'01.23.07 06:36:00','02.01.10 06:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (13,23,39,'06.18.10 07:32:00','08.23.14 07:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (14,58,48,'09.07.11 03:09:00','07.11.13 02:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (15,58,57,'12.16.13 01:47:00','08.19.04 03:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (16,69,57,'01.01.04 07:23:00','08.02.02 00:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (17,69,61,'06.27.07 06:45:00','01.05.03 05:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (18,69,68,'04.25.12 01:17:00','10.12.12 09:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (19,49,69,'10.21.00 02:52:00','04.23.09 00:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (20,88,69,'06.01.11 01:45:00','01.08.13 04:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (21,88,69,'07.21.13 03:02:00','09.29.06 05:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (22,88,75,'08.30.11 09:37:00','03.06.11 03:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (23,8,75,'10.10.14 07:37:00','03.10.00 00:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (24,32,75,'05.27.01 08:23:00','10.23.04 02:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (25,15,77,'02.18.01 01:17:00','02.12.13 08:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (26,15,77,'08.19.07 08:29:00','04.01.00 07:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (27,15,77,'08.21.12 09:08:00','09.10.04 03:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (28,80,86,'01.06.10 10:38:00','11.23.10 00:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (29,80,86,'11.11.05 02:48:00','04.13.03 09:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (30,52,86,'10.02.02 06:22:00','10.21.05 10:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (31,52,90,'11.06.14 01:46:00','02.11.05 00:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (32,52,99,'10.22.13 05:43:00','05.21.05 05:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (33,24,109,'06.17.10 07:43:00','09.09.14 09:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (34,24,109,'12.23.01 06:38:00','07.22.09 00:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (35,24,111,'11.18.02 04:10:00','04.20.06 10:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (36,26,111,'12.30.09 08:17:00','06.01.13 02:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (37,26,113,'05.26.01 02:33:00','12.20.12 03:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (38,26,113,'02.27.05 06:30:00','12.16.13 10:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (39,31,113,'09.22.13 00:13:00','10.08.03 00:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (40,31,118,'09.30.05 02:08:00','04.10.05 04:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (41,31,122,'05.31.00 04:34:00','11.27.01 05:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (42,43,122,'04.21.06 08:39:00','02.04.04 03:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (43,84,122,'08.08.00 05:22:00','12.27.13 04:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (44,18,130,'01.07.13 03:50:00','01.09.10 03:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (45,23,130,'01.04.00 05:25:00','11.14.08 07:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (46,23,130,'04.07.12 06:22:00','01.20.09 02:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (47,23,133,'06.11.01 10:47:00','07.03.05 05:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (48,60,136,'10.13.02 00:01:00','10.20.13 06:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (49,73,136,'04.14.12 02:01:00','05.31.14 03:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (50,73,145,'04.20.09 01:11:00','09.25.04 06:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (51,82,145,'02.28.07 10:19:00','07.26.07 06:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (52,82,145,'08.09.12 08:00:00','01.25.06 06:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (53,56,151,'02.28.08 02:44:00','01.29.06 08:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (54,56,151,'12.19.11 00:06:00','01.24.13 02:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (55,80,152,'11.02.01 03:58:00','09.10.10 09:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (56,80,152,'04.13.02 06:17:00','08.03.02 03:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (57,80,152,'12.16.00 00:36:00','12.12.01 01:44:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (58,28,154,'11.03.00 02:35:00','01.16.04 06:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (59,28,160,'08.24.09 10:45:00','03.16.02 04:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (60,68,160,'05.27.03 06:27:00','01.23.01 10:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (61,68,163,'01.27.04 03:37:00','05.03.10 01:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (62,35,171,'08.27.03 05:45:00','06.23.05 08:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (63,36,171,'09.14.06 06:07:00','08.13.05 10:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (64,36,171,'02.08.01 07:35:00','11.28.01 10:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (65,36,176,'09.16.03 06:12:00','09.15.02 04:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (66,64,176,'11.26.03 01:22:00','02.26.01 08:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (67,64,176,'01.03.04 00:10:00','01.28.04 05:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (68,64,180,'12.30.07 07:00:00','07.17.10 09:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (69,33,185,'12.09.01 06:58:00','11.06.00 07:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (70,33,185,'04.27.08 10:13:00','07.25.09 00:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (71,48,185,'10.03.08 03:57:00','08.30.04 00:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (72,34,191,'03.04.13 02:14:00','07.19.13 09:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (73,34,191,'08.23.05 05:34:00','10.14.11 08:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (74,34,196,'11.25.04 03:56:00','09.04.10 10:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (75,14,196,'10.29.07 08:55:00','10.06.10 08:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (76,75,196,'12.06.13 10:55:00','11.05.07 07:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (77,75,201,'01.22.10 06:28:00','08.08.08 03:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (78,75,201,'07.22.14 10:17:00','07.06.08 09:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (79,83,201,'12.02.08 01:36:00','02.12.02 05:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (80,83,204,'03.22.02 05:51:00','08.14.08 04:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (81,25,204,'02.05.14 10:54:00','03.30.08 10:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (82,91,204,'05.08.07 06:51:00','08.22.09 04:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (83,91,205,'08.30.08 04:58:00','10.23.04 08:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (84,49,205,'01.14.14 00:27:00','01.05.14 03:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (85,3,211,'08.25.13 05:43:00','02.06.00 06:44:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (86,3,215,'08.14.06 04:01:00','03.12.13 07:44:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (87,10,220,'09.01.10 01:40:00','03.12.11 00:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (88,10,220,'06.08.03 10:13:00','03.26.11 07:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (89,10,221,'08.09.07 06:46:00','09.11.12 04:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (90,22,221,'03.13.12 00:05:00','11.18.01 10:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (91,22,221,'09.13.10 09:13:00','03.07.06 09:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (92,22,226,'11.15.02 03:44:00','02.23.03 06:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (93,29,226,'12.09.10 07:45:00','08.26.03 07:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (94,29,226,'05.04.07 07:32:00','11.19.14 07:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (95,68,232,'11.08.02 09:03:00','11.03.14 01:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (96,68,239,'09.06.09 02:48:00','07.02.12 02:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (97,68,241,'02.28.03 06:36:00','03.09.09 06:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (98,27,242,'05.24.12 07:48:00','12.17.05 02:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (99,27,243,'06.17.06 06:56:00','04.15.01 03:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (100,24,249,'03.29.00 04:10:00','07.13.00 02:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (101,24,249,'10.25.12 09:48:00','05.30.14 04:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (102,24,253,'03.27.08 03:40:00','01.10.08 09:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (103,35,253,'09.22.08 04:56:00','12.24.04 09:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (104,26,257,'12.12.08 10:53:00','09.14.05 09:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (105,26,257,'11.20.03 01:01:00','01.09.12 10:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (106,26,259,'01.19.08 09:47:00','04.26.06 08:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (107,20,259,'08.20.11 01:23:00','09.02.06 02:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (108,61,260,'04.28.10 05:52:00','05.29.08 06:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (109,61,260,'11.29.00 08:18:00','10.05.12 07:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (110,7,260,'05.14.02 03:01:00','03.15.03 00:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (111,38,269,'09.04.09 09:40:00','02.16.03 03:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (112,62,270,'06.21.07 08:28:00','04.28.10 00:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (113,17,274,'11.10.05 10:26:00','11.24.03 08:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (114,17,278,'09.04.11 08:13:00','03.18.02 09:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (115,75,282,'01.22.04 07:31:00','12.08.03 04:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (116,75,291,'01.17.14 02:48:00','02.20.00 04:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (117,75,291,'01.14.06 00:12:00','08.30.04 10:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (118,23,291,'12.22.00 07:48:00','08.29.04 06:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (119,23,297,'12.14.13 05:42:00','08.01.06 09:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (120,91,301,'08.21.01 05:52:00','07.02.09 03:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (121,91,301,'12.22.01 10:44:00','12.06.06 10:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (122,88,309,'06.08.14 06:18:00','01.16.14 06:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (123,13,316,'01.16.11 01:06:00','01.11.01 01:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (124,13,316,'09.06.04 03:39:00','12.15.08 04:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (125,13,317,'04.19.07 10:32:00','09.09.03 10:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (126,10,317,'02.03.14 10:20:00','04.10.05 09:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (127,10,327,'08.26.02 06:47:00','10.30.02 05:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (128,80,334,'04.27.11 04:24:00','10.28.01 07:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (129,80,339,'08.05.13 09:10:00','11.05.14 00:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (130,28,339,'11.07.08 10:41:00','07.11.10 06:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (131,28,339,'10.19.10 01:36:00','09.04.08 01:44:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (132,28,340,'07.05.00 02:09:00','04.16.08 06:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (133,52,340,'09.27.02 02:41:00','05.09.08 05:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (134,52,340,'06.29.14 08:26:00','08.10.00 09:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (135,30,341,'09.17.10 00:37:00','08.29.02 05:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (136,1,341,'03.21.11 08:50:00','01.27.01 09:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (137,1,342,'11.30.13 00:36:00','10.23.00 10:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (138,1,342,'06.29.11 01:46:00','09.30.04 04:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (139,93,351,'09.04.01 10:18:00','12.23.04 01:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (140,66,356,'03.15.02 02:07:00','10.25.07 09:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (141,78,356,'11.15.13 10:52:00','11.13.09 06:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (142,78,356,'07.31.09 02:10:00','09.13.02 04:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (143,48,359,'05.24.05 05:43:00','01.09.12 04:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (144,48,359,'11.12.03 10:49:00','09.13.02 10:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (145,34,359,'04.07.09 02:05:00','12.29.04 09:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (146,34,362,'03.22.10 07:26:00','06.02.02 00:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (147,62,362,'12.13.08 08:07:00','08.08.06 10:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (148,89,366,'08.18.13 06:33:00','10.13.07 10:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (149,74,366,'12.24.01 04:41:00','01.06.10 09:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (150,23,369,'09.09.13 10:56:00','03.15.13 09:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (151,23,376,'02.06.05 08:55:00','11.24.05 10:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (152,23,376,'07.21.07 03:36:00','04.24.06 00:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (153,42,376,'10.15.07 10:41:00','03.21.10 10:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (154,42,385,'11.17.09 01:09:00','02.16.12 06:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (155,95,387,'06.03.00 10:00:00','07.17.01 04:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (156,95,387,'10.22.04 00:16:00','10.18.13 08:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (157,40,387,'08.13.03 01:39:00','03.23.02 07:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (158,40,390,'07.07.14 00:21:00','07.19.09 00:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (159,40,390,'06.02.03 03:08:00','12.05.04 07:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (160,32,399,'05.14.03 09:30:00','03.02.10 04:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (161,56,399,'10.30.04 03:07:00','05.20.09 03:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (162,72,404,'10.25.05 02:56:00','02.10.01 09:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (163,72,404,'08.06.09 02:55:00','05.15.05 08:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (164,67,411,'04.12.09 01:27:00','04.02.14 06:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (165,67,419,'05.26.08 02:04:00','12.23.09 04:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (166,67,421,'03.21.08 01:22:00','07.03.13 10:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (167,28,427,'11.01.08 01:56:00','09.12.01 03:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (168,4,427,'09.29.12 01:29:00','10.27.00 01:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (169,4,427,'02.17.05 06:20:00','07.21.02 04:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (170,90,435,'10.21.09 07:27:00','07.29.08 10:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (171,30,435,'06.24.11 09:30:00','11.10.09 10:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (172,30,435,'07.08.02 05:51:00','11.14.04 02:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (173,93,444,'11.30.00 07:48:00','06.30.00 01:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (174,93,454,'04.13.09 10:54:00','10.30.12 04:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (175,93,454,'01.28.14 04:27:00','05.23.02 09:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (176,66,463,'01.14.04 00:11:00','09.10.04 00:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (177,66,464,'05.06.11 06:09:00','02.15.10 00:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (178,66,472,'05.21.13 02:21:00','03.03.08 01:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (179,33,472,'10.14.06 07:27:00','01.29.08 10:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (180,98,482,'11.28.03 06:41:00','07.13.08 08:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (181,98,482,'04.14.03 00:23:00','08.15.02 00:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (182,98,482,'01.02.09 02:35:00','03.12.04 03:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (183,81,486,'11.05.12 07:21:00','04.20.04 07:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (184,81,487,'04.18.10 05:28:00','12.22.05 06:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (185,81,497,'05.22.11 05:49:00','10.09.09 07:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (186,34,497,'02.12.12 03:28:00','12.01.08 02:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (187,34,497,'08.13.05 09:50:00','11.17.11 00:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (188,85,6,'11.16.01 05:29:00','12.15.05 00:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (189,85,7,'08.24.06 03:49:00','02.14.12 00:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (190,85,15,'08.01.11 09:46:00','08.23.13 07:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (191,76,15,'03.24.09 06:52:00','10.06.13 00:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (192,62,21,'02.18.04 02:42:00','07.07.07 06:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (193,62,21,'05.08.05 02:11:00','11.27.06 08:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (194,17,26,'06.11.05 05:06:00','11.06.11 07:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (195,17,26,'06.27.03 04:48:00','09.11.08 09:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (196,17,28,'06.21.06 08:53:00','12.13.00 06:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (197,45,28,'02.20.14 06:51:00','08.02.01 10:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (198,57,28,'06.21.09 04:42:00','04.13.01 09:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (199,57,30,'10.18.04 03:49:00','10.09.05 10:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (200,69,30,'09.24.14 00:50:00','07.27.08 06:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (201,69,37,'11.12.04 08:25:00','04.16.07 00:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (202,69,43,'09.26.03 06:24:00','07.06.13 07:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (203,50,43,'11.22.02 03:32:00','12.08.09 03:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (204,13,48,'08.26.09 07:33:00','05.06.07 04:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (205,53,51,'08.23.11 06:28:00','09.11.03 01:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (206,22,51,'08.23.10 04:17:00','07.24.08 10:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (207,22,51,'04.01.08 02:31:00','04.11.06 03:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (208,6,56,'09.08.11 00:11:00','01.12.03 02:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (209,30,56,'10.14.11 00:08:00','01.21.07 00:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (210,30,56,'04.16.13 02:03:00','04.24.07 06:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (211,24,66,'04.04.08 00:21:00','04.22.08 05:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (212,24,68,'04.19.09 03:05:00','07.12.13 06:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (213,24,75,'03.09.00 09:49:00','12.11.06 00:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (214,77,75,'11.20.12 05:27:00','12.14.05 07:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (215,59,75,'06.15.08 00:07:00','09.30.10 10:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (216,59,77,'05.15.02 05:58:00','03.29.09 07:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (217,59,77,'11.04.09 08:00:00','11.17.08 03:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (218,98,77,'01.20.07 01:14:00','08.04.04 08:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (219,98,82,'03.01.05 04:25:00','11.10.04 06:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (220,98,82,'05.17.12 01:54:00','04.16.08 06:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (221,48,89,'12.22.07 02:05:00','05.26.03 06:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (222,48,89,'10.06.01 04:08:00','04.03.11 05:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (223,14,89,'09.04.00 08:34:00','10.23.09 00:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (224,65,91,'02.22.02 07:56:00','04.27.01 05:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (225,65,91,'03.04.13 07:14:00','07.28.00 09:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (226,83,91,'11.05.14 05:10:00','01.18.02 03:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (227,60,99,'01.12.00 01:37:00','07.29.05 09:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (228,60,99,'04.20.03 08:24:00','01.09.14 03:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (229,60,106,'06.16.05 05:22:00','11.30.05 02:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (230,5,106,'03.16.08 02:46:00','08.14.10 10:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (231,5,114,'08.11.02 06:19:00','02.02.09 07:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (232,82,119,'11.16.08 02:33:00','04.16.12 03:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (233,82,120,'01.25.05 02:02:00','05.03.04 09:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (234,82,120,'10.11.07 01:18:00','07.16.08 01:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (235,56,128,'09.13.01 03:19:00','05.30.13 03:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (236,56,128,'06.29.06 01:06:00','10.23.00 03:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (237,22,130,'02.18.05 00:31:00','04.25.01 01:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (238,22,130,'05.15.12 02:33:00','10.01.05 07:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (239,80,130,'07.26.11 07:47:00','08.14.03 07:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (240,80,140,'06.01.01 03:03:00','05.25.14 03:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (241,28,140,'11.11.13 08:37:00','02.20.02 08:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (242,28,140,'03.06.01 05:49:00','09.10.11 08:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (243,28,150,'02.07.07 01:39:00','01.20.10 01:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (244,24,160,'07.24.11 08:16:00','09.22.13 09:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (245,1,160,'06.17.04 03:24:00','05.16.10 10:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (246,36,164,'05.07.02 01:57:00','10.19.12 08:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (247,36,164,'08.04.05 02:08:00','03.30.07 03:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (248,36,169,'07.23.12 08:36:00','08.28.01 04:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (249,98,177,'11.21.10 02:03:00','09.07.11 04:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (250,43,178,'10.26.02 02:31:00','11.01.09 07:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (251,43,178,'04.08.13 10:25:00','07.28.00 02:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (252,43,178,'12.04.13 08:23:00','01.13.04 10:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (253,85,179,'04.30.01 01:22:00','02.10.09 02:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (254,85,179,'12.24.09 02:48:00','01.18.02 07:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (255,85,189,'07.16.09 07:25:00','10.09.10 04:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (256,76,189,'02.19.04 09:56:00','08.08.03 02:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (257,76,189,'05.09.09 05:42:00','04.16.11 09:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (258,86,198,'12.31.09 04:21:00','05.24.03 05:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (259,45,201,'12.07.13 00:34:00','11.19.11 10:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (260,45,201,'11.04.14 00:10:00','12.18.07 07:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (261,74,201,'05.10.09 03:23:00','01.14.12 09:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (262,74,205,'04.29.12 03:11:00','09.15.12 00:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (263,74,205,'10.12.03 05:53:00','08.25.00 05:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (264,60,205,'12.29.13 05:24:00','05.20.11 07:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (265,60,214,'10.14.08 02:35:00','08.26.02 08:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (266,5,220,'02.02.01 06:15:00','10.21.06 01:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (267,5,220,'06.05.06 09:07:00','09.24.01 06:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (268,5,220,'03.03.00 08:07:00','06.16.00 05:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (269,49,229,'07.03.07 03:44:00','07.23.01 07:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (270,49,234,'04.12.02 02:31:00','03.16.01 04:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (271,49,234,'12.31.02 00:32:00','12.10.09 09:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (272,21,234,'05.09.02 01:57:00','06.14.02 03:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (273,21,241,'09.10.06 06:17:00','12.20.05 10:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (274,72,241,'02.19.09 03:08:00','04.12.06 04:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (275,72,248,'03.02.11 10:18:00','04.14.01 02:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (276,87,252,'05.20.07 10:01:00','04.23.12 00:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (277,37,252,'04.26.05 01:23:00','09.17.03 06:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (278,37,252,'07.06.13 00:48:00','12.10.07 04:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (279,28,253,'02.02.02 09:11:00','11.25.08 01:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (280,28,253,'09.09.14 04:01:00','05.04.09 00:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (281,70,253,'12.10.03 03:23:00','01.31.09 09:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (282,30,257,'05.25.09 04:08:00','12.08.01 01:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (283,30,257,'01.01.00 03:57:00','03.04.06 01:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (284,30,264,'05.05.14 00:58:00','12.08.04 03:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (285,11,264,'02.04.09 01:39:00','01.25.14 00:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (286,11,264,'02.03.04 09:14:00','08.10.05 09:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (287,77,266,'09.05.00 08:26:00','11.24.03 07:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (288,77,274,'01.04.12 06:07:00','03.18.09 10:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (289,61,274,'11.22.10 04:49:00','06.09.02 08:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (290,98,274,'07.23.08 08:51:00','03.06.13 00:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (291,98,284,'11.22.04 03:48:00','09.17.06 00:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (292,85,284,'02.24.01 03:41:00','08.22.00 06:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (293,85,284,'08.05.04 08:12:00','03.05.03 09:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (294,18,287,'09.22.03 10:05:00','04.26.10 06:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (295,18,287,'01.28.04 02:37:00','11.09.12 03:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (296,18,289,'03.31.07 03:49:00','11.30.01 03:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (297,89,297,'09.24.06 10:56:00','06.07.00 04:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (298,89,297,'03.02.14 03:56:00','10.26.07 06:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (299,42,297,'03.03.00 00:41:00','11.10.14 10:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (300,42,305,'06.13.09 08:04:00','12.19.10 10:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (301,49,305,'03.01.12 08:22:00','08.05.13 00:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (302,88,305,'06.05.07 07:26:00','01.15.01 09:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (303,88,309,'03.13.06 09:18:00','09.20.10 01:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (304,8,317,'07.18.12 00:32:00','01.03.07 07:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (305,13,326,'08.22.08 04:04:00','04.25.05 03:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (306,13,330,'08.23.12 05:41:00','07.14.03 03:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (307,13,330,'06.02.02 09:36:00','12.26.09 03:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (308,71,330,'11.04.09 06:16:00','06.04.09 05:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (309,71,340,'10.03.02 07:05:00','08.12.07 04:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (310,15,340,'03.16.10 01:12:00','05.14.08 03:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (311,41,350,'03.02.02 10:00:00','10.12.11 09:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (312,41,350,'12.17.12 05:31:00','04.13.05 10:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (313,11,352,'09.12.04 07:03:00','07.08.02 09:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (314,26,352,'08.08.06 06:05:00','11.13.11 07:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (315,2,352,'08.04.11 00:02:00','09.24.09 01:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (316,98,360,'02.26.11 00:03:00','06.19.13 10:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (317,34,360,'12.05.03 01:45:00','05.15.10 02:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (318,34,370,'02.01.12 10:35:00','11.25.00 10:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (319,76,370,'08.15.03 08:37:00','01.03.13 08:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (320,62,370,'08.17.14 05:53:00','03.28.06 08:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (321,62,374,'03.15.13 05:19:00','06.22.09 02:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (322,18,374,'07.28.06 01:29:00','12.24.11 06:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (323,18,381,'08.18.01 00:01:00','05.12.08 09:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (324,18,381,'10.08.11 00:03:00','03.01.12 01:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (325,96,381,'03.15.03 01:50:00','08.14.08 07:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (326,45,382,'12.13.12 08:32:00','01.14.03 04:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (327,45,382,'06.17.12 06:24:00','04.29.11 07:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (328,45,382,'08.10.11 02:02:00','09.08.03 03:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (329,74,390,'12.13.10 06:16:00','04.27.11 05:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (330,74,390,'06.03.03 07:30:00','01.03.05 10:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (331,74,390,'09.13.01 05:32:00','07.06.05 00:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (332,25,391,'12.16.12 06:34:00','05.03.02 00:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (333,25,391,'12.03.12 05:45:00','08.30.06 09:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (334,25,391,'12.29.10 08:35:00','05.27.11 06:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (335,42,396,'10.30.04 01:02:00','12.28.04 08:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (336,12,400,'09.15.04 10:57:00','11.15.14 00:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (337,40,400,'10.25.04 09:07:00','05.12.01 04:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (338,94,400,'06.03.01 08:00:00','08.17.01 07:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (339,71,408,'04.01.08 02:37:00','11.30.01 09:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (340,71,408,'06.25.00 04:12:00','06.29.02 08:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (341,37,408,'07.07.12 10:10:00','08.09.11 10:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (342,41,415,'05.16.07 05:51:00','01.31.06 04:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (343,41,424,'09.20.06 10:50:00','03.13.04 01:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (344,41,424,'02.22.06 06:00:00','07.01.05 01:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (345,30,434,'04.30.00 04:28:00','11.25.13 00:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (346,30,441,'09.02.12 06:06:00','08.24.05 01:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (347,1,448,'07.18.13 07:57:00','10.11.04 09:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (348,93,458,'03.30.09 02:36:00','11.29.13 09:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (349,93,458,'02.28.06 05:05:00','01.04.07 02:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (350,93,467,'01.02.09 03:58:00','06.20.05 01:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (351,36,467,'06.28.10 08:29:00','07.07.14 10:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (352,36,470,'01.26.09 10:47:00','06.12.09 06:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (353,36,470,'10.05.08 04:04:00','12.19.03 04:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (354,98,478,'01.06.11 04:42:00','10.31.00 06:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (355,98,483,'10.17.09 04:50:00','10.18.02 05:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (356,7,493,'04.04.09 10:28:00','08.05.06 06:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (357,7,498,'07.19.01 06:31:00','03.29.08 09:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (358,7,498,'06.28.12 07:45:00','09.09.02 08:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (359,46,498,'05.10.05 05:19:00','03.13.02 08:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (360,62,6,'08.02.05 07:34:00','09.09.12 00:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (361,79,6,'08.21.14 06:49:00','10.02.03 01:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (362,79,16,'07.08.10 07:30:00','06.13.09 10:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (363,96,16,'11.19.11 00:40:00','03.12.09 07:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (364,96,16,'05.18.13 09:58:00','06.16.04 00:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (365,96,21,'04.17.11 05:23:00','01.17.06 02:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (366,9,25,'01.05.12 04:58:00','10.01.03 10:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (367,9,28,'11.19.01 05:17:00','12.21.02 03:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (368,9,28,'02.21.09 06:11:00','04.28.13 05:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (369,5,28,'08.19.14 08:31:00','06.08.05 10:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (370,5,37,'03.12.05 09:22:00','10.17.08 04:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (371,88,37,'11.30.00 07:10:00','11.20.09 04:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (372,94,37,'10.31.01 03:35:00','08.31.06 08:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (373,94,39,'11.16.03 04:32:00','10.19.11 09:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (374,63,39,'03.11.13 09:52:00','01.30.00 01:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (375,67,45,'05.03.03 03:33:00','03.09.05 04:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (376,67,45,'07.08.08 06:27:00','04.14.08 04:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (377,67,54,'01.20.05 01:39:00','09.07.02 08:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (378,41,54,'10.08.13 05:52:00','10.18.10 02:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (379,41,56,'06.29.11 04:50:00','12.19.01 02:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (380,90,56,'08.29.05 01:30:00','05.21.05 01:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (381,90,59,'05.10.10 04:04:00','09.04.08 10:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (382,90,59,'03.14.06 04:21:00','12.26.11 05:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (383,35,59,'02.26.11 08:56:00','03.03.00 05:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (384,35,64,'07.09.14 06:34:00','06.16.00 04:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (385,35,66,'05.06.00 03:05:00','01.12.09 08:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (386,1,66,'10.01.00 06:38:00','02.28.05 06:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (387,1,66,'05.05.10 06:27:00','12.02.01 03:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (388,2,67,'04.30.02 03:29:00','12.27.00 08:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (389,98,77,'08.29.09 10:33:00','02.07.12 01:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (390,98,77,'02.10.05 01:09:00','02.03.07 00:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (391,98,77,'05.08.05 03:11:00','09.13.03 07:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (392,38,80,'08.23.12 07:19:00','06.24.04 07:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (393,84,84,'08.18.09 02:52:00','01.10.09 10:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (394,84,84,'08.23.04 01:40:00','10.04.14 01:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (395,79,92,'05.10.13 06:31:00','02.25.01 01:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (396,75,92,'08.20.10 04:12:00','08.28.13 10:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (397,75,92,'10.04.11 02:16:00','04.17.10 01:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (398,75,97,'02.12.13 05:17:00','06.26.11 09:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (399,45,97,'07.09.14 05:09:00','03.20.00 00:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (400,23,97,'11.05.00 05:17:00','07.15.04 01:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (401,23,105,'04.21.03 07:00:00','11.03.09 00:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (402,23,105,'12.11.09 10:40:00','12.03.00 06:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (403,91,106,'02.22.08 05:19:00','10.27.12 04:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (404,91,106,'02.27.00 10:07:00','02.05.12 05:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (405,69,107,'05.28.14 02:33:00','12.23.05 04:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (406,69,107,'01.12.12 09:29:00','10.06.10 09:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (407,95,107,'05.24.11 01:55:00','04.25.02 08:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (408,8,117,'11.09.02 01:32:00','07.21.06 03:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (409,32,117,'08.20.06 07:07:00','11.13.01 03:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (410,32,117,'04.27.05 08:35:00','03.27.13 07:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (411,32,118,'10.18.04 08:30:00','10.19.13 00:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (412,3,126,'08.22.04 00:20:00','08.25.01 10:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (413,3,135,'01.30.06 00:52:00','04.09.07 08:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (414,15,141,'02.17.02 04:51:00','09.15.08 10:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (415,29,141,'03.04.01 10:05:00','12.28.03 03:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (416,4,150,'12.17.10 09:49:00','09.07.03 10:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (417,68,152,'12.31.09 00:27:00','09.23.01 05:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (418,70,152,'10.26.03 01:39:00','07.04.02 09:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (419,70,152,'06.21.09 01:10:00','11.25.05 00:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (420,70,158,'05.24.07 04:28:00','04.21.12 06:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (421,30,158,'10.24.04 03:53:00','08.21.11 03:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (422,30,158,'09.07.02 04:25:00','09.08.09 03:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (423,30,159,'09.26.08 05:05:00','09.01.04 06:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (424,93,159,'01.24.04 07:56:00','10.05.04 09:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (425,93,165,'03.22.06 08:06:00','11.26.04 06:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (426,93,165,'07.15.03 04:46:00','05.26.14 09:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (427,77,169,'04.10.07 01:33:00','03.03.09 10:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (428,77,169,'01.02.07 04:25:00','04.28.05 05:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (429,20,175,'11.27.07 05:25:00','08.01.07 08:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (430,33,175,'07.23.14 04:36:00','04.16.12 06:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (431,33,175,'04.17.10 07:03:00','10.02.11 00:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (432,33,180,'09.03.04 00:29:00','06.28.00 01:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (433,78,187,'04.17.07 01:04:00','09.05.03 05:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (434,34,187,'08.03.06 07:23:00','01.13.14 00:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (435,34,187,'04.19.13 00:42:00','02.29.12 01:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (436,34,189,'02.12.06 06:24:00','05.27.13 01:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (437,84,189,'12.22.08 06:54:00','07.25.03 06:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (438,84,189,'11.28.12 05:29:00','05.23.02 02:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (439,62,199,'11.28.00 06:19:00','02.05.11 04:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (440,62,199,'04.15.11 05:22:00','07.24.10 03:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (441,86,204,'07.31.03 06:58:00','05.07.10 09:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (442,86,206,'03.28.04 01:55:00','07.17.08 09:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (443,86,206,'02.25.10 07:51:00','11.08.07 04:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (444,45,212,'01.14.02 10:36:00','02.03.09 07:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (445,45,220,'08.23.10 06:09:00','10.03.06 10:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (446,58,220,'01.19.07 00:23:00','06.22.11 02:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (447,42,224,'08.18.06 08:18:00','02.02.07 06:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (448,42,224,'10.26.08 06:02:00','07.05.14 09:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (449,5,224,'06.20.04 03:21:00','05.18.14 04:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (450,5,225,'11.11.07 06:52:00','01.11.10 08:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (451,50,235,'09.10.07 07:09:00','07.20.10 07:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (452,50,235,'08.06.08 04:40:00','04.25.10 02:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (453,8,235,'10.25.10 06:15:00','02.06.11 09:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (454,94,239,'04.05.11 07:09:00','07.16.13 05:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (455,71,249,'11.12.01 07:03:00','09.10.08 02:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (456,71,249,'07.19.06 09:46:00','01.10.09 06:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (457,22,249,'09.07.00 06:30:00','08.05.12 05:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (458,22,250,'02.21.14 03:57:00','04.24.11 10:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (459,29,250,'10.16.10 09:04:00','04.10.10 05:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (460,29,256,'08.28.06 05:57:00','09.01.09 05:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (461,29,263,'04.15.04 10:26:00','02.29.04 04:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (462,41,263,'01.07.13 00:33:00','07.21.06 02:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (463,41,269,'08.04.03 07:58:00','09.23.04 09:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (464,11,269,'11.25.06 07:37:00','12.06.02 05:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (465,26,269,'03.11.04 03:30:00','03.20.04 00:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (466,31,270,'01.12.11 05:18:00','12.29.12 01:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (467,31,277,'06.01.13 02:44:00','12.15.05 06:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (468,16,277,'07.21.09 04:08:00','09.22.07 10:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (469,16,277,'06.27.08 10:27:00','12.07.07 10:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (470,81,282,'08.09.13 00:47:00','06.03.00 00:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (471,81,282,'02.04.10 03:14:00','09.03.12 00:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (472,81,282,'12.23.12 06:57:00','09.20.03 07:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (473,18,286,'02.10.09 08:54:00','12.27.02 05:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (474,18,293,'03.13.10 03:49:00','03.16.10 09:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (475,65,299,'08.31.02 02:52:00','11.25.13 04:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (476,65,299,'10.05.05 08:23:00','08.22.00 05:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (477,74,299,'05.19.01 10:58:00','09.27.07 10:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (478,60,301,'07.08.05 03:45:00','11.13.04 01:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (479,5,301,'10.09.00 02:21:00','09.07.07 09:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (480,12,308,'02.27.06 09:57:00','10.28.11 04:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (481,73,308,'02.02.02 02:33:00','04.30.05 03:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (482,8,309,'09.29.03 06:02:00','02.07.10 07:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (483,8,319,'04.13.02 06:15:00','09.07.08 00:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (484,72,319,'10.20.11 07:44:00','11.26.12 06:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (485,72,319,'04.27.02 01:32:00','06.11.09 07:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (486,63,323,'09.20.14 06:08:00','08.23.09 03:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (487,63,323,'01.22.01 07:41:00','08.02.13 05:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (488,87,329,'11.09.08 02:35:00','11.15.09 04:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (489,51,329,'09.14.11 07:49:00','02.22.03 08:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (490,70,329,'03.26.00 01:24:00','04.26.06 06:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (491,11,337,'10.07.13 09:47:00','08.09.09 03:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (492,26,337,'09.08.07 06:01:00','03.05.12 01:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (493,20,343,'08.30.00 07:24:00','05.10.07 10:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (494,20,343,'01.27.04 00:27:00','09.06.08 08:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (495,20,343,'04.10.03 00:45:00','01.20.09 10:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (496,33,346,'11.08.12 01:04:00','06.06.02 04:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (497,81,346,'03.25.04 00:03:00','11.21.14 05:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (498,81,346,'04.28.04 03:38:00','07.28.03 09:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (499,81,348,'06.19.09 10:00:00','07.14.07 03:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (500,76,348,'07.26.06 09:38:00','05.18.10 07:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (501,76,350,'03.31.00 03:57:00','05.24.10 01:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (502,75,359,'04.12.04 02:58:00','02.07.09 00:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (503,75,364,'10.04.02 01:19:00','11.20.03 05:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (504,75,364,'12.30.08 07:25:00','12.30.01 10:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (505,9,371,'10.03.12 07:52:00','03.10.02 04:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (506,9,371,'11.07.07 09:50:00','01.13.01 04:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (507,57,371,'07.06.02 02:54:00','09.08.11 10:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (508,60,377,'09.28.10 06:00:00','07.08.03 07:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (509,60,386,'03.27.04 10:32:00','09.19.04 00:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (510,44,386,'02.08.02 04:39:00','10.13.03 10:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (511,50,387,'08.19.03 06:04:00','11.04.03 01:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (512,50,387,'07.24.07 03:17:00','02.25.14 00:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (513,82,392,'08.07.02 01:23:00','03.14.07 03:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (514,13,392,'10.20.00 02:15:00','01.12.12 07:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (515,13,392,'06.30.08 02:29:00','12.11.01 01:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (516,54,402,'12.22.12 05:12:00','04.21.03 02:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (517,54,406,'10.31.00 07:12:00','02.09.00 08:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (518,53,416,'03.10.12 02:50:00','02.01.09 07:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (519,53,418,'09.14.05 03:11:00','07.24.09 04:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (520,87,418,'08.13.11 01:57:00','04.23.04 08:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (521,41,418,'03.18.11 05:27:00','04.07.04 06:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (522,41,422,'07.18.00 01:28:00','02.07.07 03:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (523,90,422,'11.06.04 09:25:00','11.20.08 08:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (524,90,422,'07.01.06 04:34:00','07.25.06 08:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (525,70,424,'10.10.02 10:13:00','05.13.04 09:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (526,70,424,'10.08.00 00:19:00','06.25.09 00:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (527,70,424,'05.11.06 01:46:00','12.14.03 07:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (528,35,430,'02.26.11 06:12:00','04.23.03 00:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (529,2,440,'05.24.10 03:04:00','08.10.05 00:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (530,2,440,'11.18.11 08:47:00','03.16.13 05:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (531,2,444,'11.17.09 08:49:00','10.22.07 09:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (532,31,452,'05.08.02 08:01:00','09.03.11 07:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (533,31,457,'05.19.11 02:23:00','07.06.10 08:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (534,43,457,'02.15.12 05:52:00','06.04.12 00:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (535,43,457,'11.17.04 06:04:00','12.19.10 05:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (536,48,464,'10.25.07 03:13:00','09.18.07 07:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (537,48,468,'02.27.07 08:14:00','03.04.03 07:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (538,18,472,'03.26.00 08:23:00','02.19.06 07:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (539,18,475,'12.12.03 07:23:00','05.28.01 09:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (540,18,475,'10.02.03 00:00:00','10.12.10 06:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (541,23,475,'01.05.13 00:54:00','04.23.02 02:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (542,23,480,'08.08.14 04:47:00','07.15.06 09:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (543,44,480,'06.16.05 10:34:00','07.17.08 05:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (544,19,485,'03.16.03 03:41:00','11.29.01 02:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (545,19,491,'06.22.11 06:51:00','12.03.11 02:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (546,19,491,'03.26.14 01:36:00','04.17.05 05:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (547,32,497,'09.03.07 08:21:00','05.22.05 06:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (548,32,497,'08.04.01 07:09:00','05.20.14 02:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (549,72,3,'08.31.04 04:50:00','12.27.04 02:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (550,72,3,'07.21.05 00:26:00','03.20.11 01:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (551,71,3,'11.08.12 06:30:00','10.14.09 10:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (552,71,13,'06.27.12 01:02:00','11.29.10 10:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (553,51,13,'04.30.13 03:02:00','09.14.12 00:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (554,51,23,'06.06.08 04:53:00','01.23.03 09:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (555,68,23,'02.02.01 10:44:00','03.14.07 01:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (556,90,30,'05.28.00 08:46:00','10.29.03 07:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (557,90,33,'05.11.05 01:03:00','09.07.12 05:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (558,90,33,'01.17.00 06:06:00','08.17.05 05:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (559,30,33,'03.31.11 08:26:00','04.20.04 06:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (560,30,36,'11.21.07 08:39:00','11.26.12 10:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (561,30,36,'03.24.03 08:27:00','03.06.05 07:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (562,24,36,'03.15.10 03:43:00','09.02.00 05:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (563,1,43,'05.13.11 00:07:00','06.17.04 03:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (564,1,44,'05.06.13 08:52:00','08.04.07 02:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (565,1,44,'05.18.10 01:55:00','04.26.02 08:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (566,93,52,'05.05.00 09:01:00','06.26.05 05:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (567,64,52,'08.17.13 07:07:00','10.02.10 01:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (568,33,56,'03.05.02 09:40:00','08.12.02 04:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (569,33,60,'05.02.11 01:28:00','02.08.10 05:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (570,33,66,'03.18.09 08:49:00','07.09.14 06:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (571,98,66,'12.31.10 10:47:00','06.04.02 00:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (572,98,66,'05.09.12 04:03:00','07.08.11 09:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (573,98,73,'10.04.01 05:25:00','04.04.00 05:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (574,85,78,'03.03.00 01:52:00','12.03.03 09:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (575,18,78,'10.11.14 02:37:00','02.02.14 04:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (576,45,78,'12.21.13 06:00:00','06.05.11 03:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (577,45,80,'06.06.01 03:45:00','06.22.05 03:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (578,45,80,'03.21.14 07:45:00','10.24.07 00:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (579,92,82,'06.27.09 09:55:00','12.12.05 03:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (580,92,82,'10.11.07 00:34:00','11.17.03 07:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (581,58,92,'10.24.14 07:17:00','05.08.00 04:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (582,58,92,'02.04.08 03:26:00','11.13.13 01:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (583,44,100,'11.12.06 02:15:00','10.12.01 02:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (584,44,100,'10.30.09 07:20:00','01.02.00 09:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (585,21,100,'12.13.04 04:01:00','12.02.06 01:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (586,21,105,'08.16.09 01:48:00','06.22.07 07:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (587,21,105,'10.08.08 03:32:00','08.23.01 07:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (588,56,111,'07.30.08 06:22:00','06.09.12 04:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (589,80,111,'12.28.02 10:08:00','11.11.12 00:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (590,80,111,'05.01.10 00:12:00','01.23.10 03:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (591,6,120,'10.18.08 07:15:00','04.20.13 01:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (592,52,121,'09.19.12 01:06:00','06.12.01 03:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (593,97,131,'04.27.12 10:07:00','06.05.07 06:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (594,99,131,'08.25.08 05:25:00','11.21.14 09:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (595,99,131,'01.28.06 04:36:00','01.17.14 05:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (596,99,140,'01.27.02 01:00:00','05.04.10 08:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (597,2,140,'10.16.02 03:34:00','08.23.06 10:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (598,2,140,'05.01.14 01:43:00','01.10.14 01:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (599,2,144,'05.29.05 07:33:00','09.01.01 08:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (600,100,144,'01.01.08 10:27:00','03.14.09 04:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (601,100,151,'10.25.03 04:58:00','05.04.02 05:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (602,100,151,'02.13.13 02:55:00','12.28.05 03:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (603,84,155,'02.07.00 00:37:00','09.21.13 00:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (604,84,155,'03.25.09 02:28:00','12.05.10 06:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (605,62,162,'04.16.10 02:11:00','06.06.09 07:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (606,62,162,'10.31.05 10:49:00','03.01.06 02:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (607,62,162,'12.23.00 02:26:00','06.20.08 04:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (608,79,172,'04.07.05 10:12:00','11.28.08 06:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (609,79,172,'07.08.04 01:36:00','11.01.00 06:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (610,65,180,'09.04.03 01:01:00','02.17.14 00:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (611,65,180,'01.31.01 04:30:00','05.11.03 02:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (612,92,183,'03.20.14 10:37:00','01.05.02 09:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (613,9,183,'08.14.14 06:50:00','06.29.04 10:44:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (614,9,183,'06.02.00 08:44:00','07.01.13 01:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (615,9,185,'05.18.00 06:08:00','05.31.05 09:44:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (616,42,194,'12.11.04 09:53:00','07.02.06 00:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (617,42,194,'06.16.12 09:20:00','02.06.01 05:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (618,42,194,'09.09.00 01:43:00','03.27.00 10:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (619,12,203,'03.20.14 05:51:00','03.25.07 05:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (620,40,203,'08.24.07 05:43:00','06.18.10 09:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (621,40,203,'08.12.09 09:16:00','11.13.00 05:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (622,40,212,'08.10.03 08:44:00','02.15.02 10:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (623,56,212,'12.31.09 03:29:00','03.12.09 08:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (624,56,220,'12.30.07 03:20:00','10.31.02 03:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (625,87,220,'11.16.08 06:13:00','03.26.01 03:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (626,87,220,'01.06.05 10:15:00','11.07.08 09:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (627,87,226,'09.20.04 02:23:00','03.25.08 07:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (628,55,226,'06.10.07 07:39:00','06.10.13 00:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (629,55,228,'04.15.10 01:19:00','02.19.03 10:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (630,29,228,'11.27.13 06:21:00','08.20.03 02:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (631,4,228,'09.18.13 09:04:00','09.09.03 06:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (632,4,233,'12.02.00 05:25:00','11.16.00 03:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (633,68,233,'04.09.04 05:14:00','11.22.02 06:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (634,90,233,'08.07.13 01:45:00','06.25.04 05:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (635,90,241,'04.15.02 07:54:00','02.16.09 01:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (636,90,241,'10.25.06 06:16:00','05.18.05 07:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (637,24,241,'02.19.09 08:44:00','08.13.13 06:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (638,24,250,'12.05.00 07:41:00','05.04.00 10:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (639,24,260,'07.04.04 07:07:00','05.03.02 06:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (640,97,260,'09.13.14 09:00:00','05.18.05 01:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (641,97,260,'08.03.03 03:08:00','09.30.11 06:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (642,77,262,'11.10.05 02:47:00','10.28.12 08:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (643,31,262,'08.04.02 05:47:00','11.16.04 09:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (644,31,262,'05.06.04 05:06:00','06.25.12 01:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (645,78,264,'05.01.05 05:16:00','02.13.01 08:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (646,48,264,'12.15.10 05:36:00','05.22.09 06:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (647,17,264,'11.09.14 07:53:00','01.05.04 00:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (648,17,271,'09.09.11 08:13:00','04.26.02 06:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (649,17,278,'08.28.11 10:52:00','03.19.09 07:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (650,83,287,'12.20.01 05:43:00','04.18.02 03:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (651,83,287,'08.14.02 08:26:00','05.06.03 05:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (652,83,294,'01.05.04 10:26:00','03.07.02 08:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (653,89,294,'05.10.08 10:50:00','03.12.08 09:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (654,89,294,'11.15.10 09:22:00','03.06.03 09:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (655,39,300,'04.06.14 01:18:00','01.22.03 06:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (656,5,300,'03.29.04 08:07:00','01.13.12 02:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (657,88,306,'07.13.07 06:08:00','07.18.05 00:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (658,88,306,'09.23.11 00:17:00','02.09.02 05:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (659,88,306,'07.25.07 05:15:00','05.08.09 07:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (660,21,308,'09.20.09 00:03:00','02.25.08 05:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (661,8,308,'07.30.09 02:54:00','05.04.09 05:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (662,32,308,'12.09.06 02:51:00','06.07.13 05:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (663,32,317,'03.31.06 06:39:00','10.17.07 00:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (664,32,317,'03.02.09 10:04:00','05.20.13 10:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (665,15,317,'11.18.06 06:39:00','05.17.08 09:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (666,15,320,'04.11.12 01:07:00','08.22.08 03:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (667,15,321,'02.19.10 07:22:00','02.27.03 07:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (668,67,321,'10.22.01 00:36:00','12.26.10 04:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (669,67,323,'01.15.04 00:29:00','12.23.11 04:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (670,29,323,'05.11.03 07:03:00','10.11.09 08:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (671,29,333,'06.09.12 00:19:00','01.23.02 04:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (672,41,333,'02.11.06 05:40:00','12.21.08 03:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (673,4,339,'08.26.00 07:14:00','09.23.08 07:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (674,97,339,'08.08.06 08:34:00','10.27.13 05:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (675,97,348,'05.07.01 09:04:00','03.05.11 05:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (676,97,351,'08.09.04 06:12:00','02.03.00 08:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (677,1,351,'01.12.03 04:58:00','02.08.13 00:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (678,93,353,'06.26.01 05:45:00','06.21.09 06:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (679,93,353,'08.02.05 06:43:00','08.06.02 07:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (680,33,354,'05.17.09 07:39:00','09.10.10 05:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (681,48,354,'02.22.13 05:34:00','05.01.10 03:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (682,48,354,'04.17.03 05:29:00','08.28.03 08:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (683,48,355,'05.28.13 08:17:00','12.30.07 00:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (684,46,355,'10.02.09 08:44:00','10.01.12 00:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (685,46,356,'12.16.08 09:29:00','07.07.11 07:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (686,46,366,'04.05.13 04:27:00','08.24.14 09:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (687,18,366,'09.20.13 00:17:00','12.06.03 03:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (688,18,366,'07.12.03 10:41:00','03.18.04 02:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (689,96,367,'12.24.11 05:55:00','08.04.03 05:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (690,83,377,'10.02.01 05:40:00','11.07.03 04:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (691,39,377,'09.13.05 00:53:00','03.21.03 01:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (692,73,377,'02.04.10 00:44:00','04.22.04 03:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (693,73,383,'01.09.14 06:30:00','06.14.01 08:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (694,73,383,'02.17.04 08:00:00','02.06.12 06:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (695,82,388,'07.16.09 04:20:00','07.22.13 10:44:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (696,32,390,'03.24.00 00:02:00','12.25.12 03:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (697,32,397,'10.28.12 01:51:00','08.04.13 03:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (698,32,397,'04.05.14 09:08:00','02.26.09 03:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (699,10,397,'05.28.04 08:27:00','04.21.00 06:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (700,87,403,'01.09.14 08:56:00','12.30.04 01:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (701,29,413,'12.27.12 04:57:00','06.21.10 04:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (702,29,417,'03.04.12 09:48:00','06.01.11 05:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (703,41,417,'05.16.14 06:37:00','09.21.11 08:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (704,41,425,'08.19.11 05:29:00','06.02.13 07:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (705,30,425,'05.24.06 01:51:00','02.14.12 07:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (706,30,425,'08.04.07 08:25:00','07.09.12 03:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (707,97,431,'07.30.04 00:30:00','05.17.07 00:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (708,97,431,'09.11.09 02:12:00','04.06.02 08:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (709,97,431,'08.18.11 08:56:00','11.25.08 06:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (710,1,433,'10.31.05 02:13:00','12.27.04 03:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (711,1,433,'08.03.08 10:52:00','06.23.11 01:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (712,1,435,'12.01.11 04:11:00','05.29.00 00:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (713,61,442,'12.02.13 05:36:00','10.22.02 02:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (714,78,449,'06.13.12 10:01:00','08.07.05 06:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (715,38,449,'10.03.02 09:30:00','02.02.01 06:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (716,81,453,'12.21.11 03:55:00','07.05.12 08:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (717,81,461,'03.31.04 04:07:00','06.02.11 09:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (718,14,461,'02.12.11 09:22:00','05.04.00 05:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (719,14,463,'01.15.02 00:10:00','10.11.08 01:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (720,75,463,'06.20.11 00:02:00','08.09.00 00:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (721,75,463,'09.02.04 07:52:00','09.16.14 07:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (722,25,467,'10.24.07 06:38:00','06.08.11 07:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (723,25,467,'07.11.07 10:45:00','06.28.08 01:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (724,25,477,'11.21.14 09:19:00','05.29.14 07:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (725,69,477,'04.19.07 05:27:00','07.25.11 08:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (726,69,477,'12.09.12 06:51:00','03.03.03 06:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (727,8,487,'06.21.11 10:45:00','11.04.10 07:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (728,8,487,'03.27.03 00:51:00','06.20.00 08:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (729,10,487,'11.03.11 10:38:00','02.04.11 07:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (730,63,496,'06.03.11 02:32:00','06.16.12 08:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (731,63,496,'12.26.05 00:23:00','06.21.10 09:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (732,63,499,'01.17.09 03:57:00','12.25.01 06:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (733,55,499,'01.27.08 00:42:00','06.22.01 09:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (734,55,6,'09.20.07 10:43:00','02.17.03 04:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (735,55,11,'01.16.00 05:09:00','04.14.08 10:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (736,27,11,'06.02.04 09:36:00','06.09.04 03:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (737,27,11,'06.26.14 08:24:00','07.14.14 03:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (738,11,14,'01.05.08 05:47:00','08.07.00 00:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (739,11,14,'10.05.04 00:56:00','11.18.12 09:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (740,1,18,'04.17.03 09:10:00','07.17.14 00:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (741,1,19,'09.29.01 05:39:00','10.09.14 00:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (742,1,19,'05.08.02 04:16:00','04.06.14 09:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (743,77,19,'03.05.10 06:53:00','09.27.13 06:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (744,61,29,'06.29.14 03:57:00','09.16.06 10:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (745,61,35,'05.25.03 00:25:00','08.30.03 05:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (746,78,35,'03.20.03 01:24:00','06.14.14 03:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (747,98,35,'10.17.12 02:30:00','10.10.14 06:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (748,98,37,'02.23.09 08:24:00','05.26.13 07:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (749,98,37,'02.25.11 00:24:00','08.09.02 01:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (750,85,46,'09.27.06 10:14:00','08.05.06 05:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (751,79,46,'08.11.08 05:56:00','04.20.11 01:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (752,79,55,'04.20.07 00:57:00','11.09.06 04:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (753,79,55,'05.14.06 03:52:00','05.29.04 09:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (754,25,63,'02.09.09 03:58:00','01.14.14 10:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (755,25,71,'11.14.13 07:49:00','06.06.10 03:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (756,25,77,'08.01.00 06:20:00','04.25.04 05:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (757,44,77,'10.10.00 06:32:00','05.30.04 08:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (758,19,77,'08.18.01 10:55:00','02.10.06 09:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (759,82,83,'01.25.11 00:39:00','05.13.06 02:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (760,82,88,'07.27.02 06:34:00','07.02.02 06:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (761,56,88,'05.17.04 10:48:00','05.12.09 07:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (762,56,90,'05.23.01 00:10:00','11.15.06 05:54:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (763,10,90,'03.08.07 05:29:00','06.18.13 06:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (764,22,100,'12.03.00 02:57:00','02.22.13 09:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (765,80,100,'08.23.06 02:42:00','07.18.07 04:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (766,80,105,'05.07.11 01:01:00','03.11.01 01:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (767,80,105,'04.01.06 00:58:00','02.02.07 04:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (768,67,112,'06.29.14 06:15:00','12.12.08 06:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (769,67,112,'04.23.10 06:38:00','01.16.00 09:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (770,67,112,'08.14.05 07:47:00','03.28.09 02:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (771,51,117,'12.19.09 06:35:00','06.18.01 00:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (772,51,117,'07.18.08 05:08:00','09.26.09 00:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (773,51,117,'02.16.12 05:25:00','06.08.12 01:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (774,70,123,'09.05.12 09:46:00','10.24.08 08:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (775,11,129,'07.17.08 03:10:00','09.06.11 03:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (776,35,129,'07.29.03 03:45:00','02.17.08 05:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (777,93,133,'10.18.02 02:21:00','05.28.03 10:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (778,93,139,'05.02.11 07:48:00','01.20.00 07:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (779,64,139,'03.23.04 02:41:00','03.15.07 00:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (780,64,139,'08.11.04 03:46:00','12.03.05 03:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (781,100,149,'01.05.08 02:02:00','06.09.14 02:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (782,38,157,'06.08.00 06:55:00','12.21.06 07:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (783,38,157,'07.22.09 02:22:00','07.22.06 02:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (784,84,161,'09.27.12 06:11:00','08.19.13 01:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (785,17,161,'03.31.02 05:57:00','07.15.14 09:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (786,89,161,'11.20.11 07:47:00','03.06.05 07:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (787,89,170,'01.28.09 06:49:00','05.26.12 00:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (788,92,178,'11.11.02 09:42:00','06.17.10 05:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (789,42,178,'12.06.12 10:06:00','10.09.01 06:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (790,42,178,'12.17.08 06:03:00','06.17.09 08:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (791,42,183,'10.17.05 00:22:00','03.12.03 00:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (792,44,186,'08.21.12 07:20:00','04.07.07 04:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (793,44,195,'12.19.12 10:48:00','02.04.14 00:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (794,19,205,'08.01.09 10:57:00','03.01.08 10:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (795,19,205,'03.19.06 00:45:00','05.21.07 10:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (796,19,205,'07.26.09 10:39:00','11.22.07 02:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (797,94,213,'09.22.00 07:02:00','06.05.10 03:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (798,94,213,'02.16.02 02:10:00','11.28.12 05:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (799,56,213,'12.15.11 03:38:00','01.13.01 02:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (800,56,215,'11.13.06 02:50:00','12.04.02 00:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (801,72,215,'06.23.11 10:20:00','09.25.04 02:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (802,72,215,'01.31.12 04:57:00','07.21.12 05:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (803,72,217,'01.22.02 08:49:00','03.15.08 05:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (804,87,217,'06.25.13 04:15:00','07.03.09 04:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (805,87,217,'03.06.03 03:31:00','08.30.08 08:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (806,41,225,'11.24.05 09:35:00','11.14.14 01:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (807,24,225,'04.22.13 05:07:00','03.09.03 02:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (808,47,225,'05.25.08 05:09:00','02.16.09 00:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (809,66,228,'01.25.03 07:13:00','08.17.02 08:09:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (810,59,235,'11.20.03 03:36:00','06.29.02 08:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (811,59,235,'11.26.12 05:03:00','03.02.00 05:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (812,7,237,'08.31.11 10:23:00','05.17.07 00:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (813,7,237,'11.26.03 03:21:00','10.01.10 00:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (814,62,237,'04.05.11 07:48:00','07.02.08 02:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (815,62,238,'02.06.13 02:51:00','08.02.11 09:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (816,96,245,'08.31.06 03:18:00','03.08.09 00:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (817,96,254,'09.02.10 00:18:00','12.22.02 10:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (818,92,254,'04.20.13 10:28:00','03.25.03 09:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (819,92,254,'05.15.11 08:28:00','08.10.08 02:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (820,5,259,'02.26.12 10:46:00','08.21.06 10:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (821,12,259,'08.16.13 00:26:00','08.09.14 04:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (822,12,259,'10.05.14 04:51:00','06.02.10 03:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (823,19,261,'10.10.04 00:58:00','01.08.10 06:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (824,40,261,'09.08.10 03:53:00','05.27.11 05:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (825,40,266,'04.29.03 10:41:00','03.06.05 08:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (826,40,268,'09.05.07 02:12:00','04.02.00 01:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (827,54,269,'11.15.07 10:52:00','12.15.08 09:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (828,54,278,'01.14.00 03:02:00','11.27.01 10:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (829,22,278,'04.26.07 04:54:00','02.07.00 02:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (830,22,279,'09.29.01 05:03:00','09.10.00 02:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (831,22,279,'08.25.08 10:56:00','12.26.12 05:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (832,67,279,'10.13.02 08:07:00','03.24.00 06:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (833,67,286,'12.17.03 09:44:00','01.30.04 05:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (834,67,290,'06.10.10 04:41:00','11.09.13 00:35:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (835,51,292,'01.24.13 06:02:00','12.07.08 00:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (836,51,292,'01.01.09 10:20:00','07.15.10 00:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (837,6,292,'01.04.12 08:07:00','02.10.05 09:51:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (838,6,301,'03.01.12 09:14:00','11.18.09 07:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (839,68,305,'11.07.10 07:27:00','01.04.01 06:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (840,11,305,'07.01.00 09:25:00','10.16.02 08:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (841,11,305,'05.14.10 07:49:00','02.21.02 08:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (842,11,313,'01.03.08 05:39:00','08.21.09 06:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (843,99,313,'10.07.06 08:01:00','12.04.04 06:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (844,64,315,'11.21.10 05:01:00','10.28.09 04:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (845,64,320,'08.23.14 05:41:00','02.11.02 06:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (846,64,320,'05.09.02 06:49:00','08.18.05 05:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (847,98,321,'02.18.00 02:00:00','05.10.02 01:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (848,43,321,'02.21.10 07:31:00','05.25.02 02:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (849,43,331,'09.10.08 00:23:00','07.14.10 10:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (850,84,331,'02.12.11 07:29:00','04.21.07 04:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (851,75,336,'11.11.05 06:39:00','07.06.10 07:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (852,75,345,'06.09.02 09:49:00','06.08.02 10:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (853,75,345,'11.11.08 07:31:00','06.27.04 07:49:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (854,65,355,'05.05.13 04:00:00','11.29.00 03:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (855,57,355,'05.22.08 01:00:00','09.17.14 05:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (856,57,355,'10.24.05 09:22:00','01.01.08 01:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (857,44,361,'04.05.06 05:36:00','12.03.00 08:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (858,5,361,'07.16.05 01:55:00','10.07.03 09:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (859,21,367,'05.25.13 03:26:00','10.06.11 03:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (860,21,367,'07.07.00 03:40:00','09.20.06 00:04:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (861,3,367,'03.07.11 07:03:00','10.01.13 04:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (862,71,373,'03.12.06 01:01:00','03.03.07 05:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (863,71,373,'07.23.04 07:21:00','10.23.11 02:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (864,80,377,'03.11.13 01:52:00','06.07.14 10:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (865,80,377,'06.24.13 09:30:00','05.22.01 02:10:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (866,29,377,'01.23.07 06:44:00','12.12.01 04:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (867,29,385,'06.04.14 00:26:00','04.20.11 02:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (868,29,385,'06.24.01 09:40:00','02.02.07 04:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (869,30,385,'08.25.08 08:42:00','05.28.05 01:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (870,30,389,'04.12.11 02:11:00','05.11.09 04:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (871,11,389,'10.03.09 04:51:00','09.22.04 05:25:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (872,11,389,'08.20.12 07:24:00','03.14.11 03:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (873,26,395,'10.10.01 09:18:00','03.20.03 07:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (874,33,395,'04.09.14 00:42:00','09.12.08 05:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (875,33,395,'03.01.03 09:02:00','10.17.00 05:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (876,33,399,'02.25.13 08:33:00','05.03.01 00:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (877,16,399,'08.28.02 08:51:00','05.29.00 05:40:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (878,16,401,'01.19.02 08:58:00','12.06.07 07:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (879,16,401,'10.18.11 05:26:00','10.10.01 02:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (880,14,404,'11.03.07 10:03:00','09.29.02 05:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (881,14,414,'03.17.01 00:54:00','05.02.13 03:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (882,86,414,'03.20.10 07:00:00','04.24.06 06:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (883,86,417,'03.30.07 05:26:00','03.18.12 06:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (884,96,417,'02.10.11 03:38:00','04.07.03 03:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (885,96,417,'09.27.09 04:17:00','03.24.09 04:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (886,9,424,'05.03.04 07:25:00','05.21.02 06:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (887,9,433,'05.02.09 00:49:00','09.08.05 10:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (888,44,433,'03.16.13 10:16:00','07.19.04 01:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (889,73,433,'01.20.09 03:45:00','01.05.04 07:20:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (890,73,438,'06.18.02 05:26:00','07.01.12 00:22:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (891,21,448,'05.21.03 03:30:00','07.07.11 02:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (892,21,458,'03.05.00 10:19:00','02.03.06 06:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (893,21,458,'10.10.03 03:52:00','01.09.10 03:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (894,8,458,'09.16.01 05:58:00','03.02.01 03:30:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (895,8,467,'05.06.00 04:23:00','01.28.00 06:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (896,8,467,'05.09.05 03:08:00','03.08.08 08:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (897,82,470,'10.12.13 01:32:00','11.12.13 10:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (898,10,477,'07.29.13 02:13:00','10.20.07 03:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (899,10,477,'05.23.06 03:09:00','01.24.11 09:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (900,10,477,'11.22.00 01:09:00','03.20.05 04:57:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (901,71,482,'04.05.07 08:20:00','03.25.11 00:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (902,55,482,'09.06.04 07:51:00','04.03.10 01:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (903,90,489,'08.11.10 08:18:00','01.29.13 06:27:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (904,24,489,'11.14.12 07:26:00','04.12.00 08:44:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (905,47,489,'05.27.05 03:20:00','10.29.10 03:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (906,2,490,'01.27.05 05:45:00','04.10.12 05:38:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (907,2,490,'12.12.06 01:43:00','09.18.08 03:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (908,2,498,'03.13.09 09:04:00','01.13.12 03:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (909,16,498,'12.11.09 02:40:00','06.25.01 07:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (910,16,499,'07.07.03 00:16:00','03.03.01 08:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (911,16,499,'05.11.09 02:07:00','06.21.03 09:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (912,48,9,'06.19.02 06:51:00','06.06.05 09:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (913,48,9,'07.21.01 03:34:00','04.09.05 02:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (914,84,9,'05.06.03 01:29:00','04.23.09 10:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (915,84,10,'11.16.09 09:42:00','07.03.10 00:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (916,17,10,'02.10.13 06:49:00','01.30.02 05:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (917,79,10,'03.15.02 08:54:00','04.30.12 02:41:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (918,75,15,'01.24.12 03:37:00','09.19.07 05:11:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (919,75,15,'08.23.08 09:22:00','07.20.03 03:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (920,75,15,'12.08.07 02:31:00','08.15.00 09:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (921,89,24,'09.10.10 10:34:00','11.09.13 01:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (922,89,24,'07.31.02 07:53:00','04.17.11 05:52:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (923,89,24,'06.28.14 10:32:00','01.12.04 07:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (924,92,31,'11.22.12 02:01:00','12.23.05 06:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (925,92,31,'10.18.10 10:49:00','08.24.06 09:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (926,60,31,'02.09.11 07:12:00','02.04.10 07:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (927,60,33,'01.12.07 06:35:00','11.07.02 01:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (928,60,33,'09.24.01 08:28:00','09.26.06 09:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (929,44,33,'10.09.12 02:25:00','05.01.07 09:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (930,69,35,'10.14.02 02:24:00','08.26.03 03:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (931,69,35,'05.12.01 08:25:00','11.23.01 05:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (932,95,35,'09.19.09 00:34:00','07.14.12 04:45:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (933,94,39,'06.06.10 09:40:00','01.02.04 01:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (934,94,39,'12.29.07 06:18:00','11.22.12 06:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (935,94,39,'04.02.13 00:32:00','02.12.00 06:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (936,72,43,'12.17.01 06:28:00','02.20.12 02:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (937,53,43,'03.03.06 06:05:00','11.09.02 01:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (938,53,53,'07.28.06 10:40:00','03.10.09 00:23:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (939,53,53,'05.11.11 04:45:00','05.03.14 02:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (940,37,53,'11.02.01 02:19:00','08.15.14 07:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (941,68,55,'02.11.08 10:56:00','07.18.00 10:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (942,68,59,'07.01.12 04:39:00','06.01.13 02:58:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (943,35,59,'06.04.02 09:47:00','06.24.01 04:00:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (944,35,59,'06.22.12 06:47:00','10.10.03 04:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (945,35,63,'01.28.05 05:04:00','08.04.03 00:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (946,99,63,'12.11.07 08:46:00','12.23.00 07:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (947,31,68,'01.09.01 04:34:00','12.18.04 04:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (948,78,68,'12.09.13 05:36:00','05.18.05 09:02:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (949,78,72,'01.10.07 08:58:00','11.27.00 08:01:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (950,84,72,'09.12.14 09:24:00','05.04.12 09:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (951,76,72,'06.15.10 00:02:00','04.09.14 03:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (952,76,74,'04.15.06 05:49:00','10.26.11 00:08:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (953,76,74,'10.30.09 04:52:00','04.15.05 01:47:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (954,86,74,'02.29.12 09:11:00','01.07.10 08:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (955,25,80,'03.14.01 07:11:00','09.24.12 00:17:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (956,9,80,'10.19.08 04:52:00','01.25.05 00:12:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (957,9,90,'08.03.06 06:09:00','02.13.09 00:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (958,58,90,'08.01.12 01:36:00','04.04.07 05:56:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (959,58,90,'10.21.13 08:49:00','11.29.07 10:48:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (960,58,99,'03.05.09 06:01:00','09.14.09 02:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (961,73,99,'08.23.03 07:29:00','06.09.10 04:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (962,73,99,'05.31.01 02:55:00','01.17.05 03:37:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (963,50,103,'11.02.00 02:37:00','06.12.08 05:28:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (964,50,103,'12.30.01 05:13:00','06.28.05 05:18:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (965,50,109,'06.22.13 05:57:00','09.15.00 01:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (966,49,119,'03.04.13 02:50:00','02.06.00 05:39:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (967,49,119,'03.18.13 01:24:00','08.21.11 07:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (968,21,119,'11.15.01 09:23:00','05.18.14 08:26:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (969,82,126,'09.28.09 07:52:00','08.24.13 02:15:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (970,82,126,'12.20.12 06:52:00','09.21.14 07:21:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (971,40,127,'03.03.12 03:08:00','04.29.00 07:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (972,40,131,'06.03.02 00:07:00','09.29.05 02:31:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (973,40,131,'06.25.11 01:36:00','10.10.08 05:50:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (974,56,131,'05.01.05 05:36:00','12.21.12 09:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (975,56,139,'06.01.05 09:51:00','06.14.06 09:07:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (976,72,139,'08.05.14 07:12:00','02.10.12 08:19:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (977,72,139,'10.17.09 00:52:00','06.14.00 01:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (978,72,146,'05.25.00 08:12:00','08.02.12 02:03:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (979,10,146,'01.19.06 03:38:00','06.02.10 10:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (980,67,146,'09.12.14 02:53:00','10.12.14 02:29:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (981,67,151,'04.22.08 07:40:00','07.23.11 10:33:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (982,51,151,'07.07.11 02:57:00','03.13.02 03:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (983,51,151,'11.25.08 02:23:00','05.24.10 08:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (984,68,152,'07.07.00 05:05:00','11.03.00 03:46:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (985,11,152,'11.05.13 00:24:00','04.14.11 03:32:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (986,11,162,'06.06.14 06:23:00','01.17.00 01:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (987,11,164,'08.26.13 10:22:00','06.04.00 05:16:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (988,99,172,'04.26.01 02:55:00','12.17.13 01:24:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (989,99,172,'08.13.08 09:22:00','06.15.08 01:05:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (990,26,172,'10.11.09 08:54:00','01.26.08 00:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (991,36,181,'10.24.06 00:47:00','04.15.02 02:06:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (992,36,181,'05.18.06 05:45:00','05.05.04 00:55:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (993,64,187,'12.28.01 06:20:00','07.14.00 09:53:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (994,64,187,'04.09.14 05:48:00','04.14.01 08:36:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (995,43,187,'11.09.10 03:42:00','04.26.09 09:34:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (996,14,188,'08.03.07 10:56:00','09.05.14 02:43:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (997,79,195,'07.30.04 02:01:00','04.29.04 09:42:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (998,79,195,'05.23.07 04:46:00','12.01.12 02:13:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (999,89,195,'02.08.05 10:17:00','12.24.06 10:14:00');
+ 
+ 
+INSERT INTO tour (id,staff_exposition_id,exposition_id,date_exposition,time_exposition) VALUES (1000,9,201,'03.06.11 09:25:00','01.24.06 05:15:00');
+ 
+
+
+

@@ -1,0 +1,298 @@
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (1,539527,145284,84180,447625);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (2,451722,866785,465988,86594);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (3,588211,717400,859718,257540);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (4,949541,532624,356662,736016);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (5,758932,905861,60308,471832);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (6,677308,451055,337011,529917);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (7,945081,699115,235609,875898);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (8,747564,112507,497861,115788);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (9,350903,952370,831579,549144);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (10,805380,982570,368331,145085);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (11,262981,245016,477588,300527);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (12,206093,390664,359193,490029);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (13,134214,300545,86026,166606);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (14,505540,981212,18733,522902);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (15,980311,968977,764412,972085);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (16,262793,727310,101106,457844);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (17,88767,771779,540004,952864);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (18,155396,506902,447200,755151);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (19,40355,9289,896908,441583);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (20,407092,241449,677991,588067);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (21,43101,430634,125687,615668);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (22,528066,597101,700407,372089);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (23,578778,466157,485473,307882);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (24,367673,248372,25684,356756);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (25,361884,22334,178571,879367);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (26,479675,704308,900227,279952);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (27,611129,839199,137575,155195);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (28,799976,697162,248967,84697);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (29,633419,410265,624971,422413);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (30,636855,133562,431226,698450);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (31,720340,464948,645252,490588);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (32,973701,608188,809069,874901);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (33,357143,13482,169522,814858);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (34,84247,479940,128168,98272);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (35,744226,954350,172612,681477);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (36,460305,510610,711161,550108);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (37,631122,244199,482681,455858);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (38,52000,66058,463511,138581);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (39,462982,630266,443333,893129);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (40,820503,879877,691862,590283);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (41,839558,945297,388223,511169);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (42,603268,379572,734906,604520);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (43,286690,964971,928166,26164);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (44,291766,575227,406736,70116);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (45,340286,827821,50746,850648);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (46,321717,510678,252704,344705);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (47,942811,17654,32428,654053);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (48,475827,277186,617789,596528);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (49,152271,908478,163165,985755);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (50,999018,589608,527448,208731);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (51,163692,871918,283509,960620);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (52,26171,925070,380978,246162);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (53,643113,947142,134219,7051);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (54,322351,224136,457377,984667);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (55,374061,73279,518370,677537);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (56,335547,154484,233701,502890);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (57,216544,884348,275964,521698);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (58,561903,937073,515925,336563);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (59,378529,66669,71040,21831);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (60,223456,734821,382302,195310);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (61,999930,278797,991279,590960);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (62,258369,603771,939222,741940);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (63,49090,633933,960120,633379);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (64,623662,6765,889572,434247);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (65,531768,744854,961362,667703);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (66,910452,889619,913594,429301);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (67,12621,331330,76280,512411);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (68,271683,319788,862246,550251);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (69,449189,390048,333231,533894);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (70,662363,687546,763060,315621);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (71,338382,927033,369762,957005);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (72,392297,469651,638504,31101);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (73,175458,252570,907224,238102);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (74,991321,555521,136837,943854);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (75,225514,838629,37877,500595);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (76,387038,135904,975472,459301);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (77,607469,738779,324502,32997);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (78,395051,154051,196835,420430);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (79,690544,570620,712507,849465);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (80,521700,319387,236722,449582);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (81,803252,60695,254543,312851);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (82,79290,683682,805161,352755);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (83,254879,151921,647604,820248);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (84,613832,779727,579769,586400);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (85,669470,673503,582646,551037);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (86,645277,322500,711616,786714);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (87,632311,573362,906690,277432);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (88,720245,472842,143576,361441);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (89,648917,713052,597433,237530);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (90,777264,663628,741197,144166);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (91,416513,225185,550358,70855);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (92,824503,988438,236050,111114);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (93,408020,433354,178343,816407);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (94,930008,152730,981597,160446);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (95,768541,334550,823770,973207);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (96,524432,987511,521543,954056);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (97,524341,644088,983136,623346);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (98,16274,525509,970703,821868);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (99,104335,403027,344161,617530);
+ 
+ 
+INSERT INTO shopping (id,col_tick,sum,sum_with_bonus,user_buyer_id) VALUES (100,719612,639846,208353,728632);

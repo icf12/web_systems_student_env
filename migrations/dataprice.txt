@@ -1,0 +1,5998 @@
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1,75,6,83338);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (2,26,948,896222);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (3,10,948,796762);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (4,10,948,285479);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (5,10,873,411414);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (6,76,873,783073);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (7,76,898,451108);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (8,17,898,73594);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (9,79,990,657060);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (10,20,990,5415);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (11,20,14,852536);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (12,20,14,771959);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (13,29,190,604592);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (14,29,190,322350);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (15,29,190,85157);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (16,54,36,428106);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (17,54,203,427350);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (18,54,203,743975);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (19,51,517,710701);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (20,51,384,503604);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (21,51,384,263087);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (22,5,288,869465);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (23,5,188,235635);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (24,71,962,542699);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (25,71,962,660162);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (26,71,962,423932);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (27,49,374,506611);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (28,86,374,328982);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (29,86,655,12477);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (30,1,673,18655);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (31,18,673,766587);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (32,18,673,520723);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (33,44,687,38826);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (34,26,687,98239);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (35,26,371,472339);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (36,77,371,94032);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (37,58,371,2436);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (38,58,13,502406);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (39,74,13,441512);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (40,74,13,539579);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (41,74,397,108045);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (42,59,992,26353);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (43,59,837,813813);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (44,59,837,188216);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (45,56,294,133447);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (46,56,301,528484);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (47,36,282,61155);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (48,36,346,755338);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (49,36,346,173574);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (50,54,346,590381);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (51,54,603,135432);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (52,54,234,457991);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (53,3,234,762041);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (54,3,234,465057);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (55,3,257,661845);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (56,37,257,686386);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (57,14,703,90248);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (58,14,703,227632);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (59,69,703,362821);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (60,61,594,766100);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (61,61,299,963050);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (62,3,299,747454);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (63,3,691,399769);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (64,3,536,981125);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (65,10,536,48813);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (66,60,536,44063);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (67,13,310,289135);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (68,13,132,805985);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (69,13,218,848777);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (70,89,125,876261);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (71,89,125,575385);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (72,89,125,40334);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (73,16,475,756123);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (74,16,922,307451);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (75,16,922,893190);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (76,88,922,145338);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (77,88,524,358259);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (78,9,524,40021);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (79,9,524,709806);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (80,9,647,609703);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (81,84,512,962899);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (82,84,512,29228);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (83,84,927,851902);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (84,62,510,828180);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (85,97,634,150077);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (86,97,634,73973);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (87,97,77,158417);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (88,12,77,726371);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (89,12,727,381924);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (90,12,324,921409);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (91,78,807,996824);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (92,45,634,640986);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (93,45,634,991821);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (94,82,536,380940);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (95,42,831,180006);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (96,66,526,985377);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (97,66,526,901211);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (98,66,39,532806);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (99,47,39,459411);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (100,32,324,170778);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (101,32,803,711447);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (102,32,803,920905);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (103,100,803,336485);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (104,100,597,980158);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (105,38,597,415985);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (106,38,597,566281);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (107,11,122,113137);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (108,11,122,594284);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (109,11,990,114777);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (110,3,990,853457);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (111,21,163,492630);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (112,40,163,787175);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (113,40,163,834269);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (114,86,148,191634);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (115,58,148,643123);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (116,58,710,690087);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (117,58,710,362256);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (118,2,352,293203);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (119,2,352,856584);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (120,2,752,202427);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (121,60,752,451476);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (122,60,752,181423);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (123,60,536,256024);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (124,99,536,559946);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (125,99,536,965271);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (126,99,976,288149);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (127,99,976,498567);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (128,61,976,16412);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (129,61,247,784088);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (130,61,497,587537);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (131,60,558,787498);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (132,60,731,77714);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (133,43,979,569296);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (134,43,119,675880);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (135,27,119,32613);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (136,27,264,765372);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (137,27,264,447418);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (138,35,286,921887);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (139,35,286,434693);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (140,40,436,749653);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (141,40,436,871486);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (142,40,436,402376);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (143,98,596,659959);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (144,98,596,829845);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (145,98,596,156779);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (146,60,540,81145);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (147,60,540,229329);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (148,60,540,340487);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (149,39,734,97049);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (150,39,148,651514);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (151,39,148,822066);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (152,84,148,513441);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (153,52,817,873367);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (154,96,817,457828);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (155,33,817,516196);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (156,65,684,423838);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (157,65,684,26695);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (158,6,684,377171);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (159,8,816,446850);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (160,8,816,137401);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (161,60,579,665870);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (162,60,579,482430);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (163,60,579,487006);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (164,63,114,589148);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (165,63,114,275205);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (166,34,339,63292);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (167,34,503,409700);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (168,34,503,168692);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (169,51,310,5449);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (170,51,310,551770);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (171,16,310,74334);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (172,16,364,601866);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (173,16,364,983722);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (174,89,364,588077);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (175,61,637,306297);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (176,61,637,701681);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (177,61,329,385450);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (178,80,329,19212);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (179,80,202,539428);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (180,78,202,353968);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (181,78,838,93745);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (182,52,838,400774);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (183,36,273,830389);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (184,59,273,802918);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (185,59,870,10953);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (186,59,999,575514);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (187,53,873,987903);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (188,53,719,661508);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (189,53,719,43131);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (190,NULL,791,427809);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (191,NULL,141,373567);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (192,37,141,319558);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (193,37,141,559407);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (194,37,550,951626);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (195,12,550,323729);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (196,11,561,447830);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (197,11,561,192924);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (198,11,577,9602);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (199,43,577,591126);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (200,43,577,341866);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (201,32,908,514008);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (202,43,123,835486);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (203,83,231,569924);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (204,94,231,528440);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (205,94,231,970932);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (206,96,194,696437);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (207,82,194,835079);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (208,82,364,593858);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (209,82,364,355948);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (210,8,689,792776);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (211,8,689,890833);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (212,58,126,911745);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (213,58,660,302033);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (214,66,841,62314);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (215,25,738,926425);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (216,63,738,808468);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (217,63,159,40548);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (218,63,686,406193);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (219,18,686,598026);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (220,18,686,528530);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (221,74,456,452512);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (222,6,538,415987);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (223,6,538,885224);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (224,6,749,751768);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (225,69,749,25026);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (226,63,186,181817);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (227,63,186,828896);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (228,48,582,912963);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (229,67,582,310472);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (230,68,582,550058);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (231,43,376,855182);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (232,42,376,365908);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (233,73,376,787882);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (234,73,627,457150);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (235,73,627,224796);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (236,96,243,667136);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (237,96,243,155631);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (238,96,25,892282);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (239,90,25,377443);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (240,90,25,263062);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (241,23,253,708443);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (242,88,253,746546);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (243,91,31,787029);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (244,31,177,999375);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (245,19,177,433647);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (246,38,177,522116);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (247,38,231,551205);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (248,38,231,890308);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (249,100,301,888944);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (250,100,301,500584);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (251,100,301,778718);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (252,50,609,59748);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (253,50,609,173852);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (254,50,939,848746);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (255,79,339,969043);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (256,51,339,758893);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (257,66,339,850138);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (258,66,287,692471);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (259,50,287,596805);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (260,50,267,113991);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (261,26,267,648448);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (262,26,622,597434);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (263,26,97,679279);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (264,69,97,525950);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (265,69,97,536082);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (266,11,367,946385);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (267,11,180,62555);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (268,68,152,87133);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (269,68,152,119728);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (270,68,152,768610);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (271,44,60,699368);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (272,14,940,416027);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (273,16,495,211728);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (274,16,309,780879);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (275,87,119,124554);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (276,38,119,239900);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (277,38,119,496474);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (278,38,888,278602);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (279,10,888,560609);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (280,19,245,122144);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (281,57,245,102651);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (282,66,177,702337);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (283,66,606,643125);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (284,66,606,944374);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (285,9,606,814988);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (286,9,843,211757);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (287,9,843,169936);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (288,75,971,21639);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (289,75,971,925177);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (290,75,971,69830);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (291,37,845,268112);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (292,91,845,883393);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (293,91,579,224807);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (294,91,579,88136);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (295,94,746,926047);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (296,94,746,397886);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (297,16,746,982925);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (298,16,78,568697);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (299,16,78,109537);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (300,49,78,454834);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (301,49,963,696962);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (302,49,963,592595);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (303,49,473,655641);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (304,49,19,934891);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (305,49,19,758555);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (306,100,459,997571);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (307,100,220,868901);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (308,100,220,77816);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (309,24,237,462216);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (310,24,237,259547);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (311,24,237,672784);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (312,53,971,634585);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (313,53,971,970484);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (314,57,971,150171);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (315,57,811,371543);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (316,57,811,49095);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (317,38,811,713719);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (318,38,335,555034);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (319,67,62,512093);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (320,67,62,561191);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (321,48,313,577978);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (322,18,313,84872);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (323,18,786,729762);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (324,77,786,133780);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (325,77,531,147021);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (326,47,531,652153);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (327,61,531,442981);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (328,37,582,523247);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (329,37,572,224152);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (330,97,572,82577);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (331,48,558,738089);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (332,48,558,505456);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (333,76,558,521779);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (334,52,562,404933);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (335,52,363,36029);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (336,52,363,372422);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (337,84,973,875978);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (338,84,973,489099);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (339,12,973,393170);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (340,12,703,449506);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (341,12,265,943173);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (342,10,265,33546);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (343,10,11,914537);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (344,72,11,770720);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (345,72,104,613147);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (346,37,305,577945);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (347,100,305,260422);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (348,100,383,304842);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (349,83,383,663935);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (350,83,383,112865);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (351,83,212,951337);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (352,62,212,100125);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (353,60,212,782845);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (354,60,155,767001);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (355,56,155,42385);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (356,85,155,995300);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (357,85,156,537936);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (358,85,156,27387);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (359,81,156,437223);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (360,81,89,76854);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (361,81,944,791600);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (362,39,60,250460);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (363,60,60,358504);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (364,60,677,802051);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (365,17,677,645603);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (366,1,513,489761);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (367,87,871,177624);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (368,87,566,616149);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (369,87,566,909484);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (370,85,566,668270);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (371,85,548,616045);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (372,85,548,69411);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (373,56,202,224680);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (374,56,475,203138);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (375,25,301,324840);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (376,23,783,96719);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (377,23,647,895224);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (378,77,647,22841);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (379,77,71,259721);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (380,77,71,166813);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (381,37,400,560724);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (382,37,400,409179);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (383,37,21,456039);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (384,56,25,924431);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (385,56,25,714521);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (386,56,25,135652);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (387,64,412,979186);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (388,64,613,819991);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (389,64,557,57483);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (390,34,557,113788);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (391,84,557,924173);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (392,84,744,92241);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (393,10,744,934378);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (394,10,730,858305);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (395,10,802,940766);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (396,37,802,182367);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (397,37,802,771748);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (398,78,410,109577);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (399,78,410,808319);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (400,78,946,445381);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (401,22,946,304003);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (402,22,946,655446);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (403,22,678,999654);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (404,4,678,927402);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (405,53,513,226886);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (406,53,473,748046);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (407,53,977,891063);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (408,45,977,114236);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (409,45,832,918609);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (410,31,832,60595);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (411,31,137,399768);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (412,5,906,385310);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (413,5,221,435650);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (414,42,221,654617);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (415,42,221,713735);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (416,92,403,396425);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (417,92,79,818593);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (418,92,79,192145);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (419,30,552,329801);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (420,30,552,33870);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (421,30,914,873738);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (422,8,914,111300);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (423,8,929,961099);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (424,93,929,303842);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (425,93,929,546515);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (426,56,782,218775);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (427,56,782,782464);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (428,36,418,806984);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (429,36,686,23562);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (430,91,383,810050);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (431,91,383,700175);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (432,93,383,964976);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (433,93,192,740473);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (434,83,192,200843);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (435,83,526,689673);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (436,83,743,448645);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (437,97,743,346440);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (438,97,743,906386);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (439,97,694,943375);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (440,95,950,604058);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (441,95,950,197121);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (442,95,950,350352);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (443,55,72,141917);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (444,55,842,100819);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (445,51,842,454852);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (446,51,190,245960);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (447,65,190,994615);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (448,65,159,571782);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (449,54,907,421235);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (450,54,907,512620);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (451,34,296,473998);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (452,55,296,821351);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (453,55,103,96262);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (454,75,103,149401);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (455,75,995,176185);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (456,75,995,443045);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (457,86,441,283619);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (458,86,441,142274);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (459,86,441,793103);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (460,99,652,870749);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (461,99,652,749709);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (462,99,652,962387);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (463,81,186,781642);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (464,81,85,36696);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (465,81,821,17202);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (466,81,821,537088);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (467,81,821,887704);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (468,81,618,512417);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (469,73,789,535328);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (470,66,789,590106);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (471,28,485,280726);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (472,92,485,299681);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (473,94,65,165987);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (474,94,311,435528);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (475,94,446,367369);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (476,76,446,168523);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (477,76,446,738539);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (478,81,574,679788);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (479,81,720,471396);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (480,81,720,920234);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (481,8,533,819338);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (482,8,533,729033);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (483,8,594,850206);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (484,12,594,804398);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (485,59,594,655557);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (486,59,238,276195);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (487,59,584,935723);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (488,85,584,479708);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (489,96,509,397074);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (490,96,509,745263);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (491,96,509,806925);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (492,80,440,690931);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (493,80,440,623725);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (494,80,159,76001);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (495,67,199,304739);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (496,67,199,480987);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (497,94,470,302653);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (498,94,470,94884);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (499,94,700,516305);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (500,10,700,167343);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (501,10,700,380079);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (502,10,626,411929);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (503,10,154,721326);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (504,41,154,315081);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (505,41,154,175229);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (506,44,215,472238);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (507,44,462,348172);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (508,44,462,924319);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (509,67,653,696012);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (510,67,739,601696);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (511,67,739,447299);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (512,48,52,787138);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (513,48,52,411059);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (514,65,893,500156);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (515,65,536,825459);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (516,65,430,9027);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (517,25,430,236936);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (518,64,762,13842);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (519,64,910,96125);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (520,64,910,35901);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (521,2,910,362754);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (522,2,300,384840);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (523,2,706,940160);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (524,44,706,305598);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (525,44,959,10197);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (526,31,125,341437);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (527,54,228,530734);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (528,54,228,325581);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (529,20,408,483999);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (530,20,408,247995);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (531,20,308,663109);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (532,20,221,764258);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (533,20,221,507826);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (534,20,221,986593);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (535,65,138,521970);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (536,65,110,272666);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (537,78,715,496759);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (538,61,396,391974);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (539,61,396,563048);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (540,61,396,583230);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (541,90,504,374122);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (542,90,545,739096);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (543,90,545,205656);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (544,83,545,258912);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (545,92,172,387287);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (546,92,172,253972);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (547,9,49,89646);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (548,66,49,674474);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (549,66,407,85488);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (550,89,866,815237);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (551,28,866,724672);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (552,28,866,63786);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (553,29,536,389219);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (554,29,536,265797);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (555,29,536,63625);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (556,3,584,826442);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (557,94,962,174067);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (558,94,870,376508);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (559,80,870,548441);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (560,80,254,157440);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (561,20,935,146769);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (562,59,935,436953);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (563,59,935,733622);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (564,59,590,166306);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (565,59,773,539389);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (566,59,672,673687);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (567,59,672,418941);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (568,17,887,847936);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (569,32,887,55870);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (570,32,247,877702);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (571,42,247,697371);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (572,42,247,432954);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (573,48,725,237988);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (574,61,725,260123);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (575,98,51,139408);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (576,98,51,723874);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (577,87,51,780829);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (578,87,984,191777);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (579,90,984,166003);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (580,90,984,613187);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (581,15,921,752576);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (582,15,921,160576);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (583,37,921,949251);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (584,37,118,47747);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (585,37,118,798930);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (586,44,118,987554);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (587,44,207,168236);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (588,44,207,607535);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (589,91,207,318304);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (590,91,934,499736);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (591,91,934,619740);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (592,1,64,444611);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (593,1,282,149193);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (594,93,282,370081);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (595,98,282,209275);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (596,98,392,707397);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (597,98,392,780097);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (598,94,680,590399);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (599,3,680,68898);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (600,41,680,795886);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (601,3,465,333774);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (602,3,731,708782);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (603,3,731,110397);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (604,5,920,247023);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (605,5,920,512296);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (606,31,125,390814);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (607,30,125,752186);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (608,30,125,807615);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (609,92,781,430352);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (610,92,621,807726);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (611,31,995,915202);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (612,31,995,807969);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (613,46,995,576738);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (614,46,517,299210);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (615,27,288,669424);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (616,27,288,780113);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (617,27,178,223318);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (618,42,716,446450);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (619,42,716,482589);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (620,42,500,970592);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (621,76,209,579493);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (622,25,536,843475);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (623,25,536,993683);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (624,25,7,407256);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (625,16,687,967938);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (626,16,687,716918);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (627,16,687,811455);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (628,19,227,961451);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (629,19,227,950104);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (630,48,426,359094);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (631,34,426,349552);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (632,34,16,456379);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (633,95,16,824997);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (634,95,853,71657);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (635,95,181,379449);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (636,76,181,90083);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (637,76,364,881888);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (638,76,540,472487);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (639,39,30,832308);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (640,39,30,146209);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (641,86,30,223898);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (642,86,911,446986);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (643,86,911,420403);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (644,92,911,922924);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (645,92,40,344915);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (646,69,439,825141);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (647,95,439,971252);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (648,95,439,378799);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (649,81,629,767322);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (650,81,629,34022);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (651,26,789,706523);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (652,26,789,91103);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (653,26,789,730284);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (654,68,260,847055);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (655,68,260,995035);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (656,27,371,396038);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (657,27,371,621126);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (658,97,371,410476);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (659,97,300,993191);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (660,97,353,600554);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (661,85,353,285301);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (662,85,743,87641);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (663,85,743,814492);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (664,64,374,882038);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (665,64,23,74808);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (666,36,23,511778);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (667,58,23,526396);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (668,58,112,352312);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (669,48,900,578620);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (670,48,337,757014);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (671,67,862,361992);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (672,44,862,73777);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (673,44,761,935317);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (674,42,761,655191);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (675,30,720,304567);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (676,30,118,171960);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (677,11,118,771558);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (678,11,118,71369);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (679,10,478,6809);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (680,10,478,693222);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (681,41,308,82411);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (682,41,425,243508);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (683,41,425,827027);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (684,54,230,465399);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (685,54,858,860117);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (686,54,696,956743);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (687,3,696,617426);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (688,40,733,878827);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (689,90,733,851253);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (690,33,971,525214);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (691,64,600,391339);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (692,60,913,433566);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (693,60,913,973382);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (694,60,913,187774);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (695,22,876,333424);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (696,22,876,585948);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (697,22,876,136602);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (698,57,396,193766);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (699,57,396,435387);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (700,20,396,757870);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (701,20,502,957766);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (702,92,502,628909);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (703,92,933,884282);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (704,92,933,190580);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (705,57,941,971410);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (706,57,941,703473);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (707,99,941,79326);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (708,77,295,737603);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (709,44,162,403131);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (710,40,162,841730);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (711,37,162,437652);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (712,37,19,713476);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (713,37,216,511394);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (714,77,246,151490);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (715,77,246,651809);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (716,77,246,759784);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (717,71,75,447601);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (718,71,75,232152);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (719,46,397,390835);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (720,46,478,362000);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (721,79,478,225962);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (722,79,669,357502);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (723,79,669,757009);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (724,15,894,793816);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (725,33,255,467946);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (726,33,255,898112);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (727,65,255,425385);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (728,33,313,12428);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (729,33,358,460591);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (730,47,358,209766);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (731,73,962,567659);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (732,73,962,30213);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (733,73,962,879104);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (734,52,780,740940);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (735,5,780,79914);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (736,5,780,69891);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (737,5,399,541795);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (738,37,399,324214);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (739,37,318,31816);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (740,28,25,784892);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (741,59,25,720048);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (742,57,763,809035);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (743,57,763,720227);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (744,28,251,601310);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (745,28,251,682595);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (746,62,251,809156);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (747,31,231,550912);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (748,31,231,267374);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (749,85,231,887861);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (750,85,813,712365);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (751,24,813,723010);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (752,78,79,151543);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (753,78,703,193832);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (754,2,703,842942);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (755,2,789,43901);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (756,51,789,74813);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (757,51,789,304769);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (758,77,909,271539);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (759,77,909,908225);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (760,45,909,676037);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (761,45,434,188731);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (762,45,2,887605);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (763,50,2,345862);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (764,50,40,231397);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (765,50,590,790051);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (766,92,590,354273);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (767,27,590,97119);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (768,1,211,267753);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (769,1,211,68212);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (770,1,262,494759);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (771,87,262,117469);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (772,87,262,799931);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (773,87,966,168744);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (774,2,966,209765);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (775,3,438,582921);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (776,9,438,914208);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (777,9,438,889171);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (778,9,900,663316);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (779,56,900,273323);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (780,56,900,387999);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (781,56,45,366295);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (782,57,45,589643);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (783,84,45,514227);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (784,3,415,238807);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (785,3,415,310663);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (786,64,415,476511);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (787,89,764,834795);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (788,89,57,43916);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (789,76,57,61209);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (790,87,57,677975);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (791,87,525,839591);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (792,87,525,539473);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (793,99,525,726987);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (794,99,39,173542);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (795,20,39,6832);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (796,20,26,39197);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (797,92,26,174041);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (798,92,918,829468);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (799,92,918,451263);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (800,13,920,651183);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (801,13,920,468615);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (802,13,466,82316);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (803,29,256,317657);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (804,29,770,360108);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (805,64,770,936044);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (806,64,295,824723);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (807,64,295,589474);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (808,71,598,234703);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (809,71,598,488657);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (810,79,598,936816);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (811,79,913,748016);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (812,66,741,239572);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (813,66,741,889018);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (814,99,741,843801);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (815,32,690,336946);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (816,32,804,24570);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (817,32,804,701139);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (818,39,61,384382);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (819,86,61,314646);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (820,86,133,394824);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (821,61,133,934592);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (822,61,133,546768);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (823,69,555,46803);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (824,24,617,336789);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (825,24,617,64783);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (826,37,557,446683);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (827,37,557,731131);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (828,75,105,647349);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (829,7,105,354783);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (830,7,260,299869);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (831,7,260,890073);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (832,85,261,307635);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (833,85,261,675551);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (834,62,261,32132);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (835,60,797,335111);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (836,60,797,388255);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (837,60,244,910050);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (838,98,938,783583);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (839,98,300,631644);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (840,98,300,18579);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (841,93,300,375910);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (842,35,29,755346);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (843,35,29,407429);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (844,35,29,98707);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (845,44,519,136832);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (846,13,519,121587);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (847,13,421,781212);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (848,13,421,13629);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (849,74,421,222501);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (850,64,739,359605);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (851,64,502,145471);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (852,23,502,395033);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (853,23,502,268197);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (854,56,953,965623);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (855,56,953,963089);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (856,6,953,846636);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (857,97,129,355571);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (858,97,290,87906);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (859,12,416,371735);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (860,12,416,731592);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (861,12,416,400864);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (862,4,687,340543);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (863,50,687,530505);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (864,88,687,511498);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (865,88,263,350324);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (866,88,263,394968);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (867,76,263,812867);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (868,76,250,255476);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (869,76,250,907275);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (870,77,250,1722);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (871,77,685,770077);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (872,77,685,44695);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (873,86,685,682603);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (874,10,569,5175);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (875,10,745,989421);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (876,42,745,45727);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (877,42,223,315857);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (878,42,463,918188);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (879,61,463,235670);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (880,61,463,612819);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (881,61,354,707271);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (882,32,354,285393);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (883,32,354,274787);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (884,32,676,17676);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (885,93,426,814671);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (886,93,426,930687);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (887,25,426,22262);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (888,25,372,804102);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (889,25,372,404002);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (890,74,372,397887);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (891,74,552,826689);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (892,74,20,577661);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (893,24,20,872672);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (894,24,20,378735);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (895,24,153,350600);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (896,48,862,598293);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (897,57,862,903922);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (898,57,862,876724);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (899,57,736,209474);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (900,1,736,467163);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (901,1,736,910524);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (902,1,269,622016);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (903,38,269,46636);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (904,6,269,792459);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (905,6,213,183837);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (906,6,68,910557);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (907,88,68,549926);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (908,40,68,641625);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (909,40,874,765418);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (910,40,874,868553);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (911,61,874,334625);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (912,61,652,106078);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (913,89,588,156102);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (914,89,588,604579);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (915,89,474,244051);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (916,24,474,747527);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (917,37,578,185750);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (918,37,578,103622);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (919,37,755,821095);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (920,41,755,678476);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (921,41,198,980498);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (922,41,198,859862);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (923,49,198,727984);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (924,49,413,125315);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (925,42,10,143922);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (926,42,10,680563);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (927,42,871,601151);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (928,100,871,843217);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (929,100,871,751333);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (930,100,814,899599);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (931,75,814,717855);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (932,99,792,418788);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (933,19,576,730418);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (934,19,576,549263);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (935,69,360,675788);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (936,69,850,748864);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (937,69,850,989950);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (938,44,850,492761);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (939,44,422,880006);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (940,76,422,946110);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (941,76,781,364109);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (942,17,781,415878);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (943,17,357,154061);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (944,17,221,689476);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (945,46,221,891171);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (946,65,221,828920);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (947,65,903,504289);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (948,63,135,809802);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (949,63,193,324173);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (950,63,193,47158);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (951,71,96,742645);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (952,71,96,11557);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (953,71,96,286648);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (954,40,242,847870);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (955,40,178,885203);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (956,96,178,776868);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (957,96,178,239090);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (958,2,472,472117);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (959,2,472,572142);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (960,44,766,271026);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (961,44,766,524633);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (962,44,766,322365);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (963,40,50,539375);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (964,40,240,993342);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (965,40,994,409491);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (966,68,994,410647);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (967,68,994,419145);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (968,68,883,272669);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (969,66,883,133985);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (970,66,883,357511);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (971,36,778,368625);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (972,36,899,785987);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (973,36,899,304);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (974,33,523,144287);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (975,33,156,500249);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (976,34,629,722558);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (977,34,629,255898);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (978,34,643,636602);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (979,99,643,973262);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (980,99,643,494870);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (981,91,557,556055);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (982,91,557,42346);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (983,65,883,348234);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (984,65,883,782091);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (985,31,24,646698);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (986,13,701,997357);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (987,13,701,195031);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (988,96,701,672839);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (989,96,913,166694);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (990,96,913,771309);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (991,89,940,494733);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (992,89,296,260203);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (993,89,296,65714);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (994,81,296,717460);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (995,81,78,968763);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (996,86,846,352696);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (997,86,846,739382);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (998,86,597,140194);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (999,18,597,161233);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1000,18,779,794429);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1001,18,779,272677);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1002,51,326,831767);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1003,17,326,757120);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1004,17,326,463244);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1005,17,640,871721);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1006,45,640,475555);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1007,45,778,765246);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1008,24,561,820797);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1009,24,561,25620);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1010,22,561,274141);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1011,22,758,696320);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1012,79,758,31122);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1013,79,810,984690);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1014,79,810,455370);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1015,94,810,926328);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1016,94,237,208541);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1017,94,237,588405);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1018,78,237,507779);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1019,31,913,21657);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1020,31,375,551661);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1021,80,375,892747);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1022,80,794,824495);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1023,13,794,455948);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1024,30,794,983997);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1025,21,710,240767);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1026,76,710,87075);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1027,51,710,137827);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1028,45,784,175022);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1029,93,773,783494);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1030,41,773,187184);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1031,41,192,839330);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1032,41,11,473007);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1033,97,11,963035);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1034,97,11,970430);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1035,97,922,591427);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1036,15,922,773570);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1037,22,558,266146);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1038,22,558,7320);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1039,22,551,98891);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1040,3,551,580203);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1041,3,119,667745);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1042,49,119,337306);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1043,49,999,113817);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1044,8,999,386082);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1045,8,190,221344);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1046,8,190,854119);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1047,9,190,759716);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1048,25,32,591042);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1049,25,32,457886);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1050,31,32,522154);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1051,63,967,101050);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1052,98,527,758264);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1053,98,527,770446);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1054,98,388,767861);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1055,9,388,43114);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1056,53,232,7810);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1057,53,232,289299);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1058,53,232,769175);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1059,22,295,362941);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1060,20,295,720666);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1061,20,295,751248);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1062,57,180,900271);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1063,36,180,806734);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1064,36,180,965843);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1065,36,57,405464);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1066,86,57,6464);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1067,86,57,716946);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1068,52,569,691661);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1069,29,569,670182);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1070,29,961,151736);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1071,29,463,610143);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1072,15,401,877086);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1073,15,401,356216);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1074,15,354,248114);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1075,50,499,696119);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1076,53,499,231707);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1077,53,491,917744);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1078,53,491,278144);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1079,4,NULL,816507);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1080,93,NULL,39327);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1081,93,211,651639);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1082,92,211,917343);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1083,85,148,619104);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1084,61,148,865381);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1085,61,148,380229);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1086,61,741,798537);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1087,NULL,34,33371);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1088,NULL,34,846718);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1089,NULL,34,791491);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1090,8,31,705859);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1091,23,31,135095);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1092,26,158,402251);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1093,24,175,262848);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1094,24,387,658657);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1095,83,851,324390);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1096,83,851,659147);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1097,83,851,207693);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1098,75,446,566678);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1099,75,446,614374);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1100,75,446,516959);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1101,19,362,436135);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1102,19,362,921852);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1103,19,362,182231);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1104,74,23,511861);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1105,13,23,191950);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1106,13,949,441192);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1107,51,302,474822);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1108,51,302,741959);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1109,51,302,610944);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1110,48,60,878525);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1111,48,642,219665);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1112,54,642,500704);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1113,1,920,152880);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1114,1,644,6520);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1115,7,815,927624);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1116,7,815,802707);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1117,74,230,522156);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1118,27,230,990427);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1119,27,292,150875);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1120,27,63,626559);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1121,10,80,355893);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1122,10,205,531607);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1123,10,126,936908);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1124,88,126,344524);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1125,88,869,173629);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1126,88,514,395246);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1127,48,514,549764);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1128,48,10,855525);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1129,46,10,687758);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1130,46,10,363777);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1131,46,740,380223);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1132,10,740,927651);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1133,19,704,179129);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1134,6,704,425567);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1135,57,704,689217);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1136,75,154,763544);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1137,66,154,469147);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1138,66,154,703583);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1139,66,169,93052);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1140,10,169,243971);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1141,90,986,291872);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1142,59,986,983972);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1143,19,986,357998);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1144,19,719,468851);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1145,58,572,862270);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1146,58,572,492727);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1147,51,114,19928);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1148,62,114,505799);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1149,62,114,62650);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1150,25,807,601890);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1151,77,807,544175);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1152,77,830,683517);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1153,77,830,364666);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1154,55,830,982398);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1155,55,966,61580);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1156,55,854,813257);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1157,39,854,295450);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1158,70,771,115501);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1159,70,964,3170);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1160,47,964,38647);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1161,9,959,771641);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1162,71,959,50956);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1163,81,274,485650);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1164,81,274,699870);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1165,84,274,928057);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1166,84,846,28999);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1167,71,846,441650);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1168,12,846,293946);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1169,15,960,534663);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1170,42,960,160123);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1171,1,960,977567);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1172,1,10,623276);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1173,14,166,931213);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1174,14,166,350251);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1175,14,166,423745);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1176,84,219,123552);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1177,45,219,168434);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1178,45,219,519676);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1179,45,401,449067);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1180,7,698,656874);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1181,30,353,243373);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1182,30,559,703089);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1183,21,559,32031);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1184,62,251,368463);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1185,11,251,200393);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1186,89,880,221597);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1187,89,71,609986);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1188,77,636,62600);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1189,77,636,56194);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1190,77,636,591804);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1191,46,301,78039);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1192,46,301,358632);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1193,46,301,963356);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1194,70,139,557060);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1195,70,139,241098);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1196,58,139,176845);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1197,58,462,570039);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1198,58,539,570478);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1199,9,539,385816);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1200,58,490,550801);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1201,58,490,586424);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1202,58,354,763115);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1203,6,354,261863);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1204,6,354,423768);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1205,6,480,604779);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1206,72,15,712510);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1207,72,15,457526);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1208,27,15,148917);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1209,27,147,63856);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1210,36,147,348144);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1211,36,403,748230);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1212,87,618,325643);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1213,87,618,360842);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1214,87,387,769693);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1215,51,387,996280);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1216,51,387,27986);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1217,51,134,100534);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1218,65,134,8520);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1219,65,756,486923);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1220,65,256,901701);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1221,85,931,322737);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1222,10,931,850979);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1223,10,423,79805);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1224,94,423,31788);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1225,81,423,153488);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1226,79,152,833907);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1227,79,152,658455);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1228,79,152,360051);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1229,64,817,610005);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1230,64,817,293110);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1231,42,817,156193);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1232,42,193,23488);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1233,65,193,2592);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1234,65,193,321681);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1235,30,41,283367);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1236,30,790,860446);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1237,30,901,157580);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1238,2,314,587540);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1239,83,314,380198);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1240,72,91,848100);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1241,72,254,349716);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1242,72,373,292265);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1243,32,373,759480);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1244,32,373,224347);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1245,23,252,499014);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1246,23,252,96075);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1247,26,252,500666);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1248,26,597,357369);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1249,26,405,144768);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1250,36,405,690254);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1251,96,792,564924);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1252,9,792,244276);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1253,9,792,175279);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1254,96,175,621137);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1255,68,175,288949);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1256,3,175,16969);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1257,68,70,270158);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1258,53,70,612384);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1259,32,70,597199);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1260,32,189,88508);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1261,32,189,478158);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1262,57,189,977423);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1263,48,346,659149);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1264,88,346,158264);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1265,99,346,412669);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1266,99,78,530233);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1267,59,78,636391);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1268,12,78,797460);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1269,92,459,274669);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1270,92,459,647210);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1271,92,459,739541);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1272,23,951,796906);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1273,23,951,492131);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1274,22,272,946612);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1275,22,272,152274);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1276,43,272,377219);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1277,43,183,436561);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1278,43,400,173996);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1279,21,400,905763);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1280,73,400,861078);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1281,73,879,869701);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1282,63,879,103683);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1283,63,209,320638);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1284,63,355,957847);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1285,65,355,64743);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1286,65,796,676473);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1287,76,796,108877);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1288,76,796,164492);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1289,93,411,599222);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1290,93,130,278204);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1291,93,130,33702);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1292,2,130,159658);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1293,2,554,933168);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1294,2,174,687354);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1295,100,174,154628);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1296,88,174,767299);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1297,2,334,516741);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1298,2,374,325416);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1299,2,374,608837);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1300,74,82,936023);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1301,74,204,157666);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1302,39,204,156482);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1303,39,204,395944);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1304,99,765,385134);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1305,30,204,68231);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1306,22,482,481125);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1307,22,482,324636);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1308,73,382,320955);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1309,48,524,318018);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1310,8,636,987428);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1311,53,636,237440);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1312,53,636,304491);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1313,53,217,531283);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1314,5,614,572877);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1315,5,614,19010);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1316,5,324,122397);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1317,4,714,381962);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1318,4,714,74512);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1319,4,714,16763);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1320,69,765,524581);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1321,19,765,368244);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1322,64,765,747925);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1323,16,487,798920);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1324,16,487,480045);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1325,24,487,690581);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1326,24,913,863978);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1327,24,913,118275);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1328,90,253,244597);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1329,90,253,785286);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1330,7,253,757627);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1331,87,108,53452);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1332,87,108,385925);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1333,87,957,577152);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1334,49,957,567356);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1335,49,893,297390);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1336,49,893,894291);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1337,29,893,198658);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1338,29,62,219989);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1339,23,62,384918);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1340,23,62,581814);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1341,23,564,844804);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1342,51,564,388312);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1343,51,564,609449);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1344,51,838,290186);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1345,47,661,252626);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1346,47,661,706283);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1347,47,661,482912);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1348,33,336,160817);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1349,33,336,884754);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1350,75,218,239935);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1351,1,998,985886);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1352,91,361,493286);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1353,91,361,370276);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1354,17,361,954591);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1355,17,211,275714);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1356,44,211,376011);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1357,88,845,175790);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1358,88,845,965049);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1359,88,192,608497);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1360,72,192,936387);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1361,72,192,800796);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1362,19,588,343169);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1363,19,588,336229);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1364,19,639,390788);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1365,63,639,987496);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1366,63,639,499276);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1367,63,357,18282);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1368,24,810,668325);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1369,24,810,239468);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1370,4,810,758037);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1371,4,962,819584);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1372,4,962,132814);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1373,22,962,253903);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1374,22,195,895852);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1375,24,195,665353);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1376,24,273,164680);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1377,3,840,593298);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1378,3,840,492230);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1379,3,625,80559);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1380,38,235,456790);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1381,38,235,75663);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1382,38,235,756454);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1383,79,890,893523);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1384,79,350,899387);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1385,2,350,605710);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1386,2,350,770807);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1387,2,721,159433);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1388,92,721,864140);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1389,92,402,912369);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1390,70,754,212335);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1391,47,754,366201);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1392,47,754,651343);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1393,96,963,800847);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1394,96,963,275747);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1395,58,358,719187);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1396,38,358,707680);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1397,29,506,914701);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1398,5,641,582574);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1399,61,134,932074);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1400,61,134,464371);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1401,61,362,156189);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1402,28,362,948959);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1403,26,912,107654);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1404,93,912,14624);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1405,93,912,212225);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1406,93,11,778385);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1407,7,11,608582);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1408,99,11,494006);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1409,99,188,344544);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1410,28,188,992451);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1411,92,188,854282);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1412,92,297,635409);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1413,34,275,108936);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1414,74,275,876204);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1415,74,275,421785);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1416,82,319,580802);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1417,82,319,578232);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1418,61,319,4897);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1419,61,463,614178);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1420,27,463,279592);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1421,94,463,255393);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1422,32,828,934794);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1423,32,828,766181);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1424,32,405,337764);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1425,25,405,891986);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1426,25,405,988098);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1427,25,350,50235);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1428,13,350,457155);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1429,13,710,314915);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1430,13,710,284947);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1431,54,320,612333);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1432,54,320,109862);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1433,71,320,290148);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1434,71,106,839708);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1435,1,347,158419);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1436,1,347,939187);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1437,1,347,422500);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1438,73,313,799092);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1439,73,78,374878);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1440,73,415,377246);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1441,5,415,367020);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1442,90,968,921227);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1443,90,968,253140);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1444,90,968,724502);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1445,34,823,745918);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1446,34,823,663527);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1447,87,94,753438);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1448,87,94,277298);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1449,55,94,17214);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1450,55,14,867707);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1451,55,452,981442);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1452,83,123,500959);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1453,83,481,370467);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1454,83,481,285831);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1455,7,481,804948);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1456,7,771,377881);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1457,49,527,509338);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1458,49,527,332742);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1459,49,582,54806);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1460,66,582,680725);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1461,66,910,454035);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1462,76,910,625559);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1463,50,972,77029);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1464,50,972,959403);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1465,5,406,774005);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1466,37,406,891815);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1467,37,406,823480);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1468,56,72,702754);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1469,56,72,416823);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1470,56,50,103436);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1471,1,50,244959);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1472,1,50,63915);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1473,1,705,246471);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1474,17,705,249838);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1475,17,664,52143);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1476,76,664,291455);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1477,76,86,882053);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1478,76,752,137828);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1479,73,643,708084);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1480,73,643,766218);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1481,37,643,674132);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1482,37,952,567154);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1483,22,952,769296);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1484,95,952,976598);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1485,67,649,55736);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1486,7,649,404887);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1487,7,81,881409);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1488,7,81,710249);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1489,29,81,218413);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1490,29,559,96112);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1491,61,342,303752);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1492,57,139,246698);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1493,57,139,361595);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1494,26,643,117466);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1495,26,643,831553);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1496,91,643,38688);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1497,91,17,10495);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1498,74,198,876387);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1499,67,198,952454);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1500,88,720,210731);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1501,88,720,766957);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1502,88,720,217361);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1503,27,79,784526);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1504,27,79,77407);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1505,27,79,567546);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1506,21,885,356731);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1507,21,931,217396);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1508,19,931,116663);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1509,65,931,610145);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1510,65,341,708757);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1511,37,341,980220);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1512,37,341,475474);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1513,37,449,345363);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1514,100,339,633831);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1515,100,339,541386);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1516,100,219,571560);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1517,45,800,168776);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1518,45,800,638407);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1519,45,800,116235);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1520,99,799,358743);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1521,99,601,783387);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1522,1,601,27657);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1523,1,250,961860);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1524,79,250,504595);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1525,79,821,705012);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1526,22,821,500014);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1527,22,821,488796);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1528,22,290,793637);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1529,98,233,27309);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1530,98,423,130183);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1531,98,847,775698);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1532,86,847,829839);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1533,86,847,936886);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1534,86,525,262292);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1535,42,525,239868);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1536,63,525,115666);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1537,63,694,460698);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1538,63,694,778657);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1539,18,694,499045);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1540,18,879,669007);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1541,44,879,878873);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1542,44,799,313417);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1543,58,799,996284);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1544,58,799,535684);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1545,10,172,581061);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1546,39,172,301903);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1547,39,172,462785);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1548,56,21,205676);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1549,56,731,702657);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1550,5,731,612619);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1551,5,731,172392);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1552,5,998,351079);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1553,100,998,318661);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1554,26,998,429928);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1555,26,39,519778);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1556,26,39,185109);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1557,15,881,302696);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1558,36,480,142240);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1559,36,480,708398);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1560,36,480,942180);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1561,13,532,598063);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1562,27,532,356075);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1563,27,154,912914);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1564,27,154,305298);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1565,13,154,603410);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1566,13,178,571353);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1567,13,684,977443);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1568,14,684,349600);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1569,14,312,707447);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1570,14,312,985038);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1571,76,264,841759);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1572,12,264,124071);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1573,12,659,5179);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1574,12,659,975264);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1575,34,659,852175);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1576,34,274,979626);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1577,34,274,575124);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1578,92,274,131402);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1579,92,284,978530);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1580,41,284,779073);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1581,41,966,300878);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1582,97,124,405553);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1583,97,124,854889);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1584,97,124,466361);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1585,99,518,823542);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1586,99,518,175196);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1587,66,224,664073);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1588,66,224,828243);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1589,66,504,111010);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1590,75,504,823962);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1591,75,937,429019);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1592,44,216,951106);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1593,44,216,171059);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1594,44,874,993507);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1595,45,874,440663);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1596,54,874,730339);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1597,54,368,677437);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1598,54,368,133239);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1599,96,368,641580);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1600,96,513,624361);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1601,96,513,24939);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1602,38,513,285465);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1603,22,270,445041);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1604,88,816,331328);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1605,88,45,884986);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1606,88,45,913764);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1607,21,45,825666);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1608,21,301,851956);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1609,21,69,421909);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1610,20,69,698944);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1611,20,238,831198);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1612,20,851,787382);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1613,16,851,523009);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1614,16,500,25760);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1615,50,500,225921);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1616,50,96,964347);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1617,50,96,769872);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1618,86,992,703694);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1619,86,824,644043);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1620,86,824,13674);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1621,4,824,505628);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1622,4,92,195598);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1623,41,92,346816);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1624,41,421,14825);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1625,41,421,417011);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1626,41,681,614216);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1627,41,681,946120);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1628,41,61,552068);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1629,84,61,134377);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1630,84,61,193342);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1631,84,496,689633);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1632,95,544,358853);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1633,95,544,974933);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1634,67,544,741384);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1635,88,96,772085);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1636,88,96,586297);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1637,55,96,431455);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1638,55,315,918136);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1639,55,315,719798);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1640,6,599,415665);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1641,6,599,756626);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1642,6,599,9749);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1643,71,444,282145);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1644,71,444,489877);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1645,71,925,196142);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1646,60,925,508629);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1647,60,422,246923);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1648,60,422,844943);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1649,17,422,802229);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1650,30,629,420519);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1651,30,945,510424);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1652,30,945,873882);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1653,82,145,8058);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1654,24,145,930739);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1655,47,145,90405);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1656,47,970,318286);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1657,47,523,18121);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1658,15,523,520966);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1659,15,555,589098);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1660,18,555,264759);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1661,18,555,676156);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1662,18,422,239554);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1663,16,422,46572);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1664,16,422,990855);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1665,16,99,474143);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1666,18,99,579171);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1667,33,99,333537);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1668,33,295,210001);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1669,20,295,404811);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1670,20,295,7278);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1671,96,91,599453);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1672,69,91,156550);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1673,69,91,844454);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1674,87,985,203847);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1675,73,985,760517);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1676,25,985,445617);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1677,25,34,815312);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1678,52,34,84791);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1679,52,879,243984);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1680,52,879,335166);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1681,5,87,679332);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1682,5,928,805775);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1683,5,928,907094);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1684,86,350,960211);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1685,86,350,269362);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1686,73,350,519357);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1687,73,185,95101);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1688,73,185,520023);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1689,84,185,834561);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1690,84,251,848344);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1691,75,251,702685);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1692,75,70,207061);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1693,5,488,241300);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1694,5,488,143995);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1695,5,488,378521);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1696,73,668,720291);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1697,73,988,672738);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1698,73,988,673022);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1699,3,190,35482);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1700,3,190,397109);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1701,3,452,504338);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1702,67,452,226705);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1703,20,902,135527);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1704,20,784,581773);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1705,20,299,80749);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1706,84,299,261576);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1707,84,299,771062);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1708,72,446,234570);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1709,11,446,785323);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1710,11,372,49421);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1711,40,372,556632);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1712,29,372,791032);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1713,29,468,392702);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1714,29,534,531829);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1715,30,783,451645);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1716,30,783,75560);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1717,30,135,827786);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1718,61,135,915578);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1719,61,135,519916);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1720,61,679,624496);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1721,37,997,531390);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1722,37,18,330887);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1723,37,898,394488);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1724,94,898,403418);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1725,94,977,720078);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1726,51,977,997237);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1727,51,977,382200);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1728,91,207,941822);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1729,91,863,338368);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1730,91,467,937065);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1731,18,467,948018);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1732,18,359,395338);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1733,18,359,826381);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1734,60,60,565419);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1735,60,881,422616);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1736,59,40,238507);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1737,93,40,220750);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1738,49,40,404542);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1739,49,937,295549);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1740,49,937,377014);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1741,54,937,830956);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1742,54,658,55756);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1743,16,534,921042);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1744,48,86,227692);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1745,48,595,352525);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1746,61,595,690097);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1747,61,787,544584);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1748,61,787,379095);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1749,65,787,66114);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1750,65,741,408720);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1751,3,912,254591);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1752,3,649,320108);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1753,3,329,132610);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1754,6,329,64962);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1755,6,329,903985);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1756,64,651,101990);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1757,64,651,310756);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1758,64,239,32916);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1759,61,239,16963);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1760,61,629,241949);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1761,61,629,971318);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1762,23,629,193306);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1763,23,236,420199);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1764,12,650,26827);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1765,58,650,322412);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1766,28,650,294585);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1767,28,944,792761);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1768,28,900,415156);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1769,56,900,545338);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1770,56,900,465555);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1771,52,836,245324);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1772,52,836,584454);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1773,96,664,410915);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1774,96,664,759602);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1775,19,664,798492);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1776,19,735,894784);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1777,19,849,660098);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1778,40,849,74981);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1779,40,849,802067);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1780,40,658,510647);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1781,51,671,82329);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1782,56,770,786832);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1783,56,333,268337);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1784,56,333,185362);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1785,72,333,576063);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1786,93,395,879528);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1787,93,893,512210);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1788,93,893,774994);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1789,30,481,460676);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1790,30,481,460501);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1791,31,560,527933);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1792,31,560,906575);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1793,31,560,739386);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1794,71,609,540994);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1795,32,609,787106);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1796,32,298,235272);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1797,7,298,479370);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1798,7,545,44315);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1799,7,512,184193);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1800,3,763,902292);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1801,66,116,569619);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1802,66,116,349282);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1803,75,116,159979);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1804,75,729,903855);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1805,75,60,577610);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1806,59,60,895316);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1807,11,60,632467);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1808,11,239,798491);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1809,11,90,551168);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1810,81,591,364217);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1811,50,591,887420);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1812,50,591,962431);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1813,42,241,207899);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1814,53,895,972975);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1815,92,895,412433);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1816,76,895,607775);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1817,61,38,469164);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1818,61,38,353777);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1819,61,269,553099);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1820,57,269,265101);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1821,57,269,252274);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1822,83,624,463519);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1823,58,624,866230);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1824,58,229,118434);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1825,58,229,254257);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1826,22,229,168628);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1827,17,418,729897);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1828,87,567,909957);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1829,35,335,845430);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1830,35,335,914392);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1831,82,335,231);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1832,82,233,876993);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1833,95,18,931754);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1834,95,671,27667);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1835,80,671,975847);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1836,80,188,4344);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1837,80,305,808829);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1838,60,305,131285);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1839,60,305,23489);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1840,89,224,512162);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1841,89,224,957409);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1842,8,635,48708);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1843,8,959,859336);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1844,54,959,435831);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1845,84,959,460195);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1846,84,957,393568);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1847,50,957,892561);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1848,50,957,835493);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1849,37,157,436808);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1850,37,157,830630);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1851,37,157,33502);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1852,37,39,225177);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1853,17,390,739794);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1854,NULL,390,574416);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1855,NULL,456,739844);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1856,70,456,590086);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1857,NULL,456,273949);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1858,NULL,140,371391);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1859,NULL,140,702696);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1860,100,282,818218);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1861,41,282,196592);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1862,41,282,806559);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1863,41,176,78045);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1864,26,176,322621);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1865,36,193,183736);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1866,36,193,566006);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1867,98,233,337046);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1868,34,578,594911);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1869,34,578,146463);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1870,34,578,783393);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1871,NULL,915,541438);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1872,NULL,915,781953);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1873,37,915,566742);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1874,93,685,291762);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1875,93,685,876198);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1876,93,685,905564);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1877,19,86,277142);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1878,19,644,161777);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1879,19,489,336983);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1880,28,489,205151);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1881,37,489,312559);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1882,100,108,151696);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1883,100,108,157825);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1884,100,108,561378);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1885,31,994,359122);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1886,31,994,753031);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1887,31,457,842827);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1888,99,165,523957);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1889,99,165,28892);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1890,27,147,110587);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1891,27,147,487815);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1892,27,881,555895);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1893,87,881,780289);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1894,19,881,663377);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1895,8,383,984653);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1896,8,383,505910);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1897,8,383,893351);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1898,83,395,334191);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1899,32,395,706946);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1900,32,421,605266);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1901,26,232,700532);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1902,26,232,460303);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1903,37,232,481689);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1904,88,240,988749);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1905,88,240,39853);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1906,88,240,439706);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1907,51,756,109356);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1908,51,849,201581);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1909,94,355,465461);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1910,60,355,706853);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1911,60,355,874451);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1912,60,264,396253);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1913,59,264,456489);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1914,59,650,411620);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1915,20,316,21905);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1916,20,316,91385);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1917,20,280,730597);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1918,4,280,893070);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1919,4,697,339601);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1920,4,697,753421);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1921,48,697,704060);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1922,48,889,271141);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1923,48,889,516745);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1924,95,12,42118);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1925,83,255,909585);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1926,83,255,176056);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1927,35,355,25639);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1928,35,140,216250);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1929,21,140,25002);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1930,21,885,955843);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1931,21,885,382973);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1932,40,885,149729);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1933,40,319,536386);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1934,40,134,902779);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1935,63,134,27059);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1936,28,418,188118);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1937,28,418,371610);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1938,2,71,575429);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1939,42,71,121213);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1940,42,189,602853);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1941,42,189,163709);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1942,38,194,760536);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1943,38,761,363428);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1944,37,33,105870);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1945,37,33,886753);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1946,37,233,392964);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1947,72,233,970469);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1948,72,548,469231);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1949,66,548,963677);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1950,36,548,410986);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1951,67,829,838299);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1952,67,829,163709);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1953,67,465,739197);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1954,89,465,466259);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1955,89,122,396326);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1956,NULL,122,301708);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1957,52,364,385656);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1958,75,364,423861);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1959,75,473,538644);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1960,44,473,423104);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1961,44,473,806284);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1962,72,802,173489);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1963,72,802,349438);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1964,72,627,922391);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1965,9,330,846911);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1966,9,330,56834);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1967,88,492,628260);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1968,88,492,906486);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1969,63,492,286883);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1970,76,209,203753);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1971,15,209,751821);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1972,15,209,507453);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1973,91,758,558405);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1974,91,69,918470);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1975,91,69,786369);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1976,18,69,793253);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1977,19,50,795783);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1978,19,81,758203);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1979,19,567,534117);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1980,89,567,313611);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1981,89,175,579259);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1982,9,175,719265);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1983,65,284,886208);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1984,65,284,858938);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1985,9,960,784312);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1986,14,511,95673);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1987,14,511,515977);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1988,84,511,651209);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1989,84,201,418915);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1990,77,129,124625);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1991,29,129,964074);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1992,22,653,89332);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1993,22,653,477274);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1994,22,653,107933);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1995,92,911,666392);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1996,92,911,23569);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1997,19,671,784130);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1998,19,671,597708);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (1999,19,608,813920);
+ 
+ 
+INSERT INTO price (id,id_price_type,tour_id,sum) VALUES (2000,8,424,428402);

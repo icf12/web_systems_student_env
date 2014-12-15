@@ -1,0 +1,599 @@
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (1,26,'Rolla','Queen','4sdemlV2NLqBJKyRfknWbCmgKuhE0VTBr','VYNIP5LC','I',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (2,26,'Nicoline','Hoogbandt','kORLN2zWqUYr','35sww6ifXenyBI7dLLSLfEcDhDzfPMfvh4fJJVsfS3l','0uK6qaD8umezrvwAG8i',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (3,48,'Olivia','Love','o','WG1kDPeFELpJg4Ze6rd','NKsNmpw0fnkLLVR6cYInTHULwhS6FFEd8BPO',59);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (4,48,'Jordy','Paul','iy6fWWrPW','efRkolqj5Rbq1xo7tX3MbnbQHsyPFAJeGngCFA','aJkEowbmdHxgNND6KAbD3MU',91);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (5,48,'Lucy','Symms','2x01MsalBhH2TlUoWu83m2hVaES8onjFOzrAWH35Wx','fhZ2DxZVw7oileFHO6BgdHqhAPGtz7fG0jP1m4r2','o',41);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (6,63,'Lewis','Jiminez','evyPUMoWW7mjPQeQDW17gw63F2E5v12eSar5','nTlJ18qjfEsAuFOtuMxX0o1yFOZ','IoCAK7EReAKjNbSiKDiwkZUcaYunumWl2SnIZ0bhFT',87);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (7,53,'Jamie','Bernstein','b','3LJNLTih','Jc4erRoKRI2VChCrpTFZgQkR1o7mBlLaaa0kh8D',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (8,53,'Elin','Chwatal','hj6Lr6xg8FKVjd7e1Cewihuvxhqf','5yoYDCxIw20hCEX','x',48);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (9,53,'Babet','Gerschkow','bEYRD','MokOlv472pQGvCh0dUlrkiqTCNglNjX5cCQdHgABos','v',80);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (10,30,'Filip','Barbee','48BfxgIBLMSSnxaKeFQWTupgBRVVEa3ZyP1fwaFDKXcP','g4tORyeezf6x0ubTxAi3TTV','uQ6fwvVBtoxMY6Ue4yX5XCQI6E54jKyFghA',12);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (11,30,'John','Grote',NULL,'gS0UhC0LiRoDcGEsJirvctMRq381hn','eJu8h4crghUzxGtXnUFDj8UKEoMOXkc8n8t7',85);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (12,27,'Samuel','Roche','hNwOsdPcx8uZEO3hI5DbsD36b7hl28yLoadF','7rk4EfOTKf7Y4','zwiqT8u7iP7zdjcSWLuz5cka5zOWRnk5CZ82UJr',104);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (13,27,'Alex','van Dijk','cgPeF1FsM','rClA','WvkomvCpc6DFAgrgIUqVyWPmlFxNoACjmrEwTpw',88);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (14,27,'Femke','Long','7Suqmtg5KOu41ogdwDuNOST4YcPF1YhyDrxgyif','hogiHR0lusvqmMBjillKhgZ6vn4L','i',90);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (15,67,'Lewis','Stockton',NULL,'o3y','SsSWUKVTUXFxUg8sY3hkCRjRvxdvlF3r8TArUyAOjyzmY',7);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (16,28,'Carlos','Cappello',NULL,'0v8Bm3SWgsqf4jUe1CoIcW0W5V07','PlAv3PDopBESk2Dc8wSsV1U',25);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (17,28,'Bo','Visentini','Q6d45Dd','FLIMZyCgzyAU2uVzQnjGpgvVCps3jrdBD','8C614',53);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (18,32,'Elin','Ladaille','sTR','4OKOerezBM','Bb71jXLfvnVItGVttEXoG',64);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (19,90,'Luka','Polti','lTVp0oaOUoxIfDfx','53EW6','gVouulmN6Ykc70PgQCwjtiPgWpZRPPV84lWS',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (20,90,'Milan','Wilson','rPKGdVnNp82HDBbG05kbIecocaQtNM1','66Nh4kwygb2hrwwyZYaWgQUGXV3twSwtZz5ngOA6AxB','xQtXBZlrJClHcAhRJ1qkcBFQPsHOLX8EoCwP',16);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (21,5,'George','Geoppo','BATCovvJsNMlAJ2nuzFP0j8cSEJ6cWr1NPE','lxhkieBPiD5numCOIHSXON46Km6','to0H2Ic6WnyUdSS0i',27);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (22,2,'Isaac','Helfrich','YbMdA','8yIp5hk4R6uP','r',98);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (23,47,'Saskia','Trainor','1mXUo1t6Np0E6KQTx1UMDUUptcjbBYlM','BsRUOKg7MYGsHlnwSGVJRhpVvCoKdqlZk4','N4TI5',111);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (24,47,'Cristina','Bright',NULL,'Waox5xx72w4N1V13GaQitbKBDD3fxbFJMiy0MVjoQQ','HLtEjf2vN',114);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (25,63,'Johnny','Novratni',NULL,'I2ukRZPTIA0V','H',125);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (26,35,'Truus','Grote','V7ThYAM02uix','n7nmvUO6JpR8ZyoIhHdqcEDZwmjZdlcc4A72RZXXa','UhmSVooGt1JGR3MApmmzQ',117);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (27,35,'Karin','Glanswol','ITVgMUJVzb1etBNP6UQAyYJexVYYwt73N','3Uxj3yyC15KN3YHZu','NzmJEb7e55oKMhlxhWU2XIu7',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (28,35,'Ben','Naley','v8W5AUmV8P4hEwKvkEIr0kspicn','qm343U2XbwGxyZCCu2bA','gXQl7cqDsDGSCBvpR6NKqfy8XlwMTrsICpjIW',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (29,98,'Anthony','Nahay','oSeo3mMDFx7LLnfaf','g','APDWKZ3Nh06zbhIpg',101);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (30,19,'Paul','Visentini',NULL,'rliecxYYUMVXHfGNvb6eA2Vs1V','47GKwW3fEiRnHivEK2OGLLbzaz',113);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (31,62,'Eleanor','Lezniak','y2JMcYAhpXIu4lCKQBHeQ6ntSUIgIqCt4L8HHOpU','P63mdf1zMkPF','8cxutZAc4Z0upUFWvHduqI5evEDh4K12KUAgQZz6cmOH',16);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (32,62,'Sem','Poole',NULL,'CMdZVZG8XcN8','264KNeRMwVrSNpk4AXVjSlBThAceoy',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (33,62,'Gabrielle','Olson','QrP1OKe8AZSegAvSQQQJXECNZQIBP6E4','xtEqg66qxaYa3RqWDeeYvNyiV6oxMvOwv2n7VTrlxf77s','u6C3t04YdvOM',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (34,34,'Catherine','Morgan','LUQDH','4s6MDPW8eLiHiiDSSMAesy7zTNAlI7SigomHC','cIjPimN7ya7TnhoxVBU7NBJuTjOaRsCwMFDL',54);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (35,34,'Stanislaw','Hendrix','Tokko','qWgliVWlO5arBsLqm6OV0YJK7rasuVvDAFI','EGSMadzx6Hv6uoqKya4JPe6VOPKFsJ06snpeZUpk',99);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (36,34,'Emil','Ionescu','lDiELR2WC1pOLt4V8u5JjgZXN71Lb','32hqqiGapyTpf','KJIwgaL0cZCoWfM5BKqooIaUE1Co4t5HDVvvcdM',2);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (37,50,'Ivan','Clarke','7rfdIHdzKtHasNMzvsalGYO5owaSjAI5RmAndefYkGK0f','EpWZpBJb28tnM5Etugz1aprMuoPIpWO4KiIQP7yrrjT','ccHbspmoBY3sS3Uz',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (38,50,'Rachael','Dittrich','JEq','bbyfW2liMivW03PMsUPV0KLNyDq0suqGkwTC','QNOQbMlxqzamIw5vzLQL',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (39,50,'Filip','Knopp','APWlZmI1ZahQO5vopsqQ5SogT','QuIGzqJ','gQKuvGuvTDjzPVPXnSf',22);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (40,41,'Freja','Overton',NULL,'tJN4DSUBe01uFWXAoWF','cIngiNSq1t3jKUEPitOMJjdaYQ5a3hUV1w5XmV',14);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (41,41,'Joshua','Stevens','JgPHxZQtNdq5E4LPMu','uB6xepyTG6Nho2i5','gl1gQPkgemrc86gtyyIVgwf04gdK5kQXl8AUVGFuXT',124);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (42,41,'Camila','Caffray','fKQaVkMyPBPvkGolUGuIWqbZfN80LIdX','HLCk1K5h8','g',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (43,22,'Juana','Kingslan','mdImF7pmndlaFUEyHvyBshxPWh3qT8ofFoTjmAz8','Oi5RjyqnqPXM5WJrIV84VYbhPWa3KdDCHrzi5a63QxN','Hqsu',117);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (44,59,'Gert','Dittrich','oj4s5BPapeguS1dSoH4vMBlUucuyNk','VHawR4aUkcVXG076nMdPg','HSkD82NJJj7cLPjlQYlm2yLVMzPA3qTeIpgZOp',15);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (45,59,'Charlie','Zimmerman',NULL,'BcdZB8lgZS7qch7Grqd4nlf8','tVawmd3ALo4ACvYOVLSeFCAkrI2cM',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (46,59,'Shermie','Brown','Um7fbGXoPp','YGnkrk','jJdIj4mI5n1Jkkx5NfsNiEb5GH2o0JpVZ0Ayb86faqm4',104);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (47,80,'Jorge','Bright','oStRcBaRQo3ZF1','IBI','J',67);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (48,18,'Tara','King','CsMSZgmbFXd7rYKFnVkNISuvdYGpEdIyf','QPOfpxkcU75Kk2zuyskQLHuO0v0l2MKQX','MFtyRbbGml0QDXDgxQ',29);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (49,18,'Ike','Gildersleeve','txoEpCbOQ','7EBOBy6UoBWaz0GhZAjX5MbGIrcDy22pFmdA','ydbbaZsBxNLjY6C2kjb1jqz4Icn',118);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (50,18,'Ana','Frega','3OvdQoyft3ICFOE','khvcJDdwFEFrrGhx','mvsjVznkqdfeEAXaC0u2NUodnG6bMUmnes85c7i7YMB',92);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (51,100,'Victor','Chapman','6PZquY01UowXmgir8RB4leyIDOjxtsE1oe8otxuiW8xx','Rwv2xNKrRAIoaU8h','XmANSkRIzrmBM6F6dI6RjJG0q',2);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (52,88,'Joost','Cross','Jv8lSctnao5Ll3P','XQ5JbfQwr1ar5TuPQve5Ol8k8','J2B26QXWf2HmJzpCGFHI8c3Q4L4DG5p',43);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (53,88,'Alba','Lezniak','L0qf4CFlSJip5AWA','qg','iC',73);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (54,88,'Jeffery','White','OnH','07qvis2uSiZAtweqSamzBABWmziyZOHeLPhRtX','dreN1MezeWnQwComfd7KTUtCQVZm2GJSMKt7',112);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (55,40,'Francisco','Orcutt','6kT7wJfWbJOQi8iyl8RlUc4alPUIXgu','xNy6a5rLZZEf3V3K6E7','4LWC8tbsPFTBNsGYd6',52);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (56,40,'Phil','Brylle',NULL,'zd3HTZzi4HEADjS0zd04Anzn0BqH0cnjAJTdwZwl','q7X20Thj4tHdXWwtAUomXEmFkSQi',117);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (57,32,'Milan','Uitergeest','jufRzF4H1VE8vEVu','qWuUNnV5oDEiSJDLcJHWFvIInn6jheLKPJz','dwTzpGVDrZddwNzMLFZ2J',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (58,32,'Mick','Hopper','wHSIzDWuaXV4d5AHIQFMYAihFkvL','1lKJOcSMoNcsIaRC4ISi','GoijAOocEKH2X1nq0PxIacvpX80Uvej5kjJ8P3Tqnb',75);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (59,7,'Tomasz','Harness',NULL,'5q4AqmcB4GUMcU','2WvqmTbMD3ppAk3OVYurQNxr3K',81);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (60,7,'Javier','Ionescu','BbYmsc6N8NVZfYRrsAq','pwhz0ujx','cbIquu',22);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (61,41,'Teddy','Zapetis','pw5B0ZEcm2gL55jHbcKIROqkhdJGgnipQ','5vs2rzUJOD8eRRPQ0ySLoZDe2','c',81);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (62,41,'Jorge','Daley','ntsrABTUt3GlHBf10o0hH5ll3mZNPrJp1bzNnpian','wQkt4NYyTNVAYmioalu0l','ONpmmel3kZ2NxnfKmlkwzSyaHRbBfnIOq3DA3TDGSpZS',118);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (63,41,'Ben','Barbee','wL8Oz50Bmcgu3pT721SpAV','WGi8M4tWoGYtFnIgZ4iREf0ufd','VfAiSHb3LWIzsSkGxI',40);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (64,30,'Frederik','McCormick','ZXD','7thE33mjjJfiprQtyptFx5iXhuwO','3HeK',33);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (65,30,'Henry','Weinstein','5cWOjzemYEGyVeGtVAKeGxzSiiMDIwpTZkz2Q88uX3AJ','juyvRxZsN3IcwhKNMQTtvG','dISkReeLCHbrXXsU',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (66,61,'Julia','Shapiro','xs8ZXSYwyhZTEoH','IkVeoD6GBokhZnlY0zdGlQzalxKh3eLxwgey','3dvqOwGyxw2pWuim2qrpk8mKch1UQZqO1z',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (67,61,'Pip','Mitchell','OG5hSQdAHJm01qREGqEx7duHYpH','e4bXpqOupF274Mr6HTUMcNKzZYfRMJniBzoMOMPHsuEPg','r2BNN5imRiB2uhwLs7bqwWjWC1Gxog87',60);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (68,13,'Lu','Imhoff',NULL,'bXPQAhC1va','bIaU5olwT5aVF6',8);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (69,13,'Pip','Botsik','If6eBTdi','5I','6HYc',90);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (70,23,'Jan','Lejarette',NULL,'rzDLAtN7E1pFkElcYIijcL7Y','L0CtVan1q',108);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (71,21,'Petra','Simonent','QmKep8MWpmdb7OzALG','mqVybKJF6MsLqFNEG1M4OtyjC4BtV','nTnFmwmsDJb6Km',41);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (72,21,'Herman','Caffray','8wWY3vboxJ7CwFkDfxLf8g4hfm0HgPlTCJkxQmy37k55t','E4n8P8o4nLa7sGMDFMVN4PxvaTzXDxD0','5Rl34EOebBs',118);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (73,49,'Susan','LeGrand','MTdlliCMysh11Od3fAc8Woo6EVDmm','hHo','LcU2WiOReubiOXKMdiD148zlU',68);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (74,24,'Saskia','Gerschkow','Ll4k6bNAWVb0pgGW77nL0YftF','zYkI2bKWl3SrPtQ6AFKfhIShUN6vq2WPb','Pi',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (75,71,'Elizabeth','Voigt','fBtuF','ZvBr5dG8lTzCpxIE8P5k','iaryvFjCpYtdmLHu7XE7U6QTR7sMRx50TblNr',53);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (76,71,'Co','Ward ',NULL,'nWv','YjRDE4rYiJuDzCjLVWgGJLtnENNR4nX0JEseivEjKzt',51);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (77,71,'Joe','Kidd','GY5dZcycFrNGYAJpe','jynfJEj1svxCnb1b3SkbtKg6wXn','MQY0Ngb',58);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (78,5,'Lotte','DeBerg','TFA6Qz6nHAk','GTS6Q7','OEp',63);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (79,92,'Tomas','Kepler','k48XMVDMe40FzRai4W72F0cHOZXoHr6HyYm','4nlunYF3P6vdAQwGLd','Xc7M4PashWYAYJ0dLbK8XcMwRMVRY5WRKO1R',58);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (80,92,'Babet','Cain','K7oqkRfrN3kmqBdpVM30ITV63TNAC5CUkFSZ6FuzeOhu2','eh6hRoTzgqQ48','SyPfHlmXoSNZzzshT4uosUummVf6P31RelKnJx',127);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (81,72,'Willy','Reames','hamw8tHuNcRs1MxKXmaDgXRLtxLA','TstvZMMKSqe3D4','kWYXFq',1);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (82,21,'Lucas','Gildersleeve','ivZ23mucTTXU8rB4uFRxXFgi7g83Q3dot','cS5UV0Lqt31Us6nsWVUr5pBw','zT1cYh3ziQEQHQjetpW4QzUi5i',109);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (83,21,'Andy','Nithman','puHuNEBMDlvZX','rYAJ','uiQ3mAF6VsIPTnwRmyUM',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (84,21,'Charles','Stevenson','TXyV','GB7Zv2antAkOtd5jx','blmt6ch',85);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (85,11,'Joop','Trainor','WetMTsKa7YSQo0zRdvRi3FNbJf','zesQk674HtfJIYQlv','3ksL1KKsyNw7l5fXaX5TFtXb',33);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (86,11,'Robert','Thaler','fWhfOU','qnifnkapypvHQe4axqSutJWTo2NEW8','F',50);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (87,11,'Jack','Pekagnan','lGM','8jDn','NURkgPNcqB2RPYgf8swLehsTTLPF6BaeuI',45);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (88,1,'Babet','Prior','koujzMwgK','cEat7VJjdJMSKfSiKlB2D0JW7NHgzC3hStWE','PoF5kd',68);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (89,1,'Leonie','Phillips','f','2z0b1PU8vS3skU6jfKdaTIBnBHt8icj00BCoNVexM0Bs','ZCHragDmMV2pErN4wKHz',93);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (90,1,'Jo','Guethlein','y4fFDH02PM','V60uwRgnzLHnAY7uz6cHk4UrAklE','KP6TpgyIhwdVjGZKgAuJYaz',117);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (91,96,'Sjef','Wesolowski',NULL,'O','bJRXX7HJyXmiUzFPszRo8T8nwDFM',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (92,75,'Sid','Swaine',NULL,'7DbqILfdwvlKtVy1YJ','kr4usK14TuEaWY1',47);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (93,81,'Jody','Imhoff','NwyJTU48bX4xUZZxey4LYkHmG0k','zoluqQNjkFfYJ3cxkIoLKYqqUovyt2xwfxOu3P','845MVKT8J53aZgY',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (94,81,'Christopher','Gaskins','Su','daY','PdT0WOSDXgnIMXzuoRBFOiThCPHxlKxz',58);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (95,81,'Viktor','Watson','sEApixhAcQTvFa3rLRaYaMcXrgOgAfyIgKT','LQ1NjgKk0ahgyJmXvwQesIwv14E8rifwR','HXWMbWORSwTGzFUA64RxfwmqplA8re',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (96,2,'Julia','Orcutt','YCHB7U','glnIFm1KDC7Ha0Po4F4oRfd4ZTYiTCW','yBotOdINXSk5xpv0kPWctUPp7',93);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (97,20,'Harold','Durso','ivKtINBf2wOkNtwfRB','ysBKKhlqsvKLhrsf3njBGcBeUHR5x','AopHz85eu8FfigxcuSycGwMohGcDyY0kVldpLEJZ6l',9);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (98,20,'Ryan','Willis','uf8A5DSCMT3LyiO31XImNIucAoGjw','ZQDPxqjM0fucpdnDB8ZT','1GLcfZQFvBQliPUurr2PZRB2bDTPFXL0AmEL',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (99,20,'Bess','Ijukop','fm','wlaH4N8MtxgZCySc0C3wzOjPs','y0yozelP0Z',49);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (100,82,'Jaclyn','Jones','8CWhTeV','bJGx7LpTQsS4wGgkBJmG33amVQ67xkncXFoUnpaV','Jg4shaGz6',92);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (101,82,'Piet','Symms','uESLrH8JyWjLB61USHJxSUNUPUc','aehH78mna1uTGcSA1','Mlw08qtyD26w2rLHTmPM0vp6OFv',93);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (102,75,'Lena','Miller','HDmd7kemghxUd1vjO8DxWQbCmdQ0BIRehFAYLLGAoVC','Gy8TvzC4vektrGiowdguQAoWzsKZ40i5uST2s34ro8fyX','60x5JrLYhkppYVwNuSTJqdHcNJGaQlB8',86);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (103,75,'Patty','Wilson','nqHhuvHhwuPSZxbzsKCVkKEMDpkF75UtnpXQYMsxLuE5','lvjLPFyMqaW11adIh2JcPWBa2z0phV8xoU','yu3kIKVUQN0',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (104,75,'Thelma','Browne','DbfgkwKkY6SUjpjU','2S4pXMovKX0UNIJhgpTPykZgLuZxmCS','ucTBva34gzV3ZBEwh3hpoz638TsaZuy7',43);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (105,13,'Siska','Van Toorenbeek',NULL,'pewVmxPcpKqDUQxbhiNEZiHy7z','acC5wsI5rSHiWybge1I2Gex8VCIhjR',82);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (106,45,'Liam','Ahlgren',NULL,'YxTB','koClh3r4z',106);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (107,45,'Sammy','Morgan','20YszjeYy25JJb4kinqQWhpfp2BsAjLjYDTCCEhijdVL6','rrm5xBbvdZpSLFVwljA1OTuwqeVgpe','oO46UyisP',43);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (108,3,'Philippa','Nelson','NmaeNo8FGzBoKQmpuWm55pSCS3L','Ea3kH4rJw4G38kNLcX','Ej5lrkd2XeJCPOmWXsL4OHH5kgYDQs0',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (109,60,'Megan','Jiminez','w4aQoUuv','IoAPlU','Kfpy2bxTDe0OeYXW7iPW8OiR5f1p5ROLBTZKYOsB4Hn',14);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (110,85,'Oliver','van Goes','ghLmVTPBqySNDxlfKX5','VHQyfudDKwHtcsj','cWCfzwKA4oVSulGCnCVF',27);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (111,78,'Nicoline','Hoyt','NxJjmRtLoIOlSOF0WwasJsjpkxf7QoDUa','2SWkBbUdBYmYaXGojNeNYy','pBo3vRRkKrNiIbA',43);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (112,78,'Talitha','Ijukop','gwsyeF4JdlriGkgnjR','xK3lwka28anDukh2O5dtZiyPEXA','aRc4',89);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (113,78,'Mathias','Petrzelka','xJeK','7tx5yOLKn7itep2v6uaZOmf3GYQHZuRPhh7EUxTqr','okY6Ge1a8gk1XwStea',70);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (114,70,'Sofia','Foreman','RvJA','rssevYfKNozkLsmO','JdHYGDdAb8AWeS07cOPGKS7rmxfAFkQJlUe5u8Q',30);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (115,4,'Ricky','Zapetis','dVGt2vi1vfY','mDEjnBzOR','mG80Hcs1FY0Crm2nLvCEwCn6WnVguMPwX6QChAL',16);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (116,100,'Philip','Ahlgren','PPrVL178','blLLMEET8rArFjtO6nKHp6aEqlTt8j2S8GrQ','5yrgcqzEzzRR3pT8H3RnimfaOudJmHF0XdhLeZB',17);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (117,100,'Netty','Gonzalez','WSE','l1cjGnij1LIDEK6','zY03mzlOkeoMZF',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (118,100,'Oliver','Uitergeest','aBTWaZDgDcrGwJeaIyhq4Uupvf','17c04863SPWJt4g','1sv4xamI',123);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (119,87,'Peggy','Moore',NULL,'uiOynPXD8fyeegtGMupw','XTZ13nx',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (120,87,'Jorge','Koch','UP3iRxh0j5oZENajwStD5q7r','o2PpPIjFuLb6x4cbAZ','LEQfitSBuy43P6fibLT',117);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (121,87,'Oscar','Brown','6bUG367v7jiUFw6jQ1p8tcyfiMtHg8lp04lF7f42cOMb','RWggGWJ7','AweZckyxd3jEYxslWeDzSKxeCEd',39);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (122,45,'Sarah','Kellock','Tl83Ral2E2ashcZMIrYEIDuPtihEUBuRn','e','5oy66wt0Y',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (123,3,'Katie','Helbush','JVrtjdQvU4pD35SkrjZgOnnmMCUhtnva8f1','YXYJxvLTR50sqVW7Ym6hjuYS0UacX70wY0Cj3EdmKhMC','uu6OvwugRBduLwXdk7USE7sApdLhYDSjCjRy',40);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (124,45,'Michel','Hankins',NULL,'AGFkY4zJElCq','T',107);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (125,45,'Trevor','Dulisse',NULL,'Rgvq','886wzY1yN70atGgAnHihutjbUh',5);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (126,45,'Ainhoa','Simonent','HZppeYTOsUO2UQlYvChXg2msTtUnjwKtR8CdtkN','vB1Eu7UXCdqrkJjn7aSJm8h73XNVdqD37uiB','ouZSnch130PZ',122);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (127,56,'Tim','Heyn',NULL,'xHyv0JQYEQ8fxNVveOaN8lKAFvoED6owke8Zt7lTLCf','Qtu4rhfomBafaRfJPcxrW58JMQBcE5M11CVGHcEeD',90);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (128,24,'Viktor','Wesolowski','2','b','LdBmpHRwIcROENmvoD6aaERxRmO0pQCryQMrhqgUrv',122);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (129,12,'Lisa','Polti','YY','8kLZkZPhPYRwyVw7j3MLFzwXnEgTLIdugkmUZj','5Wku0g',79);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (130,34,'Trevor','Muench','JfzvH','fltCSR5sPqaqR3hrjPxiOR7k2B7OLIK','8wvBqEJOTRsdXKwVjW3MhvZqr57UnbFxJNN0',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (131,34,'Isabelle','LeGrand','DKhgEG7pMzofwaKVNfacfwmOhiYYQ7dR','3p5LJO','bAcu3xoY57wikMvdTtnvViv1VA',61);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (132,7,'Marieke','Bertelson','NOMfZR2oi0HUCWnXuIFF8NYlkwldolPH6nrNXXQvrz','qUOQmkoFZWtblpviqc','KToQoyfhEq3CbSZtKTAhMU1a',64);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (133,7,'Dave','van Dijk','Wd0aCAu01KqyjivpN0qHJiKpaYIO5xkzLP2K','2x8hGhvhNe3Wo','VjwrFqxJMAnTMLkjxonDhHUTlY48IIm',118);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (134,7,'Alva','Hamilton',NULL,'N','JbXtNrhjyEXlpnfTfrswGjzPecHUYjN',40);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (135,64,'Andrew','Jiminez',NULL,'BuJDVEiJD8W5znHdB','Y5yhj6zE7MUnIRYK1hgYeKCOt5PWM5SVu',82);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (136,64,'Thomas','Ijukop','fGAxSEpl4wi8GVDHNd2s5kI00qx1XrvnX0A03cj','QcXUD2PNCXwe2qhHplq','RQnpQorrYp8TIzJQI1RAPEeF',52);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (137,64,'Peg','Praeger','vRTCyoLZKTU','JmdUEl4a6pIG','uJvcRFvg',97);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (138,26,'Elizabeth','Scheffold','l6Ptm80G0HfEIyQdtrhSQYzW4SuQwXFipHnry','x01ucsP','InC0MG7qqBYBl6ua74xEE0xAaGd33y6WYItPvi',68);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (139,26,'Mike','Dulisse','55CYCwL8w5vV0GNip1oMT5','AUBxdsYoaTdf7N','XNLrZ2wYKjlrR8nQUoR1CLRALXQnn1DM',52);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (140,26,'Ted','Thompson','UM8aU2ieBzfvBHqTivFOp2oHvZxyPDmJQ','My8bekqEIxP2sR','L',39);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (141,88,'Cameron','Franklin','Gtz1E38ARHLx','oq','f4zmLvhFWwz',95);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (142,96,'Jaap','Bruno','XvrGbk6BkVaYIYq6WQm','eRgxDvkJ','oQ0zzUinDcf',96);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (143,96,'Callum','DeWilde','g4mmOl1aVjOupd','YJ83MkgcwG2gsZxVrhyeubzpl6lg4vp6CuHuV8t8wiKsg','PtXUC',35);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (144,20,'Sandra','Phillips','DSf7P7vdCc43ejlI80caOwQZ','qYeqbutTXpCNXwxreqgl','dstNHlLwjg8ZpaSkI3xMCb',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (145,59,'Gillian','Shapiro','KORsbULU3YIp3HgpoLTIrQuVlIYvDgQEhAow','lwESQ2s4PIkGmflmMGyCUGFPLV34fb1ht7aXR7j','qy5JZHm3cQHLtZUF8SPwlkkdjGExszhLTAsbVs',46);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (146,59,'Olivia','Antonucci','Zjt0RqSeF4shuqziS70r4pLtJsuIBEElPcaJ','ECHpU44OX0YkPJCbi1lIuNhsLbkoJGrhVWMHxfKvT','HjvkkfhDNTIgoPd',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (147,50,'Nate','Press','iKDiKpeeDoWaoqWyOASJi01D5ovgZWvq4fc','thhMvVvylpI2WwBlI','tZMIeTZMnK8zYn3nKNC8HDC2vVSBCTS',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (148,50,'Ida','Stockton','b2YZd5m7NiM','KCXUx5olufyYtTdAwI3n5IDm5qHVfTRvEhwvqFEx','1gkRYjUZ37h6ojejTUw',63);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (149,94,'Dorothy','Trainor',NULL,'e5RMQKL77CBx1PygmNoFjjtI2uw8','6mTRREIK6AwKY64BNj37lPaTmX3wxAQqiunoEgulisYtq',72);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (150,94,'Julie','Trainor','7XEQ6zxk4sxRjCfMmShwF5agFUM5gZifY5joyS1WULj','CkSRIpYLKEIYfvsojKqJxrw4NfN267UhYN','uvBPTM7FmXMxAyNnT50vhTl3JPwxmvzMGW0GU3wiPRjXs',20);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (151,89,'Maria','Trainor','4lsP356edWUhurE3sW7zX7tpD','dg2idrb4y5HBXk0KsrkKzSm','TPdx2iRTWiJGM6',20);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (152,89,'Jan','Nelson','sZtk0RHSuYC8c5AK6unW2fdexzJd5ZD5ZnP','x8Kyxc6tT','5TtIxU8cnAftcAxplErAtskhQ7eC',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (153,25,'Martin','Slater',NULL,'fsPrE8','OtFyf4QY',13);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (154,25,'Daniela','Ahlgren',NULL,'F','0xOcsyI2icBkjJborrtKDDVgHwQg',37);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (155,91,'Ada','Royal','zYN','eTwtPhFc5DFX5YcM','4QF3ekahnEv2Pu5wGPuVIAdrz',104);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (156,91,'Edwin','Freeman','vLDBMUBv7QfaUKnukdsxUuZSV','nJvB2IrLRz4ye1iFaHs75ly1','RkPl8oUNR02MuKFvYVflDdwa',13);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (157,91,'Betty','Wilson',NULL,'MfelCajFUMOqn0EROGY3YAycWWe2bD1NSMgK','74RALONX52O6FdYCDddHCDE1gjKp3u',40);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (158,92,'Jo','Zimmerman',NULL,'DrhHkZPgZ30WenkW','aqV',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (159,92,'Leah','Ionescu','JUJciu7sowoGqI5b','KiGelOawQpjL27Hl3zMhg0zIdMtJFywNAx6st6','TJWnzP0',32);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (160,92,'Luka','Griffith','xHEjn12hGHzTJxK8A3SND','SlHjL','H3YKttSFdHgbqpTcAv4XWSnDi',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (161,92,'Femke','Wolpert','Q','JNadmz6elytO3aYEWUriY2ITaUETsqr5djo','Hl2NExmeRW7n5M75wgzy',28);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (162,72,'Gillian','Ionescu','5WjpROwmIqaVA1hgmsrxYZaegpAhqs','ekW3bVlasRidDqUvOZvuL1dXwABZe04WGih','b3czPhrbrhIyUbevCz85LfqeLqtfG7LjLWpKr6',61);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (163,72,'Klara','Brown','XbCInxoV0W7TXUgaJ3D3fcMZrZ4fKHyNnxrMNNx','iXzuclde1PD261aee0AlMuJ0yW','MR72ZgGtZ',3);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (164,29,'Ester','Waddell','hGTmYSOvv3XTeTESukVq7XDlCfct8H6ZZS147n','wHXse5M','KKAAdtXCA0kChVlrplq7X5JaN1f8Q8bLyIuPWznHm5bY',70);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (165,29,'Aoife','Reames',NULL,'myv','eGh2Dzc4GHailSqTY4TtOrM8YaKWXdnIyaVcsTa7ZAM',3);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (166,29,'Florian','Morton','ET','F','R',102);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (167,12,'Caroline','Williamson','zTDMK1563ksE7nOf67HtvziwEPwUqIc','BulXpPgTqI','B',121);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (168,47,'Gerrit','Lee','muzMUsoXxRYxGZ10D4ikexAuCElstnnjkzDwb','k7Ok1mWvEQ1QQRzthtl','fHnj',118);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (169,47,'Margo','Slocum','xCe1QYPiN7THbQs8G','hMlz5RXlLfDTWcdg0P6tQzmJ1VntUnm','Zwa4Bhr2pPokXsxbtGva1r3GB25zZwQEXHO',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (170,94,'Edward','Watson','EiXZAm3agz6A6a7t','qhNtQflbuKSyDqMUEdDcyTOcmQmhUvcIXSUdq','1B5GSZ68zrF6aYJMVXGDpTpWKReIIheHCzSFEtpb7WXr',58);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (171,94,'Daan','Bright','IPKWUqiHp27u773AAg2tqWq6BG0i6xVt62iV','hEwfDSfNxP','FDVXvBUIUup5a6KWtMJx1CPys28Y',19);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (172,94,'Olivia','Climent','lupUS7PVx0QkLebb2BfOkkN6xElGyaD','CanwjZbcfv5BtgLrmqeqzLXfUrMrN8ZcK8aiYofT','QY1nJltiLf0nvm',31);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (173,19,'Kayleigh','Pekagnan',NULL,'21DGehfau0OY','BvIjiBLjs0rKXAgP62D2souvbCaaCX2Y1',44);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (174,19,'Cecilie','Langham    ',NULL,'BkFXWptTR70UmVSBiZb70KPdgS','VXxx3bj6RQihw',58);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (175,19,'Sandra','Stockton',NULL,'sd','onsW7eUMRLn6ZT2cFL4CuHRacqSQT5',97);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (176,93,'Ed','Harness','OimK6iNQVm3ZJZhmttrG1h2eqA4BfhnJP','VRSjHw7JREsJntS4WR4dsDSLHLbLLOnQmPBi','aMJLdFduKTqVxoII1kyptIJXQEUA',47);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (177,15,'Ricardo','LeGrand','7u4A7GT2nddz6Bq4qQov3CWeuvN74CXIPEGMqGW3uaHyy','hTE','dta3E72khwmtBFAQnRmANIpnaSE',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (178,15,'Marco','Wood',NULL,'ppNqK8L2UmjOEEcPd2m','T3YIR0zF',108);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (179,15,'Mick','Tudisco','yBhgWjIEReda6hxiFJaInHuq3','0mMZ','6DDqfa1BJrn10jGp5z6TUzuum',67);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (180,37,'Betty','Jones','FcB5hWY08DJI3MdBpQ8kwYgJcdH7q6z2','Ev1cyE0vXkkkFi3cyrCU22DXR0EpVVjU8l4bduMs','HqOZKyHI8bpAtarCveN5XzvOyWTIUpIvkSFG35v6w4Q',58);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (181,37,'Mike','Olson','Br','TfFnohasRxYz28jZBXfrsJs1xuIQ','2HBnMah',76);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (182,53,'Javier','Jones',NULL,'J5MpSYYp','WTZHTWezzzcqVfT8fsjtWH',34);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (183,65,'Leo','Naley','aC','ZIeRSyOtk28xArwjZ','nTonOASCAhpPNoIdGtmmzi',120);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (184,49,'Sanne','Herrin','jPOSJ27KUE2ZFQhBXr','Tj2ccUBO3fBrGThIxTT','s3Wni3cS6IK',16);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (185,50,'Jody','Goodman','fwGXSARU2QL8TDrwe2CIxAzu5ANgU','Snn3MOydYVN1PsjPqc1jFBLsCOGKnjfIR3Tn','r73pLfN',3);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (186,50,'Mario','Barbee','opmY8D0GbRVVxF5V','7','DHAgbOFwWRMc1ioTSglXcpp',8);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (187,75,'Sean','Orcutt','xjTD1y84rI58JYvINSWw72Ko6QlWaxa6OISCnUk','DE6zKKEb0SYyh2brLcN','JbP1FAuzWK0iwQqij',27);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (188,75,'Kaylee','Gunter','sAhaZxxa','g','36Io4558VfYL8DeXT5z4pYkhKgz6',110);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (189,79,'Liam','Seibel','5V8qCtnZpymGvdfx5KMEh','f25czTTxkE2YeCplq5aSPdw8X4q0uCZCF1d','KaSBDOmoVS4GGMtcR8BM5KGTuWK4pZ2XNyWLBBrs',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (190,79,'Cristina','Cantere',NULL,'rlvNWa6zgaDfwvwvn3lUlC5mNfFWnKeY','JGtBLl4GSHenU',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (191,83,'Martin','Turk','U8ECf4rD3FElEfTpgYcL8ImBHUbebz2oB','Omh2','YNA55f7tnA3HKfSTV5FRgOotrVfBim2S7FK',19);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (192,83,'Siem','Hummel','NOYYyFJgtp0','TzM3MqCVHJ0xd7o2uYOlif6Ah5G','W3smr412RVD54I',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (193,83,'Eleanor','Novratni','kn4z3CzF7kaxAo6stm7FyzF8D3iwTwtAE','X','zhwLkGU23VAOqgmzvilqYkOMUo4sJOKaIaa2LKSNE',37);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (194,77,'Mario','Overton','MhvMARM2Jqwj5mLRgck','HY','C6Jv3DpwBTFhmk2GYLvOPUT3BxNSDKZ5JqKlab',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (195,89,'Javier','Queen','HxpG4fvieR0tRUybVjnvanDj725ND','3E7LE3O86QD1RD0aQN0IKzzrpy5s8J3SFQkTwsSz1','CoQGL',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (196,3,'Stephen','Morgan','6aGTkJglVWNJDTRLG','K','mJoaOmgGeknJjQ7Uzrgxwts40eCy6dwSN2Vw51L6m1',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (197,3,'Trevor','Bloom','hBNzzT2wmC3odcenrKrv0O7pXzETvLoQV2APIj6owrk','k','qRaoEOdz1BWiLcJn7',53);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (198,3,'Bert','Vanderoever','YyNsg1o1aC','qAz2csTIqyNVsBXQnkqBlOX54CVU1OpjF4VPRzQG8','vfFlsZoNTBD2aNM',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (199,45,'Marcin','Igolavski','jbeJO86wY3bk','2oounH8Mt','ltdbmhmjO',NULL);
+ 
+ 
+INSERT INTO user (id,shopping_id,firstname,surname,patronymic,login,password,is_admin) VALUES (200,45,'Rachel','Cappello','FtqlZm3zfXOMtMln0RV','QOhrKL0IFuqHMRTFGb','XPv56ckmSal',NULL);
+ 
