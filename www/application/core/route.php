@@ -35,16 +35,17 @@ class Router {
       new Exception("Request method should be GET or POST"); 
     }
 
-    // Выполнение роутинга
-    // Используем роуты $routes['GET'] или $routes['POST']  в зависимости от метода HTTP.
-    $active_routes = $this->routes[$method];
+    
 
-    // Для всех роутов 
     foreach ($active_routes as $pattern => $callback) {
+       if($uri == "/"){
+            $obj = HomeController;
+            call_user_func_array(array($obj, 'Index'), array());
+            break;
+       }
       if (preg_match_all("/$pattern/", $uri, $matches) !== 0){
-        // вызываем callback
-        $callback();
-        // выходим из цикла
+        $obj = new $callback[Controller];
+        call_user_func_array(array($obj, $callback[Method]), array());
         break;
       }
       $matches = array();

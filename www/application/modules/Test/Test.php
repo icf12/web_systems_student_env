@@ -3,30 +3,13 @@
 $r = Router::Instance();
 
 
-$r->get("\/wake_up", 'rise');
-$r->get("\/sleep", 'fall');
-$r->get("\/", 'win');
-$r->post("\/", 'test');
+$r->get("\/test", array(
+    'Controller' => "TestController",
+    'Method' => "Index"
+));
+$r->get("\/data", array(
+   'Controller' => "DataController",
+    "Method" => "Index"
+));
 
 
-function win(){
-	print "Hello World!";
-}
-
-function rise(){
-	print "It's a life!!";
-}
-
-function fd(){
-    print "It's a sss!!";
-}
-
-function fall(){
-	print "GoodBye World!";
-}
-
-function test(){
-    var_dump($_POST);
-    var_dump($_GET);
-    print "GoodBye World!";
-}
