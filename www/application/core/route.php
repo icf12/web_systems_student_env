@@ -24,31 +24,32 @@ class Router {
   }
 
   private function set($type, $pattern, $callback) {
-    if (!function_exists($callback)) { 
+    if (!method_exists($callback['Controller'], $callback['Method'])) {
       new Exception("Method $callback not exists"); 
     }
     $this->routes[$type][$pattern] = $callback;
   }
 
   public function process($method, $uri) {
-    if (in_array($method, array('GET', 'POST'))) {
-      new Exception("Request method should be GET or POST"); 
-    }
-
-    
-
-    foreach ($active_routes as $pattern => $callback) {
-       if($uri == "/"){
-            $obj = HomeController;
-            call_user_func_array(array($obj, 'Index'), array());
-            break;
-       }
-      if (preg_match_all("/$pattern/", $uri, $matches) !== 0){
-        $obj = new $callback[Controller];
-        call_user_func_array(array($obj, $callback[Method]), array());
-        break;
+      if (in_array($method, array('GET', 'POST'))) {
+        new Exception("Request method should be GET or POST");
       }
-      $matches = array();
-    }
+      $active_routes = $this->routes[$method];
+
+      foreach ($active_routes as $pattern => $callback) {
+      if (preg_match_all("/$pattern/", $uri, $matches) !== 0) {
+// вызываем callback
+                $posable_attribute = array();
+                foreach(array_slice($matches,1) as $value){
+                    $posable_attribute[] = array_pop($value);
+                }
+                $e = new $callback['Controller']();
+                return call_user_func_array(array($e, $callback['Method']), $posable_attribute);
+// выходим из цикла
+                break;
+            }
+            $matches = array();
+        }
+        return "";
   }
 }

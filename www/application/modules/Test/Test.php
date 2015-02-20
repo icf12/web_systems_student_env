@@ -11,5 +11,8 @@ $r->get("\/data", array(
    'Controller' => "DataController",
     "Method" => "Index"
 ));
-
+$r->post("\/data", array(
+    'Controller' => "TestController",
+    "Method" => "IndexPOST"
+));
 
