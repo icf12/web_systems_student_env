@@ -10,8 +10,11 @@ print "Hello World!";
 testFunction();
 
 function testFunction(){
-    $t1 = new TextField('Введите логин','login');
-    echo $t1->render();
+    $a1 = new Authorization();
+    $a1->header("Авторизация");
+    $a1->method("POST");
+    $a1->action("/login");
+    $a1->process();
 }
 
 
