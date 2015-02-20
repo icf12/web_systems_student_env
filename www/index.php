@@ -1,10 +1,8 @@
 <?php
 
-include_once "application/core/route.php";
-include_once "application/modules/Test/Test.php";
-include_once "application/modules/Test/TestController.php";
-include_once "application/modules/Test/data.php";
-include_once "application/modules/Test/home.php";
+include_once "include.php";
+$includer = new AutoInclude();
+$includer->autoinclude();
 
 print "Hello World!";
 
