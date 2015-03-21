@@ -4,7 +4,11 @@ Class Authorization extends AbstractForm{
 
     protected function create(){//построение формы
         $loginIndex = 'login';
-        $this->fields[$loginIndex] = new TextField("Ваш логин", $loginIndex);
+        $this->fields[$loginIndex] = new TextField("Ваш логин", $loginIndex, true);
+        $passwordIndex = 'password';
+        $this->fields[$passwordIndex] = new PasswordField("Ваш пароль", $passwordIndex, true);
+        $submitdIndex = 'auth';
+        $this->fields[$submitdIndex] = new SubmitField("", $submitIndex);
     }
 
     protected function customValidation(){//проверка конкретной формы
@@ -15,18 +19,7 @@ Class Authorization extends AbstractForm{
 
     }
 
-    protected function render(){//нарисовать форму
-    //временная реализация
-
-        $header = $this->header();
-        $method = $this->method();
-        $action = $this->action();
-        $form = "<h1>$header</h1><form method='$method' action='$action'>";
-        foreach ($this->fields as $field) {
-            $form .= $field->render();
-        }
-        echo $form . "</form>";
-    }
+    
 
 
 }

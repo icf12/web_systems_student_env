@@ -40,11 +40,11 @@ abstract Class AbstractForm{
     abstract protected function create();//построение формы
 
     protected function validation(){//общая проверка формы
-        foreach($this->fields as $field){//пробегаем по всем полям формы
-            $field->validate();//проверяем их
-            array_merge($this->errors, $field->getErrors());//и накапливаем ошибки
-        }
-        array_merge($this->errors, $this->customValidation());
+        foreach($this->fields as $value){//пробегаем по всем полям формы
+            $value->validate();//проверяем их
+            $this->errors = array_merge($this->errors, $value->getErrors());//и накапливаем ошибки
+           }
+        $this->errors = array_merge($this->errors, $this->customValidation());
     }
 
     abstract protected function customValidation();//проверка конкретной фррмы
@@ -53,7 +53,18 @@ abstract Class AbstractForm{
         return $this->errors;
     }
 
-    abstract protected function render();//нарисовать форму
+    protected function render(){//нарисовать форму
+    //временная реализация
+
+        $header = $this->header();
+        $method = $this->method();
+        $action = $this->action();
+        $form = "<h1>$header</h1><form method='$method' action='$action'>";
+        foreach ($this->fields as $field) {
+            $form .= $field->render();
+        }
+        echo $form . "</form>";
+    }
 
     public function process(){//выполнение формы
         $this->getFormValues();

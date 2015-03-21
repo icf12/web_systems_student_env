@@ -4,8 +4,6 @@ include_once "include.php";
 $includer = new AutoInclude();
 $includer->autoinclude();
 
-print "Hello World!";
-
 
 testFunction();
 

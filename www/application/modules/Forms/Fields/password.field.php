@@ -1,9 +1,15 @@
 <?php
 
-Class TextField extends AbstractField{
+Class PasswordField extends AbstractField{
 
     protected function customValidation(){//временная реализация
-        return Array();
+        $str = $this->value();
+        if(strlen($str) < 6)
+        {
+           $errors = new Errors();
+           return array($errors->incorrectLengthError());
+        }
+        return array();
     }
 
     public function render(){//временная реализация
@@ -11,7 +17,7 @@ Class TextField extends AbstractField{
         $label = $this->label();
         $name = $this->name();
         $value = $this->value();
-        $field = "<br>$label<br><input type='text' name='$name' value='$value'>";
+        $field = "<br>$label<br><input type='password' name='$name' value='$value'/>";
         $a=$this->getErrors();
         $b;
         foreach($a as $value){
