@@ -5,7 +5,7 @@ Class Errors{
         return "Не заполнено обязательное поле";
     }
     public function incorrectFillError(){
-        return "Некорректное заполенеие поля";
+        return "Некорректное заполенение поля";
     }
     public function incorrectLengthError(){
         return "Некорректное длина поля";
