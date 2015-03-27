@@ -9,6 +9,9 @@ Class Authorization extends AbstractForm{
         $this->fields[$passwordIndex] = new PasswordField("Ваш пароль", $passwordIndex, true);
         $submitdIndex = 'auth';
         $this->fields[$submitdIndex] = new SubmitField("", $submitIndex);
+        $this->header("Авторизация");
+        $this->method("POST");
+        $this->action("/login");
     }
 
     protected function customValidation(){//проверка конкретной формы
