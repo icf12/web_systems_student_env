@@ -3,7 +3,15 @@
 Class UserInterface extends AbstractForm{
 
     protected function create(){//построение формы
-        $this->header("Личный");
+        $dateIndex = 'date';
+        $this->fields[$dateIndex] = new DateField("Дата экскурсии", $dateIndex);
+        $typeIndex = 'type';
+        $this->fields[$typeIndex] = new TypeField("Тип", $typeIndex);
+        $buyIndex = 'buy';
+        $this->fields[$buydIndex] = new BuyField("", $buyIndex);
+        $giftsIndex = 'gifts';
+        $this->fields[$giftsIndex] = new GiftsField("", $giftsIndex);
+        $this->header("Личный кабинет");
         $this->method("POST");
         $this->action("/inter");
     }
