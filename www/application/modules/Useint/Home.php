@@ -1,5 +1,5 @@
 <?php
-class userController{
+class useriController{
     public function Index(){
         echo "Home page CONTROLLER";
     }

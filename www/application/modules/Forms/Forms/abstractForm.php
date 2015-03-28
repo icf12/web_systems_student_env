@@ -63,22 +63,20 @@ abstract Class AbstractForm{
         foreach ($this->fields as $field) {
             $form .= $field->render();
         }
-        echo $form . "</form>";
+        return $form . "</form>";
     }
 
     public function process(){//выполнение формы
         $this->getFormValues();
         if($this->firstOpen){//если открываешь в первый раз, то просто вывестина экран
-            $this->render();
-            return;
+            return $this->render();
         }
         $this->validation();//иначе продолжить выполнение process
         if(count($this->getErrors())==0){
             $this->submit();
             return;
         }
-        $this->render();
-
+        return $this->render();
     }
 
     private function getFormValues(){//считать поля с формы

@@ -4,6 +4,5 @@ include_once "include.php";
 $includer = new AutoInclude();
 $includer->autoinclude();
 
-
 $r = Router::Instance();
-$r->process($_SERVER['REQUEST_METHOD'], $_SERVER['REQUEST_URI']);
+echo $r->process($_SERVER['REQUEST_METHOD'], $_SERVER['REQUEST_URI']);

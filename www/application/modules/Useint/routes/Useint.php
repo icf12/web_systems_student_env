@@ -4,16 +4,16 @@ $r = Router::Instance();
 
 
 $r->get("\/inter", array(
-    'Controller' => "UserInterface",
-    'Method' => "process"
+    'Controller' => "UserController",
+    'Method' => "cont"
 ));
 $r->get("\/data", array(
    'Controller' => "DataController",
     "Method" => "Index"
 ));
 $r->post("\/inter", array(
-    'Controller' => "UserInterface",
-    "Method" => "process"
+    'Controller' => "UserController",
+    "Method" => "cont"
 ));
 
 

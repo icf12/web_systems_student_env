@@ -11,7 +11,6 @@ Class UserInterface extends AbstractForm{
         $this->fields[$buydIndex] = new BuyField("", $buyIndex);
         $giftsIndex = 'gifts';
         $this->fields[$giftsIndex] = new GiftsField("", $giftsIndex);
-        $this->header("Личный кабинет");
         $this->method("POST");
         $this->action("/inter");
     }
